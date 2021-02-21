@@ -1,0 +1,1583 @@
+fileFormatVersion: 2
+guid: 9ad2dc89daa6837468dfb542d867047a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6654042252239402042
+    second: monstro_tirao_chao_morte_0
+  - first:
+      213: 3151115039691625663
+    second: monstro_tirao_chao_morte_1
+  - first:
+      213: -326121258439461901
+    second: monstro_tirao_chao_morte_2
+  - first:
+      213: 9152920892973320814
+    second: monstro_tirao_chao_morte_3
+  - first:
+      213: 2068875531112528121
+    second: monstro_tirao_chao_morte_4
+  - first:
+      213: 7943171066583044248
+    second: monstro_tirao_chao_morte_5
+  - first:
+      213: -5620983706852003929
+    second: monstro_tirao_chao_morte_6
+  - first:
+      213: 5384366601071135356
+    second: monstro_tirao_chao_morte_7
+  - first:
+      213: 6080332803627650523
+    second: monstro_tirao_chao_morte_8
+  - first:
+      213: -3760796619914339556
+    second: monstro_tirao_chao_morte_9
+  - first:
+      213: -5012042392091856372
+    second: monstro_tirao_chao_morte_10
+  - first:
+      213: 1232074044468050554
+    second: monstro_tirao_chao_morte_11
+  - first:
+      213: -8120033194747457407
+    second: monstro_tirao_chao_morte_12
+  - first:
+      213: -8928262482240448245
+    second: monstro_tirao_chao_morte_13
+  - first:
+      213: 9195838157332025462
+    second: monstro_tirao_chao_morte_14
+  - first:
+      213: 6720210881992510258
+    second: monstro_tirao_chao_morte_15
+  - first:
+      213: -2426201175144990657
+    second: monstro_tirao_chao_morte_16
+  - first:
+      213: 5057441837234193511
+    second: monstro_tirao_chao_morte_17
+  - first:
+      213: -6144809677635211022
+    second: monstro_tirao_chao_morte_18
+  - first:
+      213: 5508516201270958087
+    second: monstro_tirao_chao_morte_19
+  - first:
+      213: 3353509132986989068
+    second: monstro_tirao_chao_morte_20
+  - first:
+      213: 1556636307917510908
+    second: monstro_tirao_chao_morte_21
+  - first:
+      213: -7891027731945236395
+    second: monstro_tirao_chao_morte_22
+  - first:
+      213: -5313369502493328182
+    second: monstro_tirao_chao_morte_23
+  - first:
+      213: 6360762429635117286
+    second: monstro_tirao_chao_morte_24
+  - first:
+      213: 7490737979956520496
+    second: monstro_tirao_chao_morte_25
+  - first:
+      213: -7263007752665942173
+    second: monstro_tirao_chao_morte_26
+  - first:
+      213: 6473950671020210454
+    second: monstro_tirao_chao_morte_27
+  - first:
+      213: -2759876995508989265
+    second: monstro_tirao_chao_morte_28
+  - first:
+      213: 158511766935793793
+    second: monstro_tirao_chao_morte_29
+  - first:
+      213: 2276553827651216114
+    second: monstro_tirao_chao_morte_30
+  - first:
+      213: 2305996291373839404
+    second: monstro_tirao_chao_morte_31
+  - first:
+      213: -7249675172819235404
+    second: monstro_tirao_chao_morte_32
+  - first:
+      213: 3374356414912760427
+    second: monstro_tirao_chao_morte_33
+  - first:
+      213: -55842282076729289
+    second: monstro_tirao_chao_morte_34
+  - first:
+      213: -729849998930636815
+    second: monstro_tirao_chao_morte_35
+  - first:
+      213: 6406816387597220064
+    second: monstro_tirao_chao_morte_36
+  - first:
+      213: 4403386700285623862
+    second: monstro_tirao_chao_morte_37
+  - first:
+      213: 8886824110255257383
+    second: monstro_tirao_chao_morte_38
+  - first:
+      213: 6163143639593861437
+    second: monstro_tirao_chao_morte_39
+  - first:
+      213: 1440575392950240652
+    second: monstro_tirao_chao_morte_40
+  - first:
+      213: -4243765100687973360
+    second: monstro_tirao_chao_morte_41
+  - first:
+      213: -886196142357443472
+    second: monstro_tirao_chao_morte_42
+  - first:
+      213: 6933222704337965612
+    second: monstro_tirao_chao_morte_43
+  - first:
+      213: 397703464378155814
+    second: monstro_tirao_chao_morte_44
+  - first:
+      213: 24981384639024894
+    second: monstro_tirao_chao_morte_45
+  - first:
+      213: -1261596039404307581
+    second: monstro_tirao_chao_morte_46
+  - first:
+      213: 6903050716440062662
+    second: monstro_tirao_chao_morte_47
+  - first:
+      213: 1749095054592994488
+    second: monstro_tirao_chao_morte_48
+  - first:
+      213: -114750959815639983
+    second: monstro_tirao_chao_morte_49
+  - first:
+      213: 973777339690343343
+    second: monstro_tirao_chao_morte_50
+  - first:
+      213: 9117417221723418609
+    second: monstro_tirao_chao_morte_51
+  - first:
+      213: -1791784246405060994
+    second: monstro_tirao_chao_morte_52
+  - first:
+      213: -4607176158778912791
+    second: monstro_tirao_chao_morte_53
+  - first:
+      213: -1664904581837547951
+    second: monstro_tirao_chao_morte_54
+  - first:
+      213: -7258325127132539022
+    second: monstro_tirao_chao_morte_55
+  - first:
+      213: 7751096090739195004
+    second: monstro_tirao_chao_morte_56
+  - first:
+      213: -6614583308533017030
+    second: monstro_tirao_chao_morte_57
+  - first:
+      213: -5218100498695047756
+    second: monstro_tirao_chao_morte_58
+  - first:
+      213: 7967169061794663387
+    second: monstro_tirao_chao_morte_59
+  - first:
+      213: -2659806511293064516
+    second: monstro_tirao_chao_morte_60
+  - first:
+      213: 6538282262246467279
+    second: monstro_tirao_chao_morte_61
+  - first:
+      213: 237611330659063022
+    second: monstro_tirao_chao_morte_58
+  - first:
+      213: -3524054289715633112
+    second: monstro_tirao_chao_morte_59
+  - first:
+      213: -8591798856697487651
+    second: monstro_tirao_chao_morte_60
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 452
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb84d283d718a3a0800000000000000
+      internalID: -6654042252239402042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 452
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4d53bee620bbb20800000000000000
+      internalID: 3151115039691625663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 452
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3330d7172697bf0800000000000000
+      internalID: -326121258439461901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 452
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a0de2de05b50f70800000000000000
+      internalID: 9152920892973320814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 452
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8b57c855f16bc10800000000000000
+      internalID: 2068875531112528121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_5
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 452
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890d7d51000db3e60800000000000000
+      internalID: 7943171066583044248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_6
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 452
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afe3d099114ef1b0800000000000000
+      internalID: -5620983706852003929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_7
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 452
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a825565ec19ba40800000000000000
+      internalID: 5384366601071135356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 388
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd816c487ea16450800000000000000
+      internalID: 6080332803627650523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 388
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b14855667fecbc0800000000000000
+      internalID: -3760796619914339556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 388
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c027a24dff5a17ab0800000000000000
+      internalID: -5012042392091856372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_11
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 388
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a3f7dc0d4391110800000000000000
+      internalID: 1232074044468050554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_12
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 388
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18092b6c4d8df4f80800000000000000
+      internalID: -8120033194747457407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_13
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 388
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b095c9c8390781480800000000000000
+      internalID: -8928262482240448245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_14
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 388
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67012cb151e2e9f70800000000000000
+      internalID: 9195838157332025462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_15
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 388
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bc0e4213cf24d50800000000000000
+      internalID: 6720210881992510258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 324
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38f8d1c2e6645ed0800000000000000
+      internalID: -2426201175144990657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 324
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7640b843e84af2640800000000000000
+      internalID: 5057441837234193511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_18
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 324
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0bb20a72049baa0800000000000000
+      internalID: -6144809677635211022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_19
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 324
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7085d38bc4e227c40800000000000000
+      internalID: 5508516201270958087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_20
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 324
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ab7bee9ce0a8e20800000000000000
+      internalID: 3353509132986989068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_21
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 324
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf816e189784a9510800000000000000
+      internalID: 1556636307917510908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_22
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 324
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558d5a416107d7290800000000000000
+      internalID: -7891027731945236395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_23
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 324
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accbd73c69e1346b0800000000000000
+      internalID: -5313369502493328182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 260
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e04d0f9ab7f54850800000000000000
+      internalID: 6360762429635117286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_25
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 260
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036e5d0518274f760800000000000000
+      internalID: 7490737979956520496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_26
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 260
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36730751eec943b90800000000000000
+      internalID: -7263007752665942173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_27
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 260
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619bf87b5d718d950800000000000000
+      internalID: 6473950671020210454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_28
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 260
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa21aeabe72f2b9d0800000000000000
+      internalID: -2759876995508989265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_29
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 261
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1807de8bc95233200800000000000000
+      internalID: 158511766935793793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_30
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 261
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2e43105a1f79f10800000000000000
+      internalID: 2276553827651216114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_31
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 262
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24b4b8c86b800020800000000000000
+      internalID: 2305996291373839404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 198
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd042b37daf36b90800000000000000
+      internalID: -7249675172819235404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_33
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 199
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a8f60084f14de20800000000000000
+      internalID: 3374356414912760427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_34
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7309e558dbb993ff0800000000000000
+      internalID: -55842282076729289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_35
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 201
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff8b6afa4d0fd5f0800000000000000
+      internalID: -729849998930636815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_36
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 202
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e832eb4f8599e850800000000000000
+      internalID: 6406816387597220064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_37
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 203
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e343fafd8fb1d30800000000000000
+      internalID: 4403386700285623862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_38
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 204
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7273421a177545b70800000000000000
+      internalID: 8886824110255257383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_39
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 205
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3143b98c72e78550800000000000000
+      internalID: 6163143639593861437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_40
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 142
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85c7f8ffa3fdf310800000000000000
+      internalID: 1440575392950240652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 143
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0142b47102e1b15c0800000000000000
+      internalID: -4243765100687973360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_42
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 144
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c8675cd4993b3f0800000000000000
+      internalID: -886196142357443472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_43
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 146
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22dcb8d051c73060800000000000000
+      internalID: 6933222704337965612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_44
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 148
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623c338913de48500800000000000000
+      internalID: 397703464378155814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_45
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 149
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe086ddf60c85000800000000000000
+      internalID: 24981384639024894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_46
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b344d1619ed7ee0800000000000000
+      internalID: -1261596039404307581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_47
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 151
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca6aeb7d009ccf50800000000000000
+      internalID: 6903050716440062662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_48
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc686f5fa8064810800000000000000
+      internalID: 1749095054592994488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_49
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cbd8a2c92586ef0800000000000000
+      internalID: -114750959815639983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_50
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab5196c45d838d00800000000000000
+      internalID: 973777339690343343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_51
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff6ad138a2978e70800000000000000
+      internalID: 9117417221723418609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_52
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76a2ee98bd4227e0800000000000000
+      internalID: -1791784246405060994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_53
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef855681b50010c0800000000000000
+      internalID: -4607176158778912791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_54
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15617a69a1215e8e0800000000000000
+      internalID: -1664904581837547951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_56
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cbd64d3dc619b60800000000000000
+      internalID: 7751096090739195004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_57
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 23
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3659a5c6874434a0800000000000000
+      internalID: -6614583308533017030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_58
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 23
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee49a8e0f3a2c4300800000000000000
+      internalID: 237611330659063022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_59
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 23
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824ee447b4b081fc0800000000000000
+      internalID: -3524054289715633112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_morte_60
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 23
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde50fc067cc3c880800000000000000
+      internalID: -8591798856697487651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

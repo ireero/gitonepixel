@@ -1,0 +1,752 @@
+fileFormatVersion: 2
+guid: 1190fd52296c66849a9cf4e2e8f76101
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3310112257933479796
+    second: monstro_esquerdo_suicidio_0
+  - first:
+      213: 4405476771275782519
+    second: monstro_esquerdo_suicidio_1
+  - first:
+      213: 8443684363809159530
+    second: monstro_esquerdo_suicidio_2
+  - first:
+      213: 524347466741034184
+    second: monstro_esquerdo_suicidio_3
+  - first:
+      213: 3754854597551376952
+    second: monstro_esquerdo_suicidio_4
+  - first:
+      213: -5944995696789239951
+    second: monstro_esquerdo_suicidio_5
+  - first:
+      213: -9126083927510083448
+    second: monstro_esquerdo_suicidio_6
+  - first:
+      213: -6009400812919850267
+    second: monstro_esquerdo_suicidio_7
+  - first:
+      213: -3549128755005920331
+    second: monstro_esquerdo_suicidio_8
+  - first:
+      213: 5538976670649306132
+    second: monstro_esquerdo_suicidio_9
+  - first:
+      213: 7354541335626692175
+    second: monstro_esquerdo_suicidio_10
+  - first:
+      213: -2578969024493768714
+    second: monstro_esquerdo_suicidio_11
+  - first:
+      213: -2390360634135090138
+    second: monstro_esquerdo_suicidio_12
+  - first:
+      213: 7196171311232389723
+    second: monstro_esquerdo_suicidio_13
+  - first:
+      213: 1484980402606163315
+    second: monstro_esquerdo_suicidio_14
+  - first:
+      213: -6947371063781270432
+    second: monstro_esquerdo_suicidio_15
+  - first:
+      213: 4008301384816949229
+    second: monstro_esquerdo_suicidio_16
+  - first:
+      213: -7934523526166791176
+    second: monstro_esquerdo_suicidio_17
+  - first:
+      213: -4059082986453698418
+    second: monstro_esquerdo_suicidio_18
+  - first:
+      213: 5527342501782860190
+    second: monstro_esquerdo_suicidio_19
+  - first:
+      213: 4382090136046859037
+    second: monstro_esquerdo_suicidio_20
+  - first:
+      213: -560576389363210177
+    second: monstro_esquerdo_suicidio_21
+  - first:
+      213: 7543827101064497567
+    second: monstro_esquerdo_suicidio_22
+  - first:
+      213: -5474922808207912151
+    second: monstro_esquerdo_suicidio_23
+  - first:
+      213: -4443057984773829333
+    second: monstro_esquerdo_suicidio_24
+  - first:
+      213: -7022492261618067641
+    second: monstro_esquerdo_suicidio_25
+  - first:
+      213: -8578993608952235179
+    second: monstro_esquerdo_suicidio_26
+  - first:
+      213: 449643212338600774
+    second: monstro_esquerdo_suicidio_27
+  - first:
+      213: -8873617008442210344
+    second: monstro_esquerdo_suicidio_28
+  - first:
+      213: 5864013916172322467
+    second: monstro_esquerdo_suicidio_29
+  - first:
+      213: -708005636511308877
+    second: monstro_esquerdo_suicidio_30
+  - first:
+      213: 8243795002395164789
+    second: monstro_esquerdo_suicidio_31
+  - first:
+      213: -6216426692374588480
+    second: monstro_esquerdo_suicidio_32
+  - first:
+      213: -4843184388785098173
+    second: monstro_esquerdo_suicidio_33
+  - first:
+      213: 5607752011212177354
+    second: monstro_esquerdo_suicidio_34
+  - first:
+      213: -7190204120842233667
+    second: monstro_esquerdo_suicidio_35
+  - first:
+      213: -6255019241826048599
+    second: monstro_esquerdo_suicidio_36
+  - first:
+      213: 4838264001100125326
+    second: monstro_esquerdo_suicidio_17
+  - first:
+      213: 5194498256668993138
+    second: monstro_esquerdo_suicidio_18
+  - first:
+      213: -6226874018175503628
+    second: monstro_esquerdo_suicidio_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monstro_esquerdo_suicidio_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 261
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f8ac49f81efed20800000000000000
+      internalID: 3310112257933479796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_esquerdo_suicidio_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 261
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779b02248c5632d30800000000000000
+      internalID: 4405476771275782519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_esquerdo_suicidio_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 261
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a697d5c313efd2570800000000000000
+      internalID: 8443684363809159530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_esquerdo_suicidio_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 261
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cca9fd2e3bd64700800000000000000
+      internalID: 524347466741034184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_esquerdo_suicidio_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 261
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83aca46cc5ceb1430800000000000000
+      internalID: 3754854597551376952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_esquerdo_suicidio_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 197
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177c6a569e12f7da0800000000000000
+      internalID: -5944995696789239951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_esquerdo_suicidio_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 198
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8881c5e1503a95180800000000000000
+      internalID: -9126083927510083448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_esquerdo_suicidio_7
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 199
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eaf7f0ccc15a9ca0800000000000000
+      internalID: -6009400812919850267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_esquerdo_suicidio_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb6fbf8336febec0800000000000000
+      internalID: -3549128755005920331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_esquerdo_suicidio_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 200
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c4a396fe56edc40800000000000000
+      internalID: 5538976670649306132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_esquerdo_suicidio_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 136
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46b4f3f064901660800000000000000
+      internalID: 7354541335626692175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_esquerdo_suicidio_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 136
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff20501659a53cd0800000000000000
+      internalID: -2578969024493768714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_esquerdo_suicidio_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 136
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cec4dfaabb3ded0800000000000000
+      internalID: -2390360634135090138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_esquerdo_suicidio_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 136
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b521ddc3eafedd360800000000000000
+      internalID: 7196171311232389723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_esquerdo_suicidio_14
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 136
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375c1c3fec5bb9410800000000000000
+      internalID: 1484980402606163315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_esquerdo_suicidio_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c5d7483daf59f90800000000000000
+      internalID: -6947371063781270432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_esquerdo_suicidio_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de778b26fd850a730800000000000000
+      internalID: 4008301384816949229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_esquerdo_suicidio_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 9
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13f0dce2cf40dc30800000000000000
+      internalID: 4382090136046859037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_esquerdo_suicidio_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 8
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f990aed87ce01b860800000000000000
+      internalID: 7543827101064497567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_esquerdo_suicidio_23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 8
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923551c96ba2504b0800000000000000
+      internalID: -5474922808207912151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_esquerdo_suicidio_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 72
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84122b8977f42340800000000000000
+      internalID: 4838264001100125326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_esquerdo_suicidio_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 72
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276242f84a0961840800000000000000
+      internalID: 5194498256668993138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_esquerdo_suicidio_19
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 72
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f23a856213b599a0800000000000000
+      internalID: -6226874018175503628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_esquerdo_suicidio_21
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38e8827ebe6838f0800000000000000
+      internalID: -560576389363210177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

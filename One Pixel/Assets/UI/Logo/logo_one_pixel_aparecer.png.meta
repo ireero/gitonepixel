@@ -1,0 +1,1664 @@
+fileFormatVersion: 2
+guid: c087b15a634b32043b3777491c0cc636
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4778949539557315742
+    second: logo_one_pixel_aparecer_0
+  - first:
+      213: -1384947112061040916
+    second: logo_one_pixel_aparecer_1
+  - first:
+      213: 570775676754321843
+    second: logo_one_pixel_aparecer_2
+  - first:
+      213: 3828617443103523774
+    second: logo_one_pixel_aparecer_3
+  - first:
+      213: 3318721746195111683
+    second: logo_one_pixel_aparecer_4
+  - first:
+      213: 3837852954857943724
+    second: logo_one_pixel_aparecer_5
+  - first:
+      213: -2386769612039212938
+    second: logo_one_pixel_aparecer_6
+  - first:
+      213: -8732631241912931817
+    second: logo_one_pixel_aparecer_7
+  - first:
+      213: 7321266877132048037
+    second: logo_one_pixel_aparecer_8
+  - first:
+      213: -6437586220035375823
+    second: logo_one_pixel_aparecer_9
+  - first:
+      213: -46360844507830641
+    second: logo_one_pixel_aparecer_10
+  - first:
+      213: -7294864547361321849
+    second: logo_one_pixel_aparecer_11
+  - first:
+      213: -9071277976275428221
+    second: logo_one_pixel_aparecer_12
+  - first:
+      213: 5598348164691441219
+    second: logo_one_pixel_aparecer_13
+  - first:
+      213: 468693307935041691
+    second: logo_one_pixel_aparecer_14
+  - first:
+      213: 8887137258255672554
+    second: logo_one_pixel_aparecer_15
+  - first:
+      213: 6443583996043259490
+    second: logo_one_pixel_aparecer_16
+  - first:
+      213: 2222438692508937043
+    second: logo_one_pixel_aparecer_17
+  - first:
+      213: -7672491523509821930
+    second: logo_one_pixel_aparecer_18
+  - first:
+      213: -572096000505443356
+    second: logo_one_pixel_aparecer_19
+  - first:
+      213: 4049851411385470218
+    second: logo_one_pixel_aparecer_20
+  - first:
+      213: -4565474725983540784
+    second: logo_one_pixel_aparecer_21
+  - first:
+      213: -541084799311257606
+    second: logo_one_pixel_aparecer_22
+  - first:
+      213: 7339245165823208513
+    second: logo_one_pixel_aparecer_23
+  - first:
+      213: 6758906294917492364
+    second: logo_one_pixel_aparecer_24
+  - first:
+      213: 8264816799341740266
+    second: logo_one_pixel_aparecer_25
+  - first:
+      213: -4109139352739496099
+    second: logo_one_pixel_aparecer_26
+  - first:
+      213: -1894691213785473070
+    second: logo_one_pixel_aparecer_27
+  - first:
+      213: -3858934253138610236
+    second: logo_one_pixel_aparecer_28
+  - first:
+      213: -1953035097024958104
+    second: logo_one_pixel_aparecer_29
+  - first:
+      213: 108242578250836892
+    second: logo_one_pixel_aparecer_30
+  - first:
+      213: -8937316710445563584
+    second: logo_one_pixel_aparecer_31
+  - first:
+      213: 4998121436503405665
+    second: logo_one_pixel_aparecer_32
+  - first:
+      213: 6820468190453062372
+    second: logo_one_pixel_aparecer_33
+  - first:
+      213: 8009548208857553651
+    second: logo_one_pixel_aparecer_34
+  - first:
+      213: -2773195146959312956
+    second: logo_one_pixel_aparecer_35
+  - first:
+      213: -2941556673272965572
+    second: logo_one_pixel_aparecer_36
+  - first:
+      213: 7924699278234587293
+    second: logo_one_pixel_aparecer_37
+  - first:
+      213: 1656351529165548116
+    second: logo_one_pixel_aparecer_38
+  - first:
+      213: 8055439812219139530
+    second: logo_one_pixel_aparecer_39
+  - first:
+      213: -1714720071925560679
+    second: logo_one_pixel_aparecer_40
+  - first:
+      213: 4059559362932580166
+    second: logo_one_pixel_aparecer_41
+  - first:
+      213: 5082677931571027805
+    second: logo_one_pixel_aparecer_42
+  - first:
+      213: -2096686125901002746
+    second: logo_one_pixel_aparecer_43
+  - first:
+      213: -5930255507471776147
+    second: logo_one_pixel_aparecer_44
+  - first:
+      213: 2678703719122472837
+    second: logo_one_pixel_aparecer_45
+  - first:
+      213: 4265495069897824945
+    second: logo_one_pixel_aparecer_46
+  - first:
+      213: 886950175288064140
+    second: logo_one_pixel_aparecer_47
+  - first:
+      213: -9127166487705965737
+    second: logo_one_pixel_aparecer_48
+  - first:
+      213: 2667780393772360126
+    second: logo_one_pixel_aparecer_49
+  - first:
+      213: 3940008769994423077
+    second: logo_one_pixel_aparecer_50
+  - first:
+      213: 8152862611828125768
+    second: logo_one_pixel_aparecer_51
+  - first:
+      213: -3007130106491027850
+    second: logo_one_pixel_aparecer_52
+  - first:
+      213: -2133003899708031604
+    second: logo_one_pixel_aparecer_53
+  - first:
+      213: 1400896504502467287
+    second: logo_one_pixel_aparecer_54
+  - first:
+      213: 1345304877734851451
+    second: logo_one_pixel_aparecer_55
+  - first:
+      213: 3054870347259562187
+    second: logo_one_pixel_aparecer_56
+  - first:
+      213: -3594845295449623672
+    second: logo_one_pixel_aparecer_57
+  - first:
+      213: 4585113125227271880
+    second: logo_one_pixel_aparecer_58
+  - first:
+      213: 1486144524598926905
+    second: logo_one_pixel_aparecer_59
+  - first:
+      213: 2343213906079654065
+    second: logo_one_pixel_aparecer_60
+  - first:
+      213: 5731761646174825881
+    second: logo_one_pixel_aparecer_61
+  - first:
+      213: -5486730392577449003
+    second: logo_one_pixel_aparecer_62
+  - first:
+      213: 5471691011401136179
+    second: logo_one_pixel_aparecer_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 3890
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9494d8494d325240800000000000000
+      internalID: 4778949539557315742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_1
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 3832
+        width: 10
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce606e870fda7cce0800000000000000
+      internalID: -1384947112061040916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_2
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 3841
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1ef53347dcbe700800000000000000
+      internalID: 570775676754321843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_3
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 3842
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3cc05974bf12530800000000000000
+      internalID: 3828617443103523774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_4
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 3841
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fd25648d77e0e20800000000000000
+      internalID: 3318721746195111683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_5
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 3842
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2bd7abdeac24530800000000000000
+      internalID: 3837852954857943724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_6
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 3842
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670b4b9fead70eed0800000000000000
+      internalID: -2386769612039212938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 3441
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a2d4727267fc680800000000000000
+      internalID: -8732631241912931817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_8
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 3441
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a60a4d5f6d5a9560800000000000000
+      internalID: 7321266877132048037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_9
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 3441
+        width: 94
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d77dfc07919a6a0800000000000000
+      internalID: -6437586220035375823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_10
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 3441
+        width: 94
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86af9bbe0b4b5ff0800000000000000
+      internalID: -46360844507830641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_11
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 3441
+        width: 94
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c00f1185f63ca90800000000000000
+      internalID: -7294864547361321849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_12
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 3441
+        width: 94
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c57450eb85c1280800000000000000
+      internalID: -9071277976275428221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_13
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 3441
+        width: 94
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346b4659ef351bd40800000000000000
+      internalID: 5598348164691441219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_14
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 3041
+        width: 110
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9822109412218600800000000000000
+      internalID: 468693307935041691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_15
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 3041
+        width: 110
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4e7741044755b70800000000000000
+      internalID: 8887137258255672554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_16
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 3041
+        width: 110
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26eec8c31853c6950800000000000000
+      internalID: 6443583996043259490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_17
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 3041
+        width: 143
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b24124730b7de10800000000000000
+      internalID: 2222438692508937043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_18
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 3041
+        width: 143
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e50072c95d58590800000000000000
+      internalID: -7672491523509821930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_19
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 3041
+        width: 143
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb8378f7b18f08f0800000000000000
+      internalID: -572096000505443356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_20
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 3041
+        width: 143
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dceb0d666f33830800000000000000
+      internalID: 4049851411385470218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2640
+        width: 143
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d92ab6fcec24a0c0800000000000000
+      internalID: -4565474725983540784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_22
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 2640
+        width: 194
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff50b7ed3ead78f0800000000000000
+      internalID: -541084799311257606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_23
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 2640
+        width: 227
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c2564e79c3ad560800000000000000
+      internalID: 7339245165823208513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_24
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 2640
+        width: 227
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e65ba07757ccd50800000000000000
+      internalID: 6758906294917492364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_25
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 2640
+        width: 227
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae00272171782b270800000000000000
+      internalID: 8264816799341740266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_26
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 2640
+        width: 227
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f3263a78769f6c0800000000000000
+      internalID: -4109139352739496099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_27
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 2640
+        width: 227
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df534b2164b4b5e0800000000000000
+      internalID: -1894691213785473070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_28
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2240
+        width: 227
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7f5160ebf427ac0800000000000000
+      internalID: -3858934253138610236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_29
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 2240
+        width: 227
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861f4f74dec65e4e0800000000000000
+      internalID: -1953035097024958104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_30
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 2240
+        width: 227
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ba63a2d0e808100800000000000000
+      internalID: 108242578250836892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_31
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 2240
+        width: 227
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041cab4cdc548f380800000000000000
+      internalID: -8937316710445563584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_32
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 2240
+        width: 242
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164fc0f17f4ec5540800000000000000
+      internalID: 4998121436503405665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_33
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 2240
+        width: 278
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea5ecdceab27ae50800000000000000
+      internalID: 6820468190453062372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_34
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 2240
+        width: 277
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa1258d8a1a72f60800000000000000
+      internalID: 8009548208857553651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_35
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1841
+        width: 278
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c727a4f4b1a389d0800000000000000
+      internalID: -2773195146959312956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_36
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1842
+        width: 278
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3692ea6acd7d27d0800000000000000
+      internalID: -2941556673272965572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_37
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1841
+        width: 278
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9097f6b1003afd60800000000000000
+      internalID: 7924699278234587293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_38
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1841
+        width: 277
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a6617a0fa8cf610800000000000000
+      internalID: 1656351529165548116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_39
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 1841
+        width: 293
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac57cd464dbaacf60800000000000000
+      internalID: 8055439812219139530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_40
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 1841
+        width: 326
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a05a7fd271438e0800000000000000
+      internalID: -1714720071925560679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_41
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 1841
+        width: 326
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f153c6bb3765830800000000000000
+      internalID: 4059559362932580166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_42
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1441
+        width: 326
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f120b46ac498640800000000000000
+      internalID: 5082677931571027805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_43
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1441
+        width: 326
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6084e24c31317e2e0800000000000000
+      internalID: -2096686125901002746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_44
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1441
+        width: 327
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6647d9290083bda0800000000000000
+      internalID: -5930255507471776147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_45
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1441
+        width: 326
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f00d417daac2520800000000000000
+      internalID: 2678703719122472837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_46
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 1441
+        width: 327
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba9070aa25123b30800000000000000
+      internalID: 4265495069897824945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_47
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 1441
+        width: 328
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88f3833c741f4c00800000000000000
+      internalID: 886950175288064140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_48
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 1441
+        width: 344
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75baf6eef6ac55180800000000000000
+      internalID: -9127166487705965737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_49
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1041
+        width: 343
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1ad85322cd50520800000000000000
+      internalID: 2667780393772360126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_50
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1041
+        width: 344
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bf07be919bda630800000000000000
+      internalID: 3940008769994423077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_51
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1041
+        width: 377
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84034988959c42170800000000000000
+      internalID: 8152862611828125768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_52
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1041
+        width: 377
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e3831c9178446d0800000000000000
+      internalID: -3007130106491027850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_53
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 1040
+        width: 377
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d316d114c0662e0800000000000000
+      internalID: -2133003899708031604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_54
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 1041
+        width: 378
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dab4f5d2fbf07310800000000000000
+      internalID: 1400896504502467287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_55
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 1041
+        width: 377
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b737cf798ab7ba210800000000000000
+      internalID: 1345304877734851451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_56
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 640
+        width: 377
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8c74b3564156a20800000000000000
+      internalID: 3054870347259562187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_57
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 641
+        width: 377
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883bd36004b8c1ec0800000000000000
+      internalID: -3594845295449623672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_58
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 640
+        width: 377
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6172c281891af30800000000000000
+      internalID: 4585113125227271880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_59
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 640
+        width: 393
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e5c993298df9410800000000000000
+      internalID: 1486144524598926905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_60
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 640
+        width: 394
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b022a8f1a4c48020800000000000000
+      internalID: 2343213906079654065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_61
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 640
+        width: 428
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d657959de4b8f40800000000000000
+      internalID: 5731761646174825881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_62
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 640
+        width: 428
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3e41427c73bd3b0800000000000000
+      internalID: -5486730392577449003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_one_pixel_aparecer_63
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 240
+        width: 428
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338334f0cf95feb40800000000000000
+      internalID: 5471691011401136179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

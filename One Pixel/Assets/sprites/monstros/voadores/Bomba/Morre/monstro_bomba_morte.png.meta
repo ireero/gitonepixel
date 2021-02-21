@@ -1,0 +1,1376 @@
+fileFormatVersion: 2
+guid: 98eda25a0c1e6594c92a2f36bdcd401b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6880981969154781603
+    second: monstro_bomba_morte_0
+  - first:
+      213: -6056565652611724067
+    second: monstro_bomba_morte_1
+  - first:
+      213: 2619331228701367730
+    second: monstro_bomba_morte_2
+  - first:
+      213: -4073844573857944543
+    second: monstro_bomba_morte_3
+  - first:
+      213: -8413614729952093662
+    second: monstro_bomba_morte_4
+  - first:
+      213: -5886074289764233724
+    second: monstro_bomba_morte_5
+  - first:
+      213: -8646291662008699900
+    second: monstro_bomba_morte_6
+  - first:
+      213: 8160557861623584096
+    second: monstro_bomba_morte_7
+  - first:
+      213: -208353482320282234
+    second: monstro_bomba_morte_8
+  - first:
+      213: -4339366921626355452
+    second: monstro_bomba_morte_9
+  - first:
+      213: 8178898231160618170
+    second: monstro_bomba_morte_10
+  - first:
+      213: -5210390053954670683
+    second: monstro_bomba_morte_11
+  - first:
+      213: 1646938481778138922
+    second: monstro_bomba_morte_12
+  - first:
+      213: 9012212167439029390
+    second: monstro_bomba_morte_13
+  - first:
+      213: 6232189398597409785
+    second: monstro_bomba_morte_14
+  - first:
+      213: -1810288624491635780
+    second: monstro_bomba_morte_15
+  - first:
+      213: -3406065104789279545
+    second: monstro_bomba_morte_16
+  - first:
+      213: 6020516857138176807
+    second: monstro_bomba_morte_17
+  - first:
+      213: -7551556915600115090
+    second: monstro_bomba_morte_18
+  - first:
+      213: -3783443664596661499
+    second: monstro_bomba_morte_19
+  - first:
+      213: 1225903210931623567
+    second: monstro_bomba_morte_20
+  - first:
+      213: -435586229751783532
+    second: monstro_bomba_morte_21
+  - first:
+      213: -4219812914279843761
+    second: monstro_bomba_morte_22
+  - first:
+      213: 4030701841815028958
+    second: monstro_bomba_morte_23
+  - first:
+      213: 1253453111631460562
+    second: monstro_bomba_morte_24
+  - first:
+      213: -4059826332413687152
+    second: monstro_bomba_morte_25
+  - first:
+      213: 1361118731734010542
+    second: monstro_bomba_morte_26
+  - first:
+      213: 8661558589850240607
+    second: monstro_bomba_morte_27
+  - first:
+      213: 8907062419904359129
+    second: monstro_bomba_morte_28
+  - first:
+      213: 2900011269930053624
+    second: monstro_bomba_morte_29
+  - first:
+      213: 3765352454699802251
+    second: monstro_bomba_morte_30
+  - first:
+      213: -2831291425287987273
+    second: monstro_bomba_morte_31
+  - first:
+      213: 2689718697452236836
+    second: monstro_bomba_morte_32
+  - first:
+      213: 6335629100784087653
+    second: monstro_bomba_morte_33
+  - first:
+      213: -7306669545202532187
+    second: monstro_bomba_morte_34
+  - first:
+      213: -7555794116877376282
+    second: monstro_bomba_morte_35
+  - first:
+      213: 8229967789042620705
+    second: monstro_bomba_morte_36
+  - first:
+      213: 1332073113494113832
+    second: monstro_bomba_morte_37
+  - first:
+      213: -4118138249155823727
+    second: monstro_bomba_morte_38
+  - first:
+      213: 2574285892033902156
+    second: monstro_bomba_morte_39
+  - first:
+      213: -7840779377553038665
+    second: monstro_bomba_morte_40
+  - first:
+      213: 6296418743901275796
+    second: monstro_bomba_morte_41
+  - first:
+      213: -4185756307209773431
+    second: monstro_bomba_morte_42
+  - first:
+      213: -4698700264716161980
+    second: monstro_bomba_morte_43
+  - first:
+      213: -2352320591824197620
+    second: monstro_bomba_morte_44
+  - first:
+      213: -6114996285904376182
+    second: monstro_bomba_morte_45
+  - first:
+      213: -1714760624157614544
+    second: monstro_bomba_morte_46
+  - first:
+      213: 3419376563279857038
+    second: monstro_bomba_morte_47
+  - first:
+      213: 1225596370185206001
+    second: monstro_bomba_morte_48
+  - first:
+      213: 3263338082092305060
+    second: monstro_bomba_morte_49
+  - first:
+      213: -7585324929032298512
+    second: monstro_bomba_morte_50
+  - first:
+      213: -6403182682813807993
+    second: monstro_bomba_morte_51
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monstro_bomba_morte_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 588
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1b659d4a82e7f50800000000000000
+      internalID: 6880981969154781603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 588
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc0f35c0a1c2fba0800000000000000
+      internalID: -6056565652611724067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 588
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd15dbefdbb95420800000000000000
+      internalID: 2619331228701367730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_3
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 588
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c6b09b1fbc677c0800000000000000
+      internalID: -4073844573857944543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_4
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 588
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a1638faf5dc3b80800000000000000
+      internalID: -8413614729952093662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_5
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 588
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e0b058e96705ea0800000000000000
+      internalID: -5886074289764233724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_6
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 588
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404bc8d1b83320880800000000000000
+      internalID: -8646291662008699900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_7
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065581f7320204170800000000000000
+      internalID: 8160557861623584096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d759a9c97cb1df0800000000000000
+      internalID: -208353482320282234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_9
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409716696c877c3c0800000000000000
+      internalID: -4339366921626355452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_10
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc366a8b98418170800000000000000
+      internalID: 8178898231160618170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_11
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afadcc0ad9f0b7b0800000000000000
+      internalID: -5210390053954670683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_12
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f9e45c2d91bd610800000000000000
+      internalID: 1646938481778138922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_13
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8418a0b73fc11d70800000000000000
+      internalID: 9012212167439029390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_14
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 428
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb9a5c0d3f2d7650800000000000000
+      internalID: 6232189398597409785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_15
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 428
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbde3c561090e6e0800000000000000
+      internalID: -1810288624491635780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_16
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 428
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc6e2355d93bb0d0800000000000000
+      internalID: -3406065104789279545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_17
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 428
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723e8f9fe2c2d8350800000000000000
+      internalID: 6020516857138176807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_18
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 428
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ab280cefa733790800000000000000
+      internalID: -7551556915600115090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_19
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 428
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b830858028e7bc0800000000000000
+      internalID: -3783443664596661499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_20
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 428
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f861798a978430110800000000000000
+      internalID: 1225903210931623567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_21
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 348
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fd792c1ac74f9f0800000000000000
+      internalID: -435586229751783532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_22
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 348
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f487eb113863075c0800000000000000
+      internalID: -4219812914279843761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_23
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 348
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4c5e438fdefe730800000000000000
+      internalID: 4030701841815028958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_24
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 348
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8b665c6f8256110800000000000000
+      internalID: 1253453111631460562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_25
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 348
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a84b6e57998a7c0800000000000000
+      internalID: -4059826332413687152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_26
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 348
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaac226664aa3e210800000000000000
+      internalID: 1361118731734010542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_27
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 348
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56c14585a9043870800000000000000
+      internalID: 8661558589850240607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_28
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 268
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da61aa441e3c9b70800000000000000
+      internalID: 8907062419904359129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_29
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 268
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff6fc492e8ee3820800000000000000
+      internalID: 2900011269930053624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_30
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 268
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ed68c9b18314430800000000000000
+      internalID: 3765352454699802251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_31
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 268
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf9914137b35b8d0800000000000000
+      internalID: -2831291425287987273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_32
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 268
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420fd5397ecc35520800000000000000
+      internalID: 2689718697452236836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_33
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 268
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562fcdc791dace750800000000000000
+      internalID: 6335629100784087653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_34
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 268
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0c903d2ce799a90800000000000000
+      internalID: -7306669545202532187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_35
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 188
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4a983784d642790800000000000000
+      internalID: -7555794116877376282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_36
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 189
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129dac29918b63270800000000000000
+      internalID: 8229967789042620705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_37
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e4aa860797c7210800000000000000
+      internalID: 1332073113494113832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_38
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 191
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1973e1bc41f69d6c0800000000000000
+      internalID: -4118138249155823727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46faf03163b9b320800000000000000
+      internalID: 2574285892033902156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_40
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 193
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b22eb6c2b4ff2390800000000000000
+      internalID: -7840779377553038665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_41
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 194
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496c85bdc7f516750800000000000000
+      internalID: 6296418743901275796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_42
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 115
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e1960d0d439e5c0800000000000000
+      internalID: -4185756307209773431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_43
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 115
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c2f87010ddaceb0800000000000000
+      internalID: -4698700264716161980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_44
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 115
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c086b7682e0ea5fd0800000000000000
+      internalID: -2352320591824197620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_45
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 115
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e26dfc64b232ba0800000000000000
+      internalID: -6114996285904376182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_46
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 115
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e124a2c42f338e0800000000000000
+      internalID: -1714760624157614544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_47
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 115
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85879f1ed0147f20800000000000000
+      internalID: 3419376563279857038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_48
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 115
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8b5eab761320110800000000000000
+      internalID: 1225596370185206001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_49
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 35
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aacd1d12b4b94d20800000000000000
+      internalID: 3263338082092305060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_50
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 35
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff5d137a238bb690800000000000000
+      internalID: -7585324929032298512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_morte_51
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 35
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78243f686435327a0800000000000000
+      internalID: -6403182682813807993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

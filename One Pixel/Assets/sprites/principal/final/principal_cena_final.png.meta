@@ -1,0 +1,1328 @@
+fileFormatVersion: 2
+guid: e0be80af9f1d5b042b68afd94f343c0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4422269874938714240
+    second: principal_cena_final_0
+  - first:
+      213: 1416036075664934095
+    second: principal_cena_final_1
+  - first:
+      213: -1252844486341876406
+    second: principal_cena_final_2
+  - first:
+      213: -4964153763511426275
+    second: principal_cena_final_3
+  - first:
+      213: -994485462355951363
+    second: principal_cena_final_4
+  - first:
+      213: -698389418791393989
+    second: principal_cena_final_5
+  - first:
+      213: 7796264676596803516
+    second: principal_cena_final_6
+  - first:
+      213: -2443183790933788194
+    second: principal_cena_final_7
+  - first:
+      213: -6174937845170076670
+    second: principal_cena_final_8
+  - first:
+      213: 7520009472721283290
+    second: principal_cena_final_9
+  - first:
+      213: -1462177878246386138
+    second: principal_cena_final_10
+  - first:
+      213: -3668201465839175565
+    second: principal_cena_final_11
+  - first:
+      213: 5135981154308588300
+    second: principal_cena_final_12
+  - first:
+      213: -3207229971201231964
+    second: principal_cena_final_13
+  - first:
+      213: -6886914456561896713
+    second: principal_cena_final_14
+  - first:
+      213: -4676629096830900599
+    second: principal_cena_final_15
+  - first:
+      213: 420832778505518218
+    second: principal_cena_final_16
+  - first:
+      213: -8322734613650262169
+    second: principal_cena_final_17
+  - first:
+      213: -2669386576955090825
+    second: principal_cena_final_18
+  - first:
+      213: 1534020791656439988
+    second: principal_cena_final_19
+  - first:
+      213: 8143980406068549572
+    second: principal_cena_final_20
+  - first:
+      213: 6170234756942726172
+    second: principal_cena_final_21
+  - first:
+      213: 6993725908908567328
+    second: principal_cena_final_22
+  - first:
+      213: 7730633528226153883
+    second: principal_cena_final_23
+  - first:
+      213: -5251998140135590245
+    second: principal_cena_final_24
+  - first:
+      213: 6086903665303732177
+    second: principal_cena_final_25
+  - first:
+      213: 35925149244885877
+    second: principal_cena_final_26
+  - first:
+      213: -2660892544172810302
+    second: principal_cena_final_27
+  - first:
+      213: 6533719403630692988
+    second: principal_cena_final_28
+  - first:
+      213: 3575289449751267755
+    second: principal_cena_final_29
+  - first:
+      213: -8257903378471123002
+    second: principal_cena_final_30
+  - first:
+      213: -3456576183244781599
+    second: principal_cena_final_31
+  - first:
+      213: -1328730019657737627
+    second: principal_cena_final_32
+  - first:
+      213: 5081166343817602606
+    second: principal_cena_final_33
+  - first:
+      213: -3756280843405414756
+    second: principal_cena_final_34
+  - first:
+      213: -5560454451273183186
+    second: principal_cena_final_35
+  - first:
+      213: -2427810184064269197
+    second: principal_cena_final_36
+  - first:
+      213: 2599312099503819435
+    second: principal_cena_final_37
+  - first:
+      213: -5272087695896122556
+    second: principal_cena_final_38
+  - first:
+      213: -2052716816454402062
+    second: principal_cena_final_39
+  - first:
+      213: -2793046931712946857
+    second: principal_cena_final_40
+  - first:
+      213: -7964542539029791460
+    second: principal_cena_final_41
+  - first:
+      213: -7707627943621100630
+    second: principal_cena_final_42
+  - first:
+      213: 812360541540955277
+    second: principal_cena_final_43
+  - first:
+      213: -6707724778913316528
+    second: principal_cena_final_44
+  - first:
+      213: 9021261120433461351
+    second: principal_cena_final_45
+  - first:
+      213: 1229182794514186212
+    second: principal_cena_final_46
+  - first:
+      213: 253794231396782403
+    second: principal_cena_final_47
+  - first:
+      213: 5291203298093337599
+    second: principal_cena_final_48
+  - first:
+      213: -6935972973397679000
+    second: principal_cena_final_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: principal_cena_final_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 456
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08812a4650f0f5d30800000000000000
+      internalID: 4422269874938714240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 456
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4852fee45c6a310800000000000000
+      internalID: 1416036075664934095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 456
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4529c8d3900d9ee0800000000000000
+      internalID: -1252844486341876406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 456
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13ab7b0478cb1bb0800000000000000
+      internalID: -4964153763511426275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 456
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0cbf1bdb0e232f0800000000000000
+      internalID: -994485462355951363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 456
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b352c0a1682de46f0800000000000000
+      internalID: -698389418791393989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 456
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb76a7fba65e13c60800000000000000
+      internalID: 7796264676596803516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed936646941181ed0800000000000000
+      internalID: -2443183790933788194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204858cfeb63e4aa0800000000000000
+      internalID: -6174937845170076670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_9
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8ef11d5c07c5860800000000000000
+      internalID: 7520009472721283290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62690b877fc45bbe0800000000000000
+      internalID: -1462177878246386138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378b618a33ee71dc0800000000000000
+      internalID: -3668201465839175565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_12
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c030aa3f5aba64740800000000000000
+      internalID: 5135981154308588300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_13
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a370957551ad73d0800000000000000
+      internalID: -3207229971201231964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 328
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2302a4ac3cc60a0800000000000000
+      internalID: -6886914456561896713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 328
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98663214d96491fb0800000000000000
+      internalID: -4676629096830900599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 328
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c79a0be2917d500800000000000000
+      internalID: 420832778505518218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 328
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7673781f6f4bf7c80800000000000000
+      internalID: -8322734613650262169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_18
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 328
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77855602d0f64fad0800000000000000
+      internalID: -2669386576955090825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 328
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0eebc48cfe94510800000000000000
+      internalID: 1534020791656439988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_20
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 328
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c71579d70b350170800000000000000
+      internalID: 8143980406068549572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c140754f1d311a550800000000000000
+      internalID: 6170234756942726172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02be0f8e8a4be0160800000000000000
+      internalID: 6993725908908567328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_23
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9505aa3c3ab84b60800000000000000
+      internalID: 7730633528226153883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96b43094872d17b0800000000000000
+      internalID: -5251998140135590245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_25
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfb37042a6097450800000000000000
+      internalID: 6086903665303732177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_26
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b8e3f9bb1af7000800000000000000
+      internalID: 35925149244885877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_27
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf181f345c921bd0800000000000000
+      internalID: -2660892544172810302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a0c733e2f6caa50800000000000000
+      internalID: 6533719403630692988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_29
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba940a5dfcafd9130800000000000000
+      internalID: 3575289449751267755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_30
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c70bb821a8066d80800000000000000
+      internalID: -8257903378471123002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_31
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e78e9a6646c700d0800000000000000
+      internalID: -3456576183244781599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_32
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a17e746176f8de0800000000000000
+      internalID: -1328730019657737627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_33
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e262be75edde38640800000000000000
+      internalID: 5081166343817602606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_34
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e273c79720fdbc0800000000000000
+      internalID: -3756280843405414756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 136
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e205f1a132c45d2b0800000000000000
+      internalID: -5560454451273183186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_36
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 136
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37406cc208fae4ed0800000000000000
+      internalID: -2427810184064269197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_37
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 136
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baacc4f259c921420800000000000000
+      internalID: 2599312099503819435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_38
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 136
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b676d5c28c5d6b0800000000000000
+      internalID: -5272087695896122556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_39
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 136
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffb3c26ee84383e0800000000000000
+      internalID: -2052716816454402062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_40
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 136
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d41422d9a1d39d0800000000000000
+      internalID: -2793046931712946857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_41
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 136
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d34aa32c2487190800000000000000
+      internalID: -7964542539029791460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabf697d831090590800000000000000
+      internalID: -7707627943621100630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_43
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84b714cb95164b00800000000000000
+      internalID: 812360541540955277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_44
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05149c54adf59e2a0800000000000000
+      internalID: -6707724778913316528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_45
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7689a7d3135f13d70800000000000000
+      internalID: 9021261120433461351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_46
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef3a073d3fee0110800000000000000
+      internalID: 1229182794514186212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_47
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341d2704288a58300800000000000000
+      internalID: 253794231396782403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_48
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb8a399d512e6940800000000000000
+      internalID: 5291203298093337599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: principal_cena_final_49
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864ebec34597ebf90800000000000000
+      internalID: -6935972973397679000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

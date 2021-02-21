@@ -1,0 +1,1598 @@
+fileFormatVersion: 2
+guid: 638ed1ef65fc722429f171a5b5476b36
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3126596437337547762
+    second: canhao_morte_0
+  - first:
+      213: 5539605466979000520
+    second: canhao_morte_1
+  - first:
+      213: 9207980986568265023
+    second: canhao_morte_2
+  - first:
+      213: -450283195752409622
+    second: canhao_morte_3
+  - first:
+      213: -8431700236627991110
+    second: canhao_morte_4
+  - first:
+      213: -3288881869567776700
+    second: canhao_morte_5
+  - first:
+      213: -5795697530430430891
+    second: canhao_morte_6
+  - first:
+      213: -1278872488988272031
+    second: canhao_morte_7
+  - first:
+      213: -8199965137577941107
+    second: canhao_morte_8
+  - first:
+      213: 1787085899443909951
+    second: canhao_morte_9
+  - first:
+      213: -2920658264450854329
+    second: canhao_morte_10
+  - first:
+      213: 6370059237317808117
+    second: canhao_morte_11
+  - first:
+      213: -3546115801798986823
+    second: canhao_morte_12
+  - first:
+      213: 4955548100658918015
+    second: canhao_morte_13
+  - first:
+      213: 2814043819720445279
+    second: canhao_morte_14
+  - first:
+      213: -5782677301259799457
+    second: canhao_morte_15
+  - first:
+      213: 2355848171780560969
+    second: canhao_morte_16
+  - first:
+      213: 3822152219155857124
+    second: canhao_morte_17
+  - first:
+      213: 4116803570909770567
+    second: canhao_morte_18
+  - first:
+      213: 2267053414729819659
+    second: canhao_morte_19
+  - first:
+      213: 1360439121450052899
+    second: canhao_morte_20
+  - first:
+      213: 3787692043125626272
+    second: canhao_morte_21
+  - first:
+      213: 6630487167303834454
+    second: canhao_morte_22
+  - first:
+      213: 9054254927392290352
+    second: canhao_morte_23
+  - first:
+      213: -2744047850744703290
+    second: canhao_morte_24
+  - first:
+      213: -3665455756064896855
+    second: canhao_morte_25
+  - first:
+      213: 7527294019055343969
+    second: canhao_morte_26
+  - first:
+      213: 2210546383594103082
+    second: canhao_morte_27
+  - first:
+      213: 3878930732967982250
+    second: canhao_morte_28
+  - first:
+      213: 5967117351475330736
+    second: canhao_morte_29
+  - first:
+      213: 2177091042510132832
+    second: canhao_morte_30
+  - first:
+      213: 2048356413289573825
+    second: canhao_morte_31
+  - first:
+      213: -974176279272900629
+    second: canhao_morte_32
+  - first:
+      213: -6936578473251690961
+    second: canhao_morte_33
+  - first:
+      213: -4472236812126595236
+    second: canhao_morte_34
+  - first:
+      213: 690332348800306327
+    second: canhao_morte_35
+  - first:
+      213: 3142517423323424979
+    second: canhao_morte_36
+  - first:
+      213: -8437986814027106916
+    second: canhao_morte_37
+  - first:
+      213: -417929772614277007
+    second: canhao_morte_38
+  - first:
+      213: -5131424956446555041
+    second: canhao_morte_39
+  - first:
+      213: 1580496619209970450
+    second: canhao_morte_40
+  - first:
+      213: 2258614532703125794
+    second: canhao_morte_41
+  - first:
+      213: -5590214549451431219
+    second: canhao_morte_42
+  - first:
+      213: 8205961402050638512
+    second: canhao_morte_43
+  - first:
+      213: 7862510539370960520
+    second: canhao_morte_44
+  - first:
+      213: 749125849073566138
+    second: canhao_morte_45
+  - first:
+      213: -6066455582729682180
+    second: canhao_morte_46
+  - first:
+      213: 6201398470837377557
+    second: canhao_morte_47
+  - first:
+      213: 812317191361219758
+    second: canhao_morte_48
+  - first:
+      213: 4355238665062359784
+    second: canhao_morte_49
+  - first:
+      213: -612967198862025727
+    second: canhao_morte_50
+  - first:
+      213: -4133058554841508273
+    second: canhao_morte_51
+  - first:
+      213: -1182048721793331886
+    second: canhao_morte_52
+  - first:
+      213: 7235861437659272619
+    second: canhao_morte_53
+  - first:
+      213: -1964737590940720644
+    second: canhao_morte_54
+  - first:
+      213: 7397948962379116335
+    second: canhao_morte_55
+  - first:
+      213: 862615098081666834
+    second: canhao_morte_56
+  - first:
+      213: -8436949214078910831
+    second: canhao_morte_57
+  - first:
+      213: -1019901738481219895
+    second: canhao_morte_58
+  - first:
+      213: -8909237529361610773
+    second: canhao_morte_59
+  - first:
+      213: 3242251130241795777
+    second: canhao_morte_60
+  - first:
+      213: -4707360261872699517
+    second: canhao_morte_61
+  - first:
+      213: -4804177159022057440
+    second: canhao_morte_62
+  - first:
+      213: 304701167799938127
+    second: canhao_morte_63
+  - first:
+      213: -8605806485660419008
+    second: canhao_morte_64
+  - first:
+      213: -7492517960366245601
+    second: canhao_morte_65
+  - first:
+      213: -920015663630281761
+    second: canhao_morte_66
+  - first:
+      213: 2136066546801330186
+    second: canhao_morte_67
+  - first:
+      213: -3062279059503298347
+    second: canhao_morte_68
+  - first:
+      213: -4334494468645687431
+    second: canhao_morte_69
+  - first:
+      213: 7155096068547131923
+    second: canhao_morte_70
+  - first:
+      213: 3031288840745895992
+    second: canhao_morte_71
+  - first:
+      213: 7221386768676684122
+    second: canhao_morte_72
+  - first:
+      213: -1426793151947898586
+    second: canhao_morte_73
+  - first:
+      213: -7944632857800333053
+    second: canhao_morte_74
+  - first:
+      213: -3925576045940466161
+    second: canhao_morte_75
+  - first:
+      213: -5638153912677234377
+    second: canhao_morte_76
+  - first:
+      213: -4736728462965821734
+    second: canhao_morte_77
+  - first:
+      213: 3148976123592455288
+    second: canhao_morte_78
+  - first:
+      213: -6017823562454923186
+    second: canhao_morte_79
+  - first:
+      213: 5971820322195036116
+    second: canhao_morte_80
+  - first:
+      213: -667230892769843394
+    second: canhao_morte_81
+  - first:
+      213: 4771118054264430678
+    second: canhao_morte_82
+  - first:
+      213: 2194664357545256396
+    second: canhao_morte_83
+  - first:
+      213: -5619586780183556840
+    second: canhao_morte_84
+  - first:
+      213: 6054070363054619204
+    second: canhao_morte_85
+  - first:
+      213: -3717967202522625058
+    second: canhao_morte_86
+  - first:
+      213: -5003562197742317816
+    second: canhao_morte_87
+  - first:
+      213: -273256372855468465
+    second: canhao_morte_88
+  - first:
+      213: -7474467765193859829
+    second: canhao_morte_89
+  - first:
+      213: 2950167930133272692
+    second: canhao_morte_90
+  - first:
+      213: -5053035103748038574
+    second: canhao_morte_91
+  - first:
+      213: 5248149325242503228
+    second: canhao_morte_92
+  - first:
+      213: 1852501654869368103
+    second: canhao_morte_93
+  - first:
+      213: -3461411190107070144
+    second: canhao_morte_94
+  - first:
+      213: 8807177327389943469
+    second: canhao_morte_95
+  - first:
+      213: -1976945364530629198
+    second: canhao_morte_96
+  - first:
+      213: -7952926144662527530
+    second: canhao_morte_97
+  - first:
+      213: -714259695773318391
+    second: canhao_morte_98
+  - first:
+      213: 936109927367084861
+    second: canhao_morte_99
+  - first:
+      213: 567452769438526754
+    second: canhao_morte_100
+  - first:
+      213: -2764659866839630330
+    second: canhao_morte_101
+  - first:
+      213: -6029329109333663158
+    second: canhao_morte_102
+  - first:
+      213: -736752214600533018
+    second: canhao_morte_103
+  - first:
+      213: -6823148923837210730
+    second: canhao_morte_104
+  - first:
+      213: -859905603205876809
+    second: canhao_morte_105
+  - first:
+      213: -7843521411600895307
+    second: canhao_morte_106
+  - first:
+      213: -8500361498534129925
+    second: canhao_morte_107
+  - first:
+      213: -7132686831932640810
+    second: canhao_morte_108
+  - first:
+      213: -698063983787072198
+    second: canhao_morte_109
+  - first:
+      213: 8629296342962913158
+    second: canhao_morte_110
+  - first:
+      213: -3411136060171467479
+    second: canhao_morte_111
+  - first:
+      213: -4237857261259300713
+    second: canhao_morte_112
+  - first:
+      213: 6967760699013330997
+    second: canhao_morte_113
+  - first:
+      213: -6485026520615024537
+    second: canhao_morte_114
+  - first:
+      213: 1575896636053804178
+    second: canhao_morte_115
+  - first:
+      213: -6571395978765375412
+    second: canhao_morte_116
+  - first:
+      213: 6419216922057785911
+    second: canhao_morte_117
+  - first:
+      213: -9058021467275103491
+    second: canhao_morte_118
+  - first:
+      213: -4310559450402107973
+    second: canhao_morte_119
+  - first:
+      213: -6177961662219152533
+    second: canhao_morte_120
+  - first:
+      213: -5046558653302333637
+    second: canhao_morte_121
+  - first:
+      213: 3539400620359137110
+    second: canhao_morte_122
+  - first:
+      213: -969580284271386394
+    second: canhao_morte_123
+  - first:
+      213: 2256828204414303013
+    second: canhao_morte_124
+  - first:
+      213: -3538998923489119830
+    second: canhao_morte_125
+  - first:
+      213: -6555632347687426240
+    second: canhao_morte_126
+  - first:
+      213: 8849142502928059807
+    second: canhao_morte_127
+  - first:
+      213: -3848096986045732525
+    second: canhao_morte_128
+  - first:
+      213: 8411779451800668492
+    second: canhao_morte_129
+  - first:
+      213: -840191842601934367
+    second: canhao_morte_130
+  - first:
+      213: 8474595617918977091
+    second: canhao_morte_131
+  - first:
+      213: 6598447482115321732
+    second: canhao_morte_132
+  - first:
+      213: -5943565901469014912
+    second: canhao_morte_133
+  - first:
+      213: -9026646395477266112
+    second: canhao_morte_134
+  - first:
+      213: 4795819188353227377
+    second: canhao_morte_135
+  - first:
+      213: 6825669069879232287
+    second: canhao_morte_136
+  - first:
+      213: 6857177541524594634
+    second: canhao_morte_137
+  - first:
+      213: -6563315216170666129
+    second: canhao_morte_138
+  - first:
+      213: -5320236798854451748
+    second: canhao_morte_139
+  - first:
+      213: 1746318453070349093
+    second: canhao_morte_140
+  - first:
+      213: 7498715950368691989
+    second: canhao_morte_141
+  - first:
+      213: 1811192265450724877
+    second: canhao_morte_142
+  - first:
+      213: 3464957469989393985
+    second: canhao_morte_143
+  - first:
+      213: -5231272106471838719
+    second: canhao_morte_144
+  - first:
+      213: 7002002678490869273
+    second: canhao_morte_145
+  - first:
+      213: -5313639954639912403
+    second: canhao_morte_146
+  - first:
+      213: 9127716957208649173
+    second: canhao_morte_147
+  - first:
+      213: 229008424830719459
+    second: canhao_morte_148
+  - first:
+      213: 7683077532483406047
+    second: canhao_morte_149
+  - first:
+      213: 8822046802451067404
+    second: canhao_morte_150
+  - first:
+      213: -1298746606453631392
+    second: canhao_morte_151
+  - first:
+      213: -5173507885576582515
+    second: canhao_morte_152
+  - first:
+      213: 6392169603206640944
+    second: canhao_morte_153
+  - first:
+      213: -10069094211508063
+    second: canhao_morte_154
+  - first:
+      213: -631744462170916111
+    second: canhao_morte_155
+  - first:
+      213: 1318861716024379743
+    second: canhao_morte_156
+  - first:
+      213: -917930600043670889
+    second: canhao_morte_157
+  - first:
+      213: -3529307087015797229
+    second: canhao_morte_158
+  - first:
+      213: 6987792450920033997
+    second: canhao_morte_159
+  - first:
+      213: 6224417209416798881
+    second: canhao_morte_160
+  - first:
+      213: -1699251433203993064
+    second: canhao_morte_161
+  - first:
+      213: 1457491390402931874
+    second: canhao_morte_162
+  - first:
+      213: -3269970348138396423
+    second: canhao_morte_163
+  - first:
+      213: 8458922307349467992
+    second: canhao_morte_164
+  - first:
+      213: 1749062174968112347
+    second: canhao_morte_165
+  - first:
+      213: -7275266956014199695
+    second: canhao_morte_166
+  - first:
+      213: -399276278359212571
+    second: canhao_morte_167
+  - first:
+      213: -7644423524877013030
+    second: canhao_morte_168
+  - first:
+      213: -8287741727121198613
+    second: canhao_morte_169
+  - first:
+      213: 22183005533630583
+    second: canhao_morte_170
+  - first:
+      213: -4792947442918587921
+    second: canhao_morte_171
+  - first:
+      213: -1455111194052574355
+    second: canhao_morte_172
+  - first:
+      213: 6060917864974757678
+    second: canhao_morte_173
+  - first:
+      213: 8447699082150215840
+    second: canhao_morte_174
+  - first:
+      213: -4069505884609917372
+    second: canhao_morte_175
+  - first:
+      213: -5940463340839833275
+    second: canhao_morte_176
+  - first:
+      213: 4211381125664702503
+    second: canhao_morte_177
+  - first:
+      213: 925296172275352639
+    second: canhao_morte_178
+  - first:
+      213: 5526319673473470139
+    second: canhao_morte_179
+  - first:
+      213: 5184040828357466573
+    second: canhao_morte_180
+  - first:
+      213: 3094689429952613652
+    second: canhao_morte_181
+  - first:
+      213: 2400376910527643697
+    second: canhao_morte_182
+  - first:
+      213: 422977534748247387
+    second: canhao_morte_183
+  - first:
+      213: -3856805706423809758
+    second: canhao_morte_184
+  - first:
+      213: -8831953548144361237
+    second: canhao_morte_185
+  - first:
+      213: -3825675108892617215
+    second: canhao_morte_186
+  - first:
+      213: -2162233463965669019
+    second: canhao_morte_187
+  - first:
+      213: -6186296371603060469
+    second: canhao_morte_188
+  - first:
+      213: -5638491137158033149
+    second: canhao_morte_189
+  - first:
+      213: -3173827990909015169
+    second: canhao_morte_190
+  - first:
+      213: -722678282285845363
+    second: canhao_morte_191
+  - first:
+      213: 1595217079778409566
+    second: canhao_morte_192
+  - first:
+      213: 5750447566147948182
+    second: canhao_morte_193
+  - first:
+      213: -7635946798686547498
+    second: canhao_morte_194
+  - first:
+      213: 7921045269606156834
+    second: canhao_morte_195
+  - first:
+      213: 7055419418291953418
+    second: canhao_morte_196
+  - first:
+      213: 5027287801443470061
+    second: canhao_morte_197
+  - first:
+      213: -2351155237658377966
+    second: canhao_morte_198
+  - first:
+      213: 7312058176403792398
+    second: canhao_morte_199
+  - first:
+      213: -3531455931672606593
+    second: canhao_morte_200
+  - first:
+      213: 8560268416474999566
+    second: canhao_morte_201
+  - first:
+      213: -8625868019800205543
+    second: canhao_morte_202
+  - first:
+      213: 8930645797162984492
+    second: canhao_morte_203
+  - first:
+      213: -8720800870132348413
+    second: canhao_morte_204
+  - first:
+      213: 2278740279874830314
+    second: canhao_morte_205
+  - first:
+      213: 3281277041724747456
+    second: canhao_morte_206
+  - first:
+      213: 106644049354961700
+    second: canhao_morte_207
+  - first:
+      213: -7330382871330913585
+    second: canhao_morte_208
+  - first:
+      213: -7486002639907924640
+    second: canhao_morte_209
+  - first:
+      213: -3764222249407761185
+    second: canhao_morte_210
+  - first:
+      213: -5046518985065055981
+    second: canhao_morte_211
+  - first:
+      213: 4260176747185048104
+    second: canhao_morte_212
+  - first:
+      213: 727904257345642585
+    second: canhao_morte_213
+  - first:
+      213: 8873002392142344743
+    second: canhao_morte_11
+  - first:
+      213: -1406787026236582045
+    second: canhao_morte_12
+  - first:
+      213: 7495633310011889524
+    second: canhao_morte_13
+  - first:
+      213: 5348898359121958969
+    second: canhao_morte_14
+  - first:
+      213: 5954054273654391389
+    second: canhao_morte_15
+  - first:
+      213: 7303754950027495113
+    second: canhao_morte_16
+  - first:
+      213: -4533514026146138631
+    second: canhao_morte_17
+  - first:
+      213: -1396728069244749390
+    second: canhao_morte_18
+  - first:
+      213: 8053366158405533088
+    second: canhao_morte_19
+  - first:
+      213: 8858056644559337882
+    second: canhao_morte_20
+  - first:
+      213: 4771668091748093051
+    second: canhao_morte_21
+  - first:
+      213: 6094930367957430961
+    second: canhao_morte_22
+  - first:
+      213: 6280102164616284850
+    second: canhao_morte_23
+  - first:
+      213: 8765095225766354884
+    second: canhao_morte_24
+  - first:
+      213: -2677952710862642164
+    second: canhao_morte_25
+  - first:
+      213: 631439004747144244
+    second: canhao_morte_26
+  - first:
+      213: -1809826854623549741
+    second: canhao_morte_27
+  - first:
+      213: 6305460689066487347
+    second: canhao_morte_28
+  - first:
+      213: 9025639587252620561
+    second: canhao_morte_29
+  - first:
+      213: 8878948954262592836
+    second: canhao_morte_30
+  - first:
+      213: -4507159693803787212
+    second: canhao_morte_31
+  - first:
+      213: 6627028252358298585
+    second: canhao_morte_32
+  - first:
+      213: 5774693827839932076
+    second: canhao_morte_33
+  - first:
+      213: -8822255198577671512
+    second: canhao_morte_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: canhao_morte_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 327
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c5e7c0b191c94d0800000000000000
+      internalID: -3126596437337547762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 327
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0681772d1a0ec40800000000000000
+      internalID: 5539605466979000520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 327
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dc3fadbe159cf70800000000000000
+      internalID: 9207980986568265023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 327
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae599d4b1d540c9f0800000000000000
+      internalID: -450283195752409622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 327
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5263fce459cfa80800000000000000
+      internalID: -8431700236627991110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 327
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448a0386d5b8b52d0800000000000000
+      internalID: -3288881869567776700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 263
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551e5119dcb819fa0800000000000000
+      internalID: -5795697530430430891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 263
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a95dc3f38804ee0800000000000000
+      internalID: -1278872488988272031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 263
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d876414172fd33e80800000000000000
+      internalID: -8199965137577941107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_9
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 263
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35b67b38210dc810800000000000000
+      internalID: 1787085899443909951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_10
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 263
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742191568ccb777d0800000000000000
+      internalID: -2920658264450854329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_126
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 148
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047e70eec17b505a0800000000000000
+      internalID: -6555632347687426240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_11
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 263
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722f5da1aac332b70800000000000000
+      internalID: 8873002392142344743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 199
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3675a8237a61a7ce0800000000000000
+      internalID: -1406787026236582045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 199
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47718d928c6d50860800000000000000
+      internalID: 7495633310011889524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 197
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938522bc7ba1b3a40800000000000000
+      internalID: 5348898359121958969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_15
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 197
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d520192e0dc01a250800000000000000
+      internalID: 5954054273654391389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_16
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 197
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6c3ea1e662c5560800000000000000
+      internalID: 7303754950027495113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_17
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 197
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5fe474309b511c0800000000000000
+      internalID: -4533514026146138631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 132
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b979d0a833dd9ce0800000000000000
+      internalID: -1396728069244749390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_19
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 132
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adf9ed3add43cf60800000000000000
+      internalID: 8053366158405533088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_20
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 132
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a997f3316932eea70800000000000000
+      internalID: 8858056644559337882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_21
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 132
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c06ba19de583240800000000000000
+      internalID: 4771668091748093051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_22
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 132
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2f7d890ea859450800000000000000
+      internalID: 6094930367957430961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_23
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 132
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba8d1335a7672750800000000000000
+      internalID: 6280102164616284850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 68
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf964a1bafd3a970800000000000000
+      internalID: 8765095225766354884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_25
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 68
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04ecb7a23006dad0800000000000000
+      internalID: -2677952710862642164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_26
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 68
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c9747ed6253c800800000000000000
+      internalID: 631439004747144244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_27
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 68
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d66339801432e6e0800000000000000
+      internalID: -1809826854623549741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_28
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 68
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e6ff4c61f718750800000000000000
+      internalID: 6305460689066487347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_29
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 68
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d45ec7263814d70800000000000000
+      internalID: 9025639587252620561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 4
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dd5adf70d583b70800000000000000
+      internalID: 8878948954262592836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_31
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 5
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cedd0732a5371c0800000000000000
+      internalID: -4507159693803787212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_32
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 5
+        width: 44
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db4b42851fe7fb50800000000000000
+      internalID: 6627028252358298585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_33
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 5
+        width: 44
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca63a07d075d32050800000000000000
+      internalID: 5774693827839932076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_morte_34
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 5
+        width: 44
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a24fe2a3ad019580800000000000000
+      internalID: -8822255198577671512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

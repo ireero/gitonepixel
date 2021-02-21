@@ -1,0 +1,1088 @@
+fileFormatVersion: 2
+guid: 67dec43ae5ba37646aceab6b263703b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5835261464003317675
+    second: monstro_meditador_morte_0
+  - first:
+      213: 1793861585033140590
+    second: monstro_meditador_morte_1
+  - first:
+      213: 9011222999423855701
+    second: monstro_meditador_morte_2
+  - first:
+      213: -5161865084406002329
+    second: monstro_meditador_morte_3
+  - first:
+      213: 4494499868402695060
+    second: monstro_meditador_morte_4
+  - first:
+      213: -1145617619047088672
+    second: monstro_meditador_morte_5
+  - first:
+      213: 1978890932153994475
+    second: monstro_meditador_morte_6
+  - first:
+      213: -3990032299147638891
+    second: monstro_meditador_morte_7
+  - first:
+      213: 2644080436666002961
+    second: monstro_meditador_morte_8
+  - first:
+      213: -7906611869408213414
+    second: monstro_meditador_morte_9
+  - first:
+      213: -2941628068573372939
+    second: monstro_meditador_morte_10
+  - first:
+      213: 5669720440629643813
+    second: monstro_meditador_morte_11
+  - first:
+      213: 528362497326353979
+    second: monstro_meditador_morte_12
+  - first:
+      213: -7897809596794535450
+    second: monstro_meditador_morte_13
+  - first:
+      213: 2152228842277648019
+    second: monstro_meditador_morte_14
+  - first:
+      213: -5100844404538259919
+    second: monstro_meditador_morte_15
+  - first:
+      213: -7922991636565025669
+    second: monstro_meditador_morte_16
+  - first:
+      213: 6037572632022498438
+    second: monstro_meditador_morte_17
+  - first:
+      213: 1380207201147417681
+    second: monstro_meditador_morte_18
+  - first:
+      213: 7243170225821081313
+    second: monstro_meditador_morte_19
+  - first:
+      213: -6800369052570614080
+    second: monstro_meditador_morte_20
+  - first:
+      213: 5675751424807504744
+    second: monstro_meditador_morte_21
+  - first:
+      213: 8511918666442971635
+    second: monstro_meditador_morte_22
+  - first:
+      213: 7311976207881739822
+    second: monstro_meditador_morte_23
+  - first:
+      213: -3363002769637711862
+    second: monstro_meditador_morte_24
+  - first:
+      213: 5541583408007850309
+    second: monstro_meditador_morte_25
+  - first:
+      213: 8576355572956325701
+    second: monstro_meditador_morte_26
+  - first:
+      213: 6343585993906481056
+    second: monstro_meditador_morte_27
+  - first:
+      213: 5082754141237875021
+    second: monstro_meditador_morte_28
+  - first:
+      213: 4556079230902732274
+    second: monstro_meditador_morte_29
+  - first:
+      213: -1145634928212244507
+    second: monstro_meditador_morte_30
+  - first:
+      213: 776611457685612142
+    second: monstro_meditador_morte_31
+  - first:
+      213: 3248725082868136296
+    second: monstro_meditador_morte_32
+  - first:
+      213: -7204912405795681149
+    second: monstro_meditador_morte_33
+  - first:
+      213: 5347471643209707492
+    second: monstro_meditador_morte_34
+  - first:
+      213: -1828694743280917024
+    second: monstro_meditador_morte_35
+  - first:
+      213: 4082218724687961272
+    second: monstro_meditador_morte_36
+  - first:
+      213: 5119192318908918861
+    second: monstro_meditador_morte_37
+  - first:
+      213: -4633111862793120646
+    second: monstro_meditador_morte_38
+  - first:
+      213: 6649868573523747710
+    second: monstro_meditador_morte_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monstro_meditador_morte_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 798
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5507e827d9cf40fa0800000000000000
+      internalID: -5835261464003317675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 798
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e699e187b9315e810800000000000000
+      internalID: 1793861585033140590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 798
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c2d70139b4e0d70800000000000000
+      internalID: 9011222999423855701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 798
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d0d71fd0f5d58b0800000000000000
+      internalID: -5161865084406002329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_4
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 798
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bbe2341dbaf5e30800000000000000
+      internalID: 4494499868402695060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_5
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 798
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edf44068d2f910f0800000000000000
+      internalID: -1145617619047088672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 670
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becc74471de667b10800000000000000
+      internalID: 1978890932153994475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_7
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 670
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59748f693ce80a8c0800000000000000
+      internalID: -3990032299147638891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_8
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 670
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e6901f529a1b420800000000000000
+      internalID: 2644080436666002961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_9
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 670
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5649035562164290800000000000000
+      internalID: -7906611869408213414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_10
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 670
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd9d576bdc3d27d0800000000000000
+      internalID: -2941628068573372939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_11
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 670
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a408783b4eeae40800000000000000
+      internalID: 5669720440629643813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 542
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e86c554ee155700800000000000000
+      internalID: 528362497326353979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_13
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 542
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1046f1408556290800000000000000
+      internalID: -7897809596794535450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_14
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 542
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3963f43aab04edd10800000000000000
+      internalID: 2152228842277648019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_15
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 542
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13645fc1a092639b0800000000000000
+      internalID: -5100844404538259919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_16
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 542
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c96289511eb0290800000000000000
+      internalID: -7922991636565025669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_17
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 542
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c32550254c9c350800000000000000
+      internalID: 6037572632022498438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 414
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154f3d4032b772310800000000000000
+      internalID: 1380207201147417681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_19
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 414
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee50c5c1f8e48460800000000000000
+      internalID: 7243170225821081313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_20
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 414
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c608f7606c30a1a0800000000000000
+      internalID: -6800369052570614080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_21
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 414
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b811579d154ce40800000000000000
+      internalID: 5675751424807504744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_22
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 414
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f99956dde8602670800000000000000
+      internalID: 8511918666442971635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_23
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 414
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e16ecde9b597560800000000000000
+      internalID: 7311976207881739822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 286
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00e6198cc63451d0800000000000000
+      internalID: -3363002769637711862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_25
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 286
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549a18fbfb8a7ec40800000000000000
+      internalID: 5541583408007850309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_26
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 286
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547e08144f5550770800000000000000
+      internalID: 8576355572956325701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_27
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 286
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a760f80ad1f80850800000000000000
+      internalID: 6343585993906481056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_28
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 288
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41112d36f1998640800000000000000
+      internalID: 5082754141237875021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_29
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 288
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f50e7edbe17a3f30800000000000000
+      internalID: 4556079230902732274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_30
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 162
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e701a54a13e910f0800000000000000
+      internalID: -1145634928212244507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_31
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 164
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6669df810417ca00800000000000000
+      internalID: 776611457685612142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_32
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 166
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869b149104ac51d20800000000000000
+      internalID: 3248725082868136296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_33
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 166
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c4eb61752030c90800000000000000
+      internalID: -7204912405795681149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_34
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 168
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef2dfb9029063a40800000000000000
+      internalID: 5347471643209707492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_35
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 170
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5ed10e1db2f96e0800000000000000
+      internalID: -1828694743280917024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_36
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 44
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc59743d44f6a830800000000000000
+      internalID: 4082218724687961272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_37
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c69799a460b0740800000000000000
+      internalID: 5119192318908918861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_38
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 44
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74519dde41e3bfb0800000000000000
+      internalID: -4633111862793120646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_morte_39
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 44
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73aaef2c34194c50800000000000000
+      internalID: 6649868573523747710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

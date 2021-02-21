@@ -1,0 +1,752 @@
+fileFormatVersion: 2
+guid: 7cacdc096de2884489aa676eb7a61b6c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2462785209086138239
+    second: monstro_tirao_chao_dormindo_0
+  - first:
+      213: 1778849863511676274
+    second: monstro_tirao_chao_dormindo_1
+  - first:
+      213: 8811392328172318198
+    second: monstro_tirao_chao_dormindo_2
+  - first:
+      213: 1140409265490423174
+    second: monstro_tirao_chao_dormindo_3
+  - first:
+      213: 314856907335411247
+    second: monstro_tirao_chao_dormindo_4
+  - first:
+      213: 1042752391740619918
+    second: monstro_tirao_chao_dormindo_5
+  - first:
+      213: -2571482224117084378
+    second: monstro_tirao_chao_dormindo_6
+  - first:
+      213: 4664777475065084074
+    second: monstro_tirao_chao_dormindo_7
+  - first:
+      213: 5696718666798534991
+    second: monstro_tirao_chao_dormindo_8
+  - first:
+      213: 3677020258826430704
+    second: monstro_tirao_chao_dormindo_9
+  - first:
+      213: 1008659297217443003
+    second: monstro_tirao_chao_dormindo_10
+  - first:
+      213: -9046327464288449209
+    second: monstro_tirao_chao_dormindo_11
+  - first:
+      213: -6632799804535624591
+    second: monstro_tirao_chao_dormindo_12
+  - first:
+      213: -4589486519117727376
+    second: monstro_tirao_chao_dormindo_13
+  - first:
+      213: -6519606690709165825
+    second: monstro_tirao_chao_dormindo_14
+  - first:
+      213: 4026272760548495001
+    second: monstro_tirao_chao_dormindo_15
+  - first:
+      213: 7628003299999594141
+    second: monstro_tirao_chao_dormindo_16
+  - first:
+      213: -1516052827096554292
+    second: monstro_tirao_chao_dormindo_17
+  - first:
+      213: 3397319084088967374
+    second: monstro_tirao_chao_dormindo_18
+  - first:
+      213: 7335403099695919382
+    second: monstro_tirao_chao_dormindo_19
+  - first:
+      213: 4621733215732195665
+    second: monstro_tirao_chao_dormindo_20
+  - first:
+      213: -8732161505181814647
+    second: monstro_tirao_chao_dormindo_21
+  - first:
+      213: -8056559284148485426
+    second: monstro_tirao_chao_dormindo_22
+  - first:
+      213: 4367779769574538710
+    second: monstro_tirao_chao_dormindo_23
+  - first:
+      213: -2470724154090401355
+    second: monstro_tirao_chao_dormindo_24
+  - first:
+      213: 1820922709176160396
+    second: monstro_tirao_chao_dormindo_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monstro_tirao_chao_dormindo_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 324
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f775aa969129d2220800000000000000
+      internalID: 2462785209086138239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_dormindo_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 324
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2759d5fa68ebfa810800000000000000
+      internalID: 1778849863511676274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_dormindo_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 324
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd205143aa584a70800000000000000
+      internalID: 8811392328172318198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_dormindo_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 324
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dee105f2c83df00800000000000000
+      internalID: 1140409265490423174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_dormindo_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 324
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f262ec460b89e5400800000000000000
+      internalID: 314856907335411247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_dormindo_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 260
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c736a86c9987e00800000000000000
+      internalID: 1042752391740619918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_dormindo_6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 260
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f054d9a82405cd0800000000000000
+      internalID: -2571482224117084378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_dormindo_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 260
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa87f75066e9cb040800000000000000
+      internalID: 4664777475065084074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_dormindo_8
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 260
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f411dd7e17fce0f40800000000000000
+      internalID: 5696718666798534991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_dormindo_9
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 260
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8a3479176670330800000000000000
+      internalID: 3677020258826430704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_dormindo_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 196
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb47a06694a7ffd00800000000000000
+      internalID: 1008659297217443003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_dormindo_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 196
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d0a39c91df47280800000000000000
+      internalID: -9046327464288449209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_dormindo_12
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 196
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17caf5848bf83f3a0800000000000000
+      internalID: -6632799804535624591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_dormindo_13
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 196
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0793b86b35ede40c0800000000000000
+      internalID: -4589486519117727376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_dormindo_14
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 196
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff82505d144b585a0800000000000000
+      internalID: -6519606690709165825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_dormindo_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 132
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e035d5eb130e730800000000000000
+      internalID: 4026272760548495001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_dormindo_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 132
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96bbf1269c1cd960800000000000000
+      internalID: 7628003299999594141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_dormindo_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 132
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4ee247cf5e5fae0800000000000000
+      internalID: -1516052827096554292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_dormindo_18
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 132
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec047cb05b3b52f20800000000000000
+      internalID: 3397319084088967374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_dormindo_19
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 132
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611bca921469cc560800000000000000
+      internalID: 7335403099695919382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_dormindo_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 68
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151675a6fd1b32040800000000000000
+      internalID: 4621733215732195665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_dormindo_21
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9803c42406121d680800000000000000
+      internalID: -8732161505181814647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_dormindo_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 68
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2447c340a513090800000000000000
+      internalID: -8056559284148485426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_dormindo_23
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 68
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddb0a61f887d9c30800000000000000
+      internalID: 4367779769574538710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_dormindo_24
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 68
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1d679e87936bdd0800000000000000
+      internalID: -2470724154090401355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_tirao_chao_dormindo_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8013eb6e87354910800000000000000
+      internalID: 1820922709176160396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

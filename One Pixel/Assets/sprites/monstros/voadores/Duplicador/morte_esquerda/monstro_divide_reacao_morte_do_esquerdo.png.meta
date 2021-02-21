@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: 2a76148cf4cf5854ebf271cec03c92f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3271886629627974212
+    second: monstro_divide_reacao_morte_do_esquerdo_0
+  - first:
+      213: -174963497371519526
+    second: monstro_divide_reacao_morte_do_esquerdo_1
+  - first:
+      213: 103412753603708650
+    second: monstro_divide_reacao_morte_do_esquerdo_2
+  - first:
+      213: -8381751817632011181
+    second: monstro_divide_reacao_morte_do_esquerdo_3
+  - first:
+      213: 8701422204926404328
+    second: monstro_divide_reacao_morte_do_esquerdo_4
+  - first:
+      213: -5013813809192561254
+    second: monstro_divide_reacao_morte_do_esquerdo_5
+  - first:
+      213: 8572889184158648460
+    second: monstro_divide_reacao_morte_do_esquerdo_6
+  - first:
+      213: -6414881673576028547
+    second: monstro_divide_reacao_morte_do_esquerdo_7
+  - first:
+      213: 7688841963522644328
+    second: monstro_divide_reacao_morte_do_esquerdo_8
+  - first:
+      213: -3218892967581882281
+    second: monstro_divide_reacao_morte_do_esquerdo_9
+  - first:
+      213: 1261864601982020025
+    second: monstro_divide_reacao_morte_do_esquerdo_10
+  - first:
+      213: -8584877313856420938
+    second: monstro_divide_reacao_morte_do_esquerdo_11
+  - first:
+      213: -4084581674220210581
+    second: monstro_divide_reacao_morte_do_esquerdo_12
+  - first:
+      213: 3612619700964640911
+    second: monstro_divide_reacao_morte_do_esquerdo_13
+  - first:
+      213: -9013093499855946905
+    second: monstro_divide_reacao_morte_do_esquerdo_14
+  - first:
+      213: 9097346575357541614
+    second: monstro_divide_reacao_morte_do_esquerdo_15
+  - first:
+      213: -2051859360103908481
+    second: monstro_divide_reacao_morte_do_esquerdo_16
+  - first:
+      213: -2688393134573898914
+    second: monstro_divide_reacao_morte_do_esquerdo_17
+  - first:
+      213: -4416753816592467733
+    second: monstro_divide_reacao_morte_do_esquerdo_18
+  - first:
+      213: 648488082644226652
+    second: monstro_divide_reacao_morte_do_esquerdo_19
+  - first:
+      213: -8104912756834695437
+    second: monstro_divide_reacao_morte_do_esquerdo_20
+  - first:
+      213: -8355723058735315503
+    second: monstro_divide_reacao_morte_do_esquerdo_21
+  - first:
+      213: 1736355219759121637
+    second: monstro_divide_reacao_morte_do_esquerdo_22
+  - first:
+      213: -7852991347893464225
+    second: monstro_divide_reacao_morte_do_esquerdo_23
+  - first:
+      213: -8735024674917309511
+    second: monstro_divide_reacao_morte_do_esquerdo_24
+  - first:
+      213: 5064674136333426834
+    second: monstro_divide_reacao_morte_do_esquerdo_25
+  - first:
+      213: -7939524873840604810
+    second: monstro_divide_reacao_morte_do_esquerdo_26
+  - first:
+      213: -1367322041494602775
+    second: monstro_divide_reacao_morte_do_esquerdo_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monstro_divide_reacao_morte_do_esquerdo_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 325
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4425350fd83186d20800000000000000
+      internalID: 3271886629627974212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_divide_reacao_morte_do_esquerdo_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 325
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5b28a40a7629df0800000000000000
+      internalID: -174963497371519526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_divide_reacao_morte_do_esquerdo_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 325
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae64bcbf9556f6100800000000000000
+      internalID: 103412753603708650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_divide_reacao_morte_do_esquerdo_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 325
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c2f8a51290eab80800000000000000
+      internalID: -8381751817632011181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_divide_reacao_morte_do_esquerdo_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 325
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6a55da469a1c870800000000000000
+      internalID: 8701422204926404328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_divide_reacao_morte_do_esquerdo_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 261
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a951125a7ea5b6ab0800000000000000
+      internalID: -5013813809192561254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_divide_reacao_morte_do_esquerdo_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 261
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c888098ba4509f670800000000000000
+      internalID: 8572889184158648460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_divide_reacao_morte_do_esquerdo_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 261
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76665afa13c9f6a0800000000000000
+      internalID: -6414881673576028547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_divide_reacao_morte_do_esquerdo_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 261
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86952e1570144ba60800000000000000
+      internalID: 7688841963522644328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_divide_reacao_morte_do_esquerdo_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 261
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758674186e13453d0800000000000000
+      internalID: -3218892967581882281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_divide_reacao_morte_do_esquerdo_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 197
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b927cb7b2b038110800000000000000
+      internalID: 1261864601982020025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_divide_reacao_morte_do_esquerdo_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 197
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3474351936cd880800000000000000
+      internalID: -8584877313856420938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_divide_reacao_morte_do_esquerdo_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 197
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66b80cbb96a057c0800000000000000
+      internalID: -4084581674220210581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_divide_reacao_morte_do_esquerdo_13
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 197
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8843904a7a922230800000000000000
+      internalID: 3612619700964640911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_divide_reacao_morte_do_esquerdo_14
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 197
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b34bd173f0be280800000000000000
+      internalID: -9013093499855946905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_divide_reacao_morte_do_esquerdo_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 133
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec7dcea284404e70800000000000000
+      internalID: 9097346575357541614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_divide_reacao_morte_do_esquerdo_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 133
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b32ff78c45683e0800000000000000
+      internalID: -2051859360103908481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_divide_reacao_morte_do_esquerdo_17
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 133
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53bf1510b8e0bad0800000000000000
+      internalID: -2688393134573898914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_divide_reacao_morte_do_esquerdo_18
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 133
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8b7a50ec984b2c0800000000000000
+      internalID: -4416753816592467733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_divide_reacao_morte_do_esquerdo_19
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 133
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52551fa974eff800800000000000000
+      internalID: 648488082644226652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_divide_reacao_morte_do_esquerdo_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 69
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f606511ac0958f80800000000000000
+      internalID: -8104912756834695437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_divide_reacao_morte_do_esquerdo_21
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 69
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d58a8a06228a0c80800000000000000
+      internalID: -8355723058735315503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_divide_reacao_morte_do_esquerdo_22
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 69
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e443ad6fd5c81810800000000000000
+      internalID: 1736355219759121637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_divide_reacao_morte_do_esquerdo_23
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 69
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53189cd9f1940390800000000000000
+      internalID: -7852991347893464225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_divide_reacao_morte_do_esquerdo_24
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 69
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3284b9655f6c680800000000000000
+      internalID: -8735024674917309511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_divide_reacao_morte_do_esquerdo_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 5
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290234f0b46594640800000000000000
+      internalID: 5064674136333426834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_divide_reacao_morte_do_esquerdo_26
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 5
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6794a51513421d190800000000000000
+      internalID: -7939524873840604810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_divide_reacao_morte_do_esquerdo_27
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 5
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebf62ff8db460de0800000000000000
+      internalID: -1367322041494602775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

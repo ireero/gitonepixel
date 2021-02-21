@@ -1,0 +1,752 @@
+fileFormatVersion: 2
+guid: 786496c619fbb2c4a83f527cc443f7fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1045336240066807519
+    second: super_bullet_inimiga_nascer_0
+  - first:
+      213: -2083263017653284632
+    second: super_bullet_inimiga_nascer_1
+  - first:
+      213: 8140086705035820696
+    second: super_bullet_inimiga_nascer_2
+  - first:
+      213: -8964584844232291169
+    second: super_bullet_inimiga_nascer_3
+  - first:
+      213: 4574571188465066214
+    second: super_bullet_inimiga_nascer_4
+  - first:
+      213: 5156478871581825578
+    second: super_bullet_inimiga_nascer_5
+  - first:
+      213: -1587960133449165577
+    second: super_bullet_inimiga_nascer_6
+  - first:
+      213: -7085640813522528788
+    second: super_bullet_inimiga_nascer_7
+  - first:
+      213: -1487397701844608590
+    second: super_bullet_inimiga_nascer_8
+  - first:
+      213: -1874286541421340611
+    second: super_bullet_inimiga_nascer_9
+  - first:
+      213: 6196374435943194778
+    second: super_bullet_inimiga_nascer_10
+  - first:
+      213: 4874890441384471660
+    second: super_bullet_inimiga_nascer_11
+  - first:
+      213: -3060060339222539329
+    second: super_bullet_inimiga_nascer_12
+  - first:
+      213: -4618288274769746880
+    second: super_bullet_inimiga_nascer_13
+  - first:
+      213: 8496611430942815496
+    second: super_bullet_inimiga_nascer_14
+  - first:
+      213: 9063783246248793273
+    second: super_bullet_inimiga_nascer_15
+  - first:
+      213: -998673884937846155
+    second: super_bullet_inimiga_nascer_16
+  - first:
+      213: -7299804838124322830
+    second: super_bullet_inimiga_nascer_17
+  - first:
+      213: 3400706629726437467
+    second: super_bullet_inimiga_nascer_18
+  - first:
+      213: 6328644109966646528
+    second: super_bullet_inimiga_nascer_19
+  - first:
+      213: -6635179430973051934
+    second: super_bullet_inimiga_nascer_20
+  - first:
+      213: -2167282218933901258
+    second: super_bullet_inimiga_nascer_21
+  - first:
+      213: -7194287341979947971
+    second: super_bullet_inimiga_nascer_22
+  - first:
+      213: 2870451715979745885
+    second: super_bullet_inimiga_nascer_23
+  - first:
+      213: -5242848937840926734
+    second: super_bullet_inimiga_nascer_24
+  - first:
+      213: 5490011186227004553
+    second: super_bullet_inimiga_nascer_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: super_bullet_inimiga_nascer_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 264
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129b9f36a383e71f0800000000000000
+      internalID: -1045336240066807519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_bullet_inimiga_nascer_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 264
+        width: 3
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e05113b253c613e0800000000000000
+      internalID: -2083263017653284632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_bullet_inimiga_nascer_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 263
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e3a8eeab567f070800000000000000
+      internalID: 8140086705035820696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_bullet_inimiga_nascer_3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 263
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c0fa0a495679380800000000000000
+      internalID: -8964584844232291169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_bullet_inimiga_nascer_4
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 262
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0623042442c7f30800000000000000
+      internalID: 4574571188465066214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_bullet_inimiga_nascer_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 213
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a1178a63e7f8740800000000000000
+      internalID: 5156478871581825578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_bullet_inimiga_nascer_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 212
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4d7480cae66f9e0800000000000000
+      internalID: -1587960133449165577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_bullet_inimiga_nascer_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 211
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5daffa83fbaad90800000000000000
+      internalID: -7085640813522528788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_bullet_inimiga_nascer_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 210
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9d1d5bba3bb5be0800000000000000
+      internalID: -1487397701844608590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_bullet_inimiga_nascer_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 209
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38194b22523df5e0800000000000000
+      internalID: -1874286541421340611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_bullet_inimiga_nascer_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 160
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90a4bd38b1fdf550800000000000000
+      internalID: 6196374435943194778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_bullet_inimiga_nascer_11
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 159
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c2ba5370717a340800000000000000
+      internalID: 4874890441384471660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_bullet_inimiga_nascer_12
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 158
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb31169955b7885d0800000000000000
+      internalID: -3060060339222539329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_bullet_inimiga_nascer_13
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 157
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0446ff7684b88efb0800000000000000
+      internalID: -4618288274769746880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_bullet_inimiga_nascer_14
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 156
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805bed754170ae570800000000000000
+      internalID: 8496611430942815496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_bullet_inimiga_nascer_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 107
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4dbc927d609cd70800000000000000
+      internalID: 9063783246248793273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_bullet_inimiga_nascer_16
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 106
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57202d1946ff322f0800000000000000
+      internalID: -998673884937846155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_bullet_inimiga_nascer_17
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 105
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fffbedfc22e1ba90800000000000000
+      internalID: -7299804838124322830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_bullet_inimiga_nascer_18
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 104
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50092a79acb13f20800000000000000
+      internalID: 3400706629726437467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_bullet_inimiga_nascer_19
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 103
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d1e64994cd3d750800000000000000
+      internalID: 6328644109966646528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_bullet_inimiga_nascer_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 54
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb6fd3567b1be3a0800000000000000
+      internalID: -6635179430973051934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_bullet_inimiga_nascer_21
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 53
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638ac6cfd444ce1e0800000000000000
+      internalID: -2167282218933901258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_bullet_inimiga_nascer_22
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 52
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c223987c1c82c90800000000000000
+      internalID: -7194287341979947971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_bullet_inimiga_nascer_23
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 51
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a12eb90a4e5d720800000000000000
+      internalID: 2870451715979745885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_bullet_inimiga_nascer_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 50
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff15f83ba8ad37b0800000000000000
+      internalID: -5242848937840926734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_bullet_inimiga_nascer_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9844bf72610703c40800000000000000
+      internalID: 5490011186227004553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 50a389f90f379084784160c1d1e413f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2354610328805010651
+    second: canhao_inimigo_atirando_0
+  - first:
+      213: -587490583562040864
+    second: canhao_inimigo_atirando_1
+  - first:
+      213: -6183837804293157808
+    second: canhao_inimigo_atirando_2
+  - first:
+      213: -7577861720180936743
+    second: canhao_inimigo_atirando_3
+  - first:
+      213: -1884243549412173440
+    second: canhao_inimigo_atirando_4
+  - first:
+      213: -6792346084440528213
+    second: canhao_inimigo_atirando_5
+  - first:
+      213: 8816066009200594664
+    second: canhao_inimigo_atirando_6
+  - first:
+      213: -7074254631750462036
+    second: canhao_inimigo_atirando_7
+  - first:
+      213: 5618893428869006914
+    second: canhao_inimigo_atirando_8
+  - first:
+      213: 8629637278471158341
+    second: canhao_inimigo_atirando_9
+  - first:
+      213: 6154235101695935074
+    second: canhao_inimigo_atirando_10
+  - first:
+      213: 793266288516881363
+    second: canhao_inimigo_atirando_11
+  - first:
+      213: 1818577607017757548
+    second: canhao_inimigo_atirando_12
+  - first:
+      213: 4632463213893020768
+    second: canhao_inimigo_atirando_13
+  - first:
+      213: -2839897851709328304
+    second: canhao_inimigo_atirando_14
+  - first:
+      213: 5133225236769152795
+    second: canhao_inimigo_atirando_15
+  - first:
+      213: 2476281652241589571
+    second: canhao_inimigo_atirando_16
+  - first:
+      213: -8461083073467195434
+    second: canhao_inimigo_atirando_17
+  - first:
+      213: -7229957822727141974
+    second: canhao_inimigo_atirando_18
+  - first:
+      213: -1545382675371644147
+    second: canhao_inimigo_atirando_19
+  - first:
+      213: 5325849271378630303
+    second: canhao_inimigo_atirando_20
+  - first:
+      213: 7621410627212325702
+    second: canhao_inimigo_atirando_21
+  - first:
+      213: -3739027919923532352
+    second: canhao_inimigo_atirando_22
+  - first:
+      213: 4011153223338798557
+    second: canhao_inimigo_atirando_23
+  - first:
+      213: -2834104390491890010
+    second: canhao_inimigo_atirando_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: canhao_inimigo_atirando_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 263
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5239c17916eb25fd0800000000000000
+      internalID: -2354610328805010651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_inimigo_atirando_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 263
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9c5e94d60d8d7f0800000000000000
+      internalID: -587490583562040864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_inimigo_atirando_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 263
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c8976c7489e2aa0800000000000000
+      internalID: -6183837804293157808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_inimigo_atirando_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 263
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfa59b2ae606d690800000000000000
+      internalID: -7577861720180936743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_inimigo_atirando_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 263
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08957f69972d9d5e0800000000000000
+      internalID: -1884243549412173440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_inimigo_atirando_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 199
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa286d393dbcb1a0800000000000000
+      internalID: -6792346084440528213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_inimigo_atirando_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 199
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee0cca6355f85a70800000000000000
+      internalID: 8816066009200594664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_inimigo_atirando_7
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 199
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca51ad7b4e233dd90800000000000000
+      internalID: -7074254631750462036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_inimigo_atirando_8
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 199
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246838aadc15afd40800000000000000
+      internalID: 5618893428869006914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_inimigo_atirando_9
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 199
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54afdbb0261a2c770800000000000000
+      internalID: 8629637278471158341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_inimigo_atirando_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 135
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26283dce73c386550800000000000000
+      internalID: 6154235101695935074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_inimigo_atirando_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 135
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db575b8c7f320b00800000000000000
+      internalID: 793266288516881363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_inimigo_atirando_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 135
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bf5c6c2b2ec3910800000000000000
+      internalID: 1818577607017757548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_inimigo_atirando_13
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 135
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c682bcfb0d94040800000000000000
+      internalID: 4632463213893020768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_inimigo_atirando_14
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 135
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054787643f7a698d0800000000000000
+      internalID: -2839897851709328304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_inimigo_atirando_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 71
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f12b5e721ec3740800000000000000
+      internalID: 5133225236769152795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_inimigo_atirando_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 71
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3456da5fa058d5220800000000000000
+      internalID: 2476281652241589571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_inimigo_atirando_17
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 71
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfdaeef5c1349a80800000000000000
+      internalID: -8461083073467195434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_inimigo_atirando_18
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 71
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5ca4b8aa70aab90800000000000000
+      internalID: -7229957822727141974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_inimigo_atirando_19
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 71
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b2e6005a2bd8ae0800000000000000
+      internalID: -1545382675371644147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_inimigo_atirando_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96dbcbd1b739e940800000000000000
+      internalID: 5325849271378630303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_inimigo_atirando_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 7
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643b062e590b4c960800000000000000
+      internalID: 7621410627212325702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_inimigo_atirando_22
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 7
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cda0b3caed4c1cc0800000000000000
+      internalID: -3739027919923532352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_inimigo_atirando_23
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 7
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddda5c8ca9a7aa730800000000000000
+      internalID: 4011153223338798557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canhao_inimigo_atirando_24
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 7
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae1b54921d3ba8d0800000000000000
+      internalID: -2834104390491890010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

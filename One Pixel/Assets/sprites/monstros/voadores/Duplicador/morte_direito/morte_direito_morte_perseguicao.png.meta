@@ -1,0 +1,785 @@
+fileFormatVersion: 2
+guid: c603dca98aadf0c4fbd416d18fa80247
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8609465806422792341
+    second: morte_direito_morte_perseguicao_0
+  - first:
+      213: 5794243208796654811
+    second: morte_direito_morte_perseguicao_1
+  - first:
+      213: 1170882077376786495
+    second: morte_direito_morte_perseguicao_2
+  - first:
+      213: -1258633025539549603
+    second: morte_direito_morte_perseguicao_3
+  - first:
+      213: 399386031922711889
+    second: morte_direito_morte_perseguicao_4
+  - first:
+      213: -5991959564681343510
+    second: morte_direito_morte_perseguicao_5
+  - first:
+      213: -9196010806926898780
+    second: morte_direito_morte_perseguicao_6
+  - first:
+      213: -1409642844935173665
+    second: morte_direito_morte_perseguicao_7
+  - first:
+      213: -5806519127005273428
+    second: morte_direito_morte_perseguicao_8
+  - first:
+      213: 6374418499865443567
+    second: morte_direito_morte_perseguicao_9
+  - first:
+      213: 2220267515658051523
+    second: morte_direito_morte_perseguicao_10
+  - first:
+      213: 5678771148574204935
+    second: morte_direito_morte_perseguicao_11
+  - first:
+      213: -7408427631697101183
+    second: morte_direito_morte_perseguicao_12
+  - first:
+      213: 5892247601562370803
+    second: morte_direito_morte_perseguicao_13
+  - first:
+      213: 7170397401643277381
+    second: morte_direito_morte_perseguicao_14
+  - first:
+      213: -2217940637627990188
+    second: morte_direito_morte_perseguicao_15
+  - first:
+      213: -5321854364421457039
+    second: morte_direito_morte_perseguicao_16
+  - first:
+      213: -7942016600720958764
+    second: morte_direito_morte_perseguicao_17
+  - first:
+      213: 601051503361701815
+    second: morte_direito_morte_perseguicao_18
+  - first:
+      213: 8640989649536379504
+    second: morte_direito_morte_perseguicao_19
+  - first:
+      213: 5106499782153364663
+    second: morte_direito_morte_perseguicao_20
+  - first:
+      213: -6929125973236515232
+    second: morte_direito_morte_perseguicao_21
+  - first:
+      213: -3501508843665835724
+    second: morte_direito_morte_perseguicao_22
+  - first:
+      213: -5899113379954956136
+    second: morte_direito_morte_perseguicao_23
+  - first:
+      213: -1986991383169379974
+    second: morte_direito_morte_perseguicao_24
+  - first:
+      213: -3177932310547577620
+    second: morte_direito_morte_perseguicao_25
+  - first:
+      213: -302669900770864080
+    second: morte_direito_morte_perseguicao_26
+  - first:
+      213: -3330333289048208631
+    second: morte_direito_morte_perseguicao_27
+  - first:
+      213: -7702715459728233002
+    second: morte_direito_morte_perseguicao_25
+  - first:
+      213: -5234158491932504357
+    second: morte_direito_morte_perseguicao_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: morte_direito_morte_perseguicao_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 321
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b672c46c678058880800000000000000
+      internalID: -8609465806422792341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_direito_morte_perseguicao_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 321
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc4b8acf79496050800000000000000
+      internalID: 5794243208796654811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_direito_morte_perseguicao_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 321
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f303ae7bb0fcf3010800000000000000
+      internalID: 1170882077376786495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_direito_morte_perseguicao_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 321
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56d32a8eef688ee0800000000000000
+      internalID: -1258633025539549603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_direito_morte_perseguicao_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 321
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d8101ea77ea8500800000000000000
+      internalID: 399386031922711889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_direito_morte_perseguicao_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 257
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed0aaec58848dca0800000000000000
+      internalID: -5991959564681343510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_direito_morte_perseguicao_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 257
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a90876c4e4316080800000000000000
+      internalID: -9196010806926898780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_direito_morte_perseguicao_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 257
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9c7771d41ff6ce0800000000000000
+      internalID: -1409642844935173665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_direito_morte_perseguicao_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 257
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2e6554e991b6fa0800000000000000
+      internalID: -5806519127005273428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_direito_morte_perseguicao_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 257
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec782e3adb767850800000000000000
+      internalID: 6374418499865443567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_direito_morte_perseguicao_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 193
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf1321ca89ffce10800000000000000
+      internalID: 2220267515658051523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_direito_morte_perseguicao_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 193
+        width: 22
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704a08fa54c0fce40800000000000000
+      internalID: 5678771148574204935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_direito_morte_perseguicao_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 202
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e718c025aff2990800000000000000
+      internalID: -7408427631697101183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_direito_morte_perseguicao_13
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 203
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2c5c3a9f775c150800000000000000
+      internalID: 5892247601562370803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_direito_morte_perseguicao_14
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 205
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cd457427e528360800000000000000
+      internalID: 7170397401643277381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_direito_morte_perseguicao_15
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 142
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fb741cdba4831e0800000000000000
+      internalID: -2217940637627990188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_direito_morte_perseguicao_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 144
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bfb46e6a9f426b0800000000000000
+      internalID: -5321854364421457039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_direito_morte_perseguicao_17
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 145
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da95c1faf948c190800000000000000
+      internalID: -7942016600720958764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_direito_morte_perseguicao_18
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 147
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7b695682d575800800000000000000
+      internalID: 601051503361701815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_direito_morte_perseguicao_19
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 147
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a6178ed46fae770800000000000000
+      internalID: 8640989649536379504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_direito_morte_perseguicao_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 83
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b46cd81f7eedd640800000000000000
+      internalID: 5106499782153364663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_direito_morte_perseguicao_21
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 83
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06efd41b3acc6df90800000000000000
+      internalID: -6929125973236515232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_direito_morte_perseguicao_22
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 83
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439b86b2244286fc0800000000000000
+      internalID: -3501508843665835724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_direito_morte_perseguicao_23
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 83
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898e702c2a3222ea0800000000000000
+      internalID: -5899113379954956136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_direito_morte_perseguicao_24
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 83
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a715d625dd9cc64e0800000000000000
+      internalID: -1986991383169379974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_direito_morte_perseguicao_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 20
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd2df0a9157a1590800000000000000
+      internalID: -7702715459728233002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morte_direito_morte_perseguicao_26
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 20
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdec44655988c57b0800000000000000
+      internalID: -5234158491932504357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

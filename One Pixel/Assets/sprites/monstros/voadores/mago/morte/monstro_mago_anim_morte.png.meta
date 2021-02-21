@@ -1,0 +1,1400 @@
+fileFormatVersion: 2
+guid: ebde48c7530b21b4fb38cb77642dd630
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9053766926994763988
+    second: monstro_mago_anim_morte_0
+  - first:
+      213: -8061206391839114631
+    second: monstro_mago_anim_morte_1
+  - first:
+      213: -5950617855281357403
+    second: monstro_mago_anim_morte_2
+  - first:
+      213: -1533164400808177850
+    second: monstro_mago_anim_morte_3
+  - first:
+      213: -4757232756797253876
+    second: monstro_mago_anim_morte_4
+  - first:
+      213: 2293313565457730661
+    second: monstro_mago_anim_morte_5
+  - first:
+      213: -8202077559934264191
+    second: monstro_mago_anim_morte_6
+  - first:
+      213: 5549684284504733240
+    second: monstro_mago_anim_morte_7
+  - first:
+      213: 5606273644874238895
+    second: monstro_mago_anim_morte_8
+  - first:
+      213: 8057109960853881194
+    second: monstro_mago_anim_morte_9
+  - first:
+      213: 7724451360352561115
+    second: monstro_mago_anim_morte_10
+  - first:
+      213: 4048620674343221167
+    second: monstro_mago_anim_morte_11
+  - first:
+      213: 8331656914044651158
+    second: monstro_mago_anim_morte_12
+  - first:
+      213: -4579863984999153184
+    second: monstro_mago_anim_morte_13
+  - first:
+      213: -564299058631871284
+    second: monstro_mago_anim_morte_14
+  - first:
+      213: 8072589439206385074
+    second: monstro_mago_anim_morte_15
+  - first:
+      213: 106578163170181192
+    second: monstro_mago_anim_morte_16
+  - first:
+      213: 8675258147273976454
+    second: monstro_mago_anim_morte_17
+  - first:
+      213: 5969246359864012305
+    second: monstro_mago_anim_morte_18
+  - first:
+      213: -6384932061107790950
+    second: monstro_mago_anim_morte_19
+  - first:
+      213: 654207458892354724
+    second: monstro_mago_anim_morte_20
+  - first:
+      213: -2193641776179541090
+    second: monstro_mago_anim_morte_21
+  - first:
+      213: -2622506002004145319
+    second: monstro_mago_anim_morte_22
+  - first:
+      213: -4625928529409927741
+    second: monstro_mago_anim_morte_23
+  - first:
+      213: -1292598629852706220
+    second: monstro_mago_anim_morte_24
+  - first:
+      213: -640314429773593715
+    second: monstro_mago_anim_morte_25
+  - first:
+      213: 335271896766174114
+    second: monstro_mago_anim_morte_26
+  - first:
+      213: -8856937302711779612
+    second: monstro_mago_anim_morte_27
+  - first:
+      213: -4074688764014903758
+    second: monstro_mago_anim_morte_28
+  - first:
+      213: 5506362884736548758
+    second: monstro_mago_anim_morte_29
+  - first:
+      213: -182558542804995709
+    second: monstro_mago_anim_morte_30
+  - first:
+      213: 2908997793821046552
+    second: monstro_mago_anim_morte_31
+  - first:
+      213: -1454692640586058301
+    second: monstro_mago_anim_morte_32
+  - first:
+      213: 6562572437316942937
+    second: monstro_mago_anim_morte_33
+  - first:
+      213: -467249193760612738
+    second: monstro_mago_anim_morte_34
+  - first:
+      213: 777732219062470974
+    second: monstro_mago_anim_morte_35
+  - first:
+      213: 1533377249831061220
+    second: monstro_mago_anim_morte_36
+  - first:
+      213: -3369314036076319981
+    second: monstro_mago_anim_morte_37
+  - first:
+      213: -5339180693722194360
+    second: monstro_mago_anim_morte_38
+  - first:
+      213: -5828770763982088048
+    second: monstro_mago_anim_morte_39
+  - first:
+      213: -1919322838146277548
+    second: monstro_mago_anim_morte_40
+  - first:
+      213: 498714376912577928
+    second: monstro_mago_anim_morte_41
+  - first:
+      213: -6681958603376905200
+    second: monstro_mago_anim_morte_42
+  - first:
+      213: -756138626592567038
+    second: monstro_mago_anim_morte_43
+  - first:
+      213: -1196268243045892756
+    second: monstro_mago_anim_morte_44
+  - first:
+      213: 5409076082528654
+    second: monstro_mago_anim_morte_45
+  - first:
+      213: 387282223820184327
+    second: monstro_mago_anim_morte_46
+  - first:
+      213: -6881690372793432516
+    second: monstro_mago_anim_morte_47
+  - first:
+      213: -3637671168930784189
+    second: monstro_mago_anim_morte_48
+  - first:
+      213: 9055322362620785391
+    second: monstro_mago_anim_morte_49
+  - first:
+      213: 6556735123181180409
+    second: monstro_mago_anim_morte_50
+  - first:
+      213: -2569047430331472793
+    second: monstro_mago_anim_morte_51
+  - first:
+      213: 8259773297210683695
+    second: monstro_mago_anim_morte_52
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 338
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0f3ba1d0175ad70800000000000000
+      internalID: 9053766926994763988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 338
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a32592f77d02090800000000000000
+      internalID: -8061206391839114631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 338
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad9bdd96982b6da0800000000000000
+      internalID: -5950617855281357403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 338
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fcd8bb91b19bae0800000000000000
+      internalID: -1533164400808177850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 338
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c075f39330aeafdb0800000000000000
+      internalID: -4757232756797253876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_5
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 338
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c41bb898c73df10800000000000000
+      internalID: 2293313565457730661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 338
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c5aeb6aed5c2e80800000000000000
+      internalID: -8202077559934264191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 290
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836f8790470740d40800000000000000
+      internalID: 5549684284504733240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 290
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab0d5c3d2c7dcd40800000000000000
+      internalID: 5606273644874238895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_9
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 290
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6105fc22da90df60800000000000000
+      internalID: 8057109960853881194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_10
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 290
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7e89a1693c23b60800000000000000
+      internalID: 7724451360352561115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_11
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 290
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7b7848d079f2830800000000000000
+      internalID: 4048620674343221167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_12
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 290
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6960f0002ddff9370800000000000000
+      internalID: 8331656914044651158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_13
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 290
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1458688fd0170c0800000000000000
+      internalID: -4579863984999153184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4f827fef43b28f0800000000000000
+      internalID: -564299058631871284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_15
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b567751359970070800000000000000
+      internalID: 8072589439206385074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84082945644aa7100800000000000000
+      internalID: 106578163170181192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a241b4255b46870800000000000000
+      internalID: 8675258147273976454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_18
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11eec7810f507d250800000000000000
+      internalID: 5969246359864012305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_19
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bdaa68e1a2467a0800000000000000
+      internalID: -6384932061107790950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_20
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a490bcb736341900800000000000000
+      internalID: 654207458892354724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 194
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b8c5e4d6e9e81e0800000000000000
+      internalID: -2193641776179541090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_22
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 194
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b86319facfa9bd0800000000000000
+      internalID: -2622506002004145319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_23
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 194
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c51d2003866dcfb0800000000000000
+      internalID: -4625928529409927741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_24
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 194
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a09760564cf0ee0800000000000000
+      internalID: -1292598629852706220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_25
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 194
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83c9cc2b652d17f0800000000000000
+      internalID: -640314429773593715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_26
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 194
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a35be5830027a400800000000000000
+      internalID: 335271896766174114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_27
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 194
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee35f10376d51580800000000000000
+      internalID: -8856937302711779612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 146
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ebd92682cc377c0800000000000000
+      internalID: -4074688764014903758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_29
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 146
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ffd15aed78a6c40800000000000000
+      internalID: 5506362884736548758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_30
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 146
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3813569f8fb677df0800000000000000
+      internalID: -182558542804995709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_31
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 147
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8173919b416de5820800000000000000
+      internalID: 2908997793821046552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_32
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 147
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c53e7c20c4efcbe0800000000000000
+      internalID: -1454692640586058301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_33
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 147
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cbb0b9cd0f21b50800000000000000
+      internalID: 6562572437316942937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_34
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 151
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e9f48755ff389f0800000000000000
+      internalID: -467249193760612738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 103
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e394897255f0bca00800000000000000
+      internalID: 777732219062470974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_36
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 103
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e688da0c76a74510800000000000000
+      internalID: 1533377249831061220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_37
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 104
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31beeee4cbacd31d0800000000000000
+      internalID: -3369314036076319981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_38
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 108
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e901f727b67e5b0800000000000000
+      internalID: -5339180693722194360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_39
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 108
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0985aaf4fdb0c1fa0800000000000000
+      internalID: -5828770763982088048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_40
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 110
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f1ff63c023d55e0800000000000000
+      internalID: -1919322838146277548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_41
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 110
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8852140651acbe600800000000000000
+      internalID: 498714376912577928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_42
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 62
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014bad18d0ae443a0800000000000000
+      internalID: -6681958603376905200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_43
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 65
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2019ff0ece7a185f0800000000000000
+      internalID: -756138626592567038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_44
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 68
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d3b2dfe50066fe0800000000000000
+      internalID: -1196268243045892756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_45
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 68
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81567aa687331000800000000000000
+      internalID: 5409076082528654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_46
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 68
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b10a27127ef5500800000000000000
+      internalID: 387282223820184327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_47
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 71
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c360c6311135f70a0800000000000000
+      internalID: -6881690372793432516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_48
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 72
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c53365855648dc0800000000000000
+      internalID: -3637671168930784189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_49
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 24
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2b9ae26b7faad70800000000000000
+      internalID: 9055322362620785391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_50
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 24
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f59a8ffad33efa50800000000000000
+      internalID: 6556735123181180409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_51
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 24
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76466f739f8e85cd0800000000000000
+      internalID: -2569047430331472793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_mago_anim_morte_52
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 27
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21ff793d0c90a270800000000000000
+      internalID: 8259773297210683695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

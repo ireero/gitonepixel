@@ -1,0 +1,3041 @@
+fileFormatVersion: 2
+guid: 1dbc266f72ef6a746a0268fb4990d15b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7545189732165828723
+    second: monstro_bomba_explosao_0
+  - first:
+      213: 5000396530518835377
+    second: monstro_bomba_explosao_1
+  - first:
+      213: 3544177635573989937
+    second: monstro_bomba_explosao_2
+  - first:
+      213: 757890750619321895
+    second: monstro_bomba_explosao_3
+  - first:
+      213: -3471787024722538355
+    second: monstro_bomba_explosao_4
+  - first:
+      213: 2302557009229007559
+    second: monstro_bomba_explosao_5
+  - first:
+      213: 585100497923993985
+    second: monstro_bomba_explosao_6
+  - first:
+      213: 2060452454695008837
+    second: monstro_bomba_explosao_7
+  - first:
+      213: -5532583541092401677
+    second: monstro_bomba_explosao_8
+  - first:
+      213: -5135035881064191128
+    second: monstro_bomba_explosao_9
+  - first:
+      213: 5248826781871426460
+    second: monstro_bomba_explosao_10
+  - first:
+      213: 5671769352948204718
+    second: monstro_bomba_explosao_11
+  - first:
+      213: 2450709706778617863
+    second: monstro_bomba_explosao_12
+  - first:
+      213: -5628647609404823435
+    second: monstro_bomba_explosao_13
+  - first:
+      213: -3067706530608963147
+    second: monstro_bomba_explosao_14
+  - first:
+      213: -5682217059621582691
+    second: monstro_bomba_explosao_15
+  - first:
+      213: 3245763559817819187
+    second: monstro_bomba_explosao_16
+  - first:
+      213: 1834245500890353724
+    second: monstro_bomba_explosao_17
+  - first:
+      213: 4627324184263536987
+    second: monstro_bomba_explosao_18
+  - first:
+      213: -1275424904680904245
+    second: monstro_bomba_explosao_19
+  - first:
+      213: 6712202649036204561
+    second: monstro_bomba_explosao_20
+  - first:
+      213: 4524181309719861145
+    second: monstro_bomba_explosao_21
+  - first:
+      213: 8811007396707654469
+    second: monstro_bomba_explosao_22
+  - first:
+      213: -8386704728358653263
+    second: monstro_bomba_explosao_23
+  - first:
+      213: -4903795929976511837
+    second: monstro_bomba_explosao_24
+  - first:
+      213: -133198654233453424
+    second: monstro_bomba_explosao_25
+  - first:
+      213: -1140759800091879674
+    second: monstro_bomba_explosao_26
+  - first:
+      213: -8206152991437354654
+    second: monstro_bomba_explosao_27
+  - first:
+      213: 5692182199924825104
+    second: monstro_bomba_explosao_28
+  - first:
+      213: -5671667484841833316
+    second: monstro_bomba_explosao_29
+  - first:
+      213: 2920417621001037298
+    second: monstro_bomba_explosao_30
+  - first:
+      213: -8803431110577803293
+    second: monstro_bomba_explosao_31
+  - first:
+      213: 4701356559245139361
+    second: monstro_bomba_explosao_32
+  - first:
+      213: 3762475529538698447
+    second: monstro_bomba_explosao_33
+  - first:
+      213: -5378230365750571361
+    second: monstro_bomba_explosao_34
+  - first:
+      213: -7014923551608123135
+    second: monstro_bomba_explosao_35
+  - first:
+      213: -5500800960891351577
+    second: monstro_bomba_explosao_36
+  - first:
+      213: 6520337683192802306
+    second: monstro_bomba_explosao_37
+  - first:
+      213: -2842074645396220544
+    second: monstro_bomba_explosao_38
+  - first:
+      213: 6512882345230707306
+    second: monstro_bomba_explosao_39
+  - first:
+      213: -6742136899212781688
+    second: monstro_bomba_explosao_40
+  - first:
+      213: -2059678556177370125
+    second: monstro_bomba_explosao_41
+  - first:
+      213: 7908463448269563121
+    second: monstro_bomba_explosao_42
+  - first:
+      213: -6065970349187751288
+    second: monstro_bomba_explosao_43
+  - first:
+      213: 6257871096641422471
+    second: monstro_bomba_explosao_44
+  - first:
+      213: -2797956734404997210
+    second: monstro_bomba_explosao_45
+  - first:
+      213: 1123357372933258669
+    second: monstro_bomba_explosao_46
+  - first:
+      213: -1012663087982098881
+    second: monstro_bomba_explosao_47
+  - first:
+      213: -8337372726747874824
+    second: monstro_bomba_explosao_48
+  - first:
+      213: 8789240373364560094
+    second: monstro_bomba_explosao_49
+  - first:
+      213: -4218808256516703026
+    second: monstro_bomba_explosao_50
+  - first:
+      213: 6179704742423618753
+    second: monstro_bomba_explosao_51
+  - first:
+      213: 5239411852292535573
+    second: monstro_bomba_explosao_52
+  - first:
+      213: -8254920907419816873
+    second: monstro_bomba_explosao_53
+  - first:
+      213: 6162310028592041334
+    second: monstro_bomba_explosao_54
+  - first:
+      213: -2782772697459328024
+    second: monstro_bomba_explosao_55
+  - first:
+      213: 2344775318363280702
+    second: monstro_bomba_explosao_56
+  - first:
+      213: 4209787000040159275
+    second: monstro_bomba_explosao_57
+  - first:
+      213: 3794152421611079442
+    second: monstro_bomba_explosao_58
+  - first:
+      213: -9179371344463953581
+    second: monstro_bomba_explosao_59
+  - first:
+      213: 5120302272461980934
+    second: monstro_bomba_explosao_60
+  - first:
+      213: -5168291444085616704
+    second: monstro_bomba_explosao_61
+  - first:
+      213: -8150074326395484054
+    second: monstro_bomba_explosao_62
+  - first:
+      213: 7860413512466637423
+    second: monstro_bomba_explosao_63
+  - first:
+      213: -7825245986137343375
+    second: monstro_bomba_explosao_64
+  - first:
+      213: 3882179738303458974
+    second: monstro_bomba_explosao_65
+  - first:
+      213: 9104266886610206640
+    second: monstro_bomba_explosao_66
+  - first:
+      213: 9223308939389683647
+    second: monstro_bomba_explosao_67
+  - first:
+      213: -9110789136507128673
+    second: monstro_bomba_explosao_68
+  - first:
+      213: 1090656294739541821
+    second: monstro_bomba_explosao_69
+  - first:
+      213: -7161378922439441487
+    second: monstro_bomba_explosao_70
+  - first:
+      213: 624242746802660997
+    second: monstro_bomba_explosao_71
+  - first:
+      213: 8496357201262162802
+    second: monstro_bomba_explosao_72
+  - first:
+      213: -2293157456496475270
+    second: monstro_bomba_explosao_73
+  - first:
+      213: -253583138577488580
+    second: monstro_bomba_explosao_74
+  - first:
+      213: -6537755342127051363
+    second: monstro_bomba_explosao_75
+  - first:
+      213: -6517074013156285907
+    second: monstro_bomba_explosao_76
+  - first:
+      213: 861507468672658305
+    second: monstro_bomba_explosao_77
+  - first:
+      213: -8475337102878762821
+    second: monstro_bomba_explosao_78
+  - first:
+      213: 5766885973678749066
+    second: monstro_bomba_explosao_79
+  - first:
+      213: 2655298182115784099
+    second: monstro_bomba_explosao_80
+  - first:
+      213: -6142458546365685211
+    second: monstro_bomba_explosao_81
+  - first:
+      213: -8920656059126833989
+    second: monstro_bomba_explosao_82
+  - first:
+      213: 8407596893823574466
+    second: monstro_bomba_explosao_83
+  - first:
+      213: 2983249635829905946
+    second: monstro_bomba_explosao_84
+  - first:
+      213: 8491898358926236984
+    second: monstro_bomba_explosao_85
+  - first:
+      213: 863787036151894762
+    second: monstro_bomba_explosao_86
+  - first:
+      213: 8171834224395068482
+    second: monstro_bomba_explosao_87
+  - first:
+      213: 6173324151521011281
+    second: monstro_bomba_explosao_88
+  - first:
+      213: 4211310399845284218
+    second: monstro_bomba_explosao_89
+  - first:
+      213: 3139897068375306823
+    second: monstro_bomba_explosao_90
+  - first:
+      213: 4682603936055531424
+    second: monstro_bomba_explosao_91
+  - first:
+      213: 7514319699452917029
+    second: monstro_bomba_explosao_92
+  - first:
+      213: -9039130590763521599
+    second: monstro_bomba_explosao_93
+  - first:
+      213: 6564633924568660562
+    second: monstro_bomba_explosao_94
+  - first:
+      213: -4856502120292530898
+    second: monstro_bomba_explosao_95
+  - first:
+      213: -2791677573755279568
+    second: monstro_bomba_explosao_96
+  - first:
+      213: 5342247988705735912
+    second: monstro_bomba_explosao_97
+  - first:
+      213: 2011620932240926065
+    second: monstro_bomba_explosao_98
+  - first:
+      213: -2868959437117699023
+    second: monstro_bomba_explosao_99
+  - first:
+      213: 7381862489541947367
+    second: monstro_bomba_explosao_100
+  - first:
+      213: -2114669646164881309
+    second: monstro_bomba_explosao_101
+  - first:
+      213: 6338066275582896858
+    second: monstro_bomba_explosao_102
+  - first:
+      213: 4971131720101106518
+    second: monstro_bomba_explosao_103
+  - first:
+      213: -7449042233685405415
+    second: monstro_bomba_explosao_104
+  - first:
+      213: -9039249715037654196
+    second: monstro_bomba_explosao_105
+  - first:
+      213: 7187264462543244439
+    second: monstro_bomba_explosao_106
+  - first:
+      213: 7260904214344353485
+    second: monstro_bomba_explosao_107
+  - first:
+      213: 9044609732991850318
+    second: monstro_bomba_explosao_108
+  - first:
+      213: -6131041311601335264
+    second: monstro_bomba_explosao_109
+  - first:
+      213: -3139790110075964538
+    second: monstro_bomba_explosao_110
+  - first:
+      213: -7805024839341495467
+    second: monstro_bomba_explosao_111
+  - first:
+      213: 7108563105269584
+    second: monstro_bomba_explosao_112
+  - first:
+      213: 3922211693888152734
+    second: monstro_bomba_explosao_113
+  - first:
+      213: -6067595228744172724
+    second: monstro_bomba_explosao_114
+  - first:
+      213: 5425192428610224115
+    second: monstro_bomba_explosao_115
+  - first:
+      213: 8605615640946994092
+    second: monstro_bomba_explosao_116
+  - first:
+      213: 1119083373958003685
+    second: monstro_bomba_explosao_117
+  - first:
+      213: -2461345979995538057
+    second: monstro_bomba_explosao_118
+  - first:
+      213: 8022762417045923419
+    second: monstro_bomba_explosao_119
+  - first:
+      213: 1961725471375337853
+    second: monstro_bomba_explosao_120
+  - first:
+      213: -7355897027938133646
+    second: monstro_bomba_explosao_121
+  - first:
+      213: -6334666531615538766
+    second: monstro_bomba_explosao_122
+  - first:
+      213: 7389744864478643245
+    second: monstro_bomba_explosao_123
+  - first:
+      213: -6330281047680745035
+    second: monstro_bomba_explosao_124
+  - first:
+      213: -778142287116417569
+    second: monstro_bomba_explosao_125
+  - first:
+      213: -6709528575798039392
+    second: monstro_bomba_explosao_126
+  - first:
+      213: -4010360728708185482
+    second: monstro_bomba_explosao_127
+  - first:
+      213: -6123861798759901728
+    second: monstro_bomba_explosao_128
+  - first:
+      213: 3107823415216478224
+    second: monstro_bomba_explosao_11
+  - first:
+      213: -4796546272034122302
+    second: monstro_bomba_explosao_27
+  - first:
+      213: 4036161469922334283
+    second: monstro_bomba_explosao_41
+  - first:
+      213: -6500809032686527111
+    second: monstro_bomba_explosao_42
+  - first:
+      213: 1861779668780750269
+    second: monstro_bomba_explosao_44
+  - first:
+      213: -4244893964322904315
+    second: monstro_bomba_explosao_46
+  - first:
+      213: -7982495282084798983
+    second: monstro_bomba_explosao_48
+  - first:
+      213: -7917378005655774817
+    second: monstro_bomba_explosao_50
+  - first:
+      213: -3116009020343680267
+    second: monstro_bomba_explosao_52
+  - first:
+      213: -3464022179529997038
+    second: monstro_bomba_explosao_54
+  - first:
+      213: -2183249637900203743
+    second: monstro_bomba_explosao_0
+  - first:
+      213: -8178270207386946613
+    second: monstro_bomba_explosao_1
+  - first:
+      213: -8105179466252292649
+    second: monstro_bomba_explosao_2
+  - first:
+      213: 359949647078614563
+    second: monstro_bomba_explosao_3
+  - first:
+      213: 102100347614876215
+    second: monstro_bomba_explosao_4
+  - first:
+      213: -6414080786650763954
+    second: monstro_bomba_explosao_5
+  - first:
+      213: 3890963341799434439
+    second: monstro_bomba_explosao_6
+  - first:
+      213: 5171149188104398995
+    second: monstro_bomba_explosao_7
+  - first:
+      213: 5952584643789869689
+    second: monstro_bomba_explosao_8
+  - first:
+      213: -8353121950804126552
+    second: monstro_bomba_explosao_9
+  - first:
+      213: 3839691839736569804
+    second: monstro_bomba_explosao_10
+  - first:
+      213: -4180324153117925120
+    second: monstro_bomba_explosao_12
+  - first:
+      213: 7359778681627778137
+    second: monstro_bomba_explosao_13
+  - first:
+      213: -4871941108605011149
+    second: monstro_bomba_explosao_14
+  - first:
+      213: -9218090308082877060
+    second: monstro_bomba_explosao_15
+  - first:
+      213: 7491924443555877623
+    second: monstro_bomba_explosao_16
+  - first:
+      213: -1662221653943986852
+    second: monstro_bomba_explosao_17
+  - first:
+      213: 3553733047110996205
+    second: monstro_bomba_explosao_18
+  - first:
+      213: 8154285718924787442
+    second: monstro_bomba_explosao_19
+  - first:
+      213: 6015184500978829171
+    second: monstro_bomba_explosao_20
+  - first:
+      213: -8137643918942251434
+    second: monstro_bomba_explosao_21
+  - first:
+      213: -2156654894578329798
+    second: monstro_bomba_explosao_22
+  - first:
+      213: 7508230412373811885
+    second: monstro_bomba_explosao_23
+  - first:
+      213: -171184259990606420
+    second: monstro_bomba_explosao_24
+  - first:
+      213: 1664947347847607253
+    second: monstro_bomba_explosao_25
+  - first:
+      213: -4245629633885445404
+    second: monstro_bomba_explosao_26
+  - first:
+      213: 251243821938966778
+    second: monstro_bomba_explosao_28
+  - first:
+      213: 2160285708897193164
+    second: monstro_bomba_explosao_29
+  - first:
+      213: -8775906238036111988
+    second: monstro_bomba_explosao_30
+  - first:
+      213: -8325724454725105918
+    second: monstro_bomba_explosao_31
+  - first:
+      213: -2583455994646796943
+    second: monstro_bomba_explosao_32
+  - first:
+      213: -5387703401316711265
+    second: monstro_bomba_explosao_33
+  - first:
+      213: 7597768919570487912
+    second: monstro_bomba_explosao_34
+  - first:
+      213: 4034377775779482861
+    second: monstro_bomba_explosao_35
+  - first:
+      213: -4888587167675746704
+    second: monstro_bomba_explosao_36
+  - first:
+      213: -145511086209508874
+    second: monstro_bomba_explosao_37
+  - first:
+      213: -7354138072784805224
+    second: monstro_bomba_explosao_38
+  - first:
+      213: 3141816197633041924
+    second: monstro_bomba_explosao_39
+  - first:
+      213: 8757894617433664555
+    second: monstro_bomba_explosao_40
+  - first:
+      213: -6229296685583060133
+    second: monstro_bomba_explosao_43
+  - first:
+      213: -1928784604342556854
+    second: monstro_bomba_explosao_45
+  - first:
+      213: -7055561821044748679
+    second: monstro_bomba_explosao_47
+  - first:
+      213: 7312863387680587065
+    second: monstro_bomba_explosao_49
+  - first:
+      213: -5894375161027469206
+    second: monstro_bomba_explosao_51
+  - first:
+      213: 2110432883919281336
+    second: monstro_bomba_explosao_53
+  - first:
+      213: -7768351013901907366
+    second: monstro_bomba_explosao_57
+  - first:
+      213: 7783134982304190927
+    second: monstro_bomba_explosao_59
+  - first:
+      213: 4204626599873323890
+    second: monstro_bomba_explosao_62
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 746
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0189e902ee4312b20800000000000000
+      internalID: 3107823415216478224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 828
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12945fc850a83b1e0800000000000000
+      internalID: -2183249637900203743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 828
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc37a83a392f08e80800000000000000
+      internalID: -8178270207386946613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 827
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dded31f73e948f80800000000000000
+      internalID: -8105179466252292649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 827
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326e5230c4ccef400800000000000000
+      internalID: 359949647078614563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_4
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 827
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7325707a9bbba6100800000000000000
+      internalID: 102100347614876215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_5
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 827
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4de50ff18b9cf6a0800000000000000
+      internalID: -6414080786650763954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_6
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 827
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8a50e4b8a7ff530800000000000000
+      internalID: 3890963341799434439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_7
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 827
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3982385e9cc93c740800000000000000
+      internalID: 5171149188104398995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_8
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 826
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9725a840234db9250800000000000000
+      internalID: 5952584643789869689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_9
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 826
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a45dcca7dfb31c80800000000000000
+      internalID: -8353121950804126552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_10
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 826
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfd67a7263594530800000000000000
+      internalID: 3839691839736569804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_72
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 401
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2733012ebdf19e570800000000000000
+      internalID: 8496357201262162802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_73
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 402
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a734d7761711d20e0800000000000000
+      internalID: -2293157456496475270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_74
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 403
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c356f00aa771b7cf0800000000000000
+      internalID: -253583138577488580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_75
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 404
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dca14a72a3545a0800000000000000
+      internalID: -6537755342127051363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_76
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 405
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22e3e6c6b3be85a0800000000000000
+      internalID: -6517074013156285907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_77
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 406
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b64917a70b4fb00800000000000000
+      internalID: 861507468672658305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_78
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 406
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb819372fcd816a80800000000000000
+      internalID: -8475337102878762821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_79
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 407
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85fd412d38180050800000000000000
+      internalID: 5766885973678749066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_80
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 408
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a570c5d0a389d420800000000000000
+      internalID: 2655298182115784099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_81
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 409
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522af480f7a91caa0800000000000000
+      internalID: -6142458546365685211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_82
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 410
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc1f40f396733480800000000000000
+      internalID: -8920656059126833989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_83
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 331
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1280f54d8cda470800000000000000
+      internalID: 8407596893823574466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_84
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 331
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a74f3ecb1a66920800000000000000
+      internalID: 2983249635829905946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_85
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 332
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d5580c09849d570800000000000000
+      internalID: 8491898358926236984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_86
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 332
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2db6b9bb9ccfb00800000000000000
+      internalID: 863787036151894762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_87
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 333
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244a27c4eef286170800000000000000
+      internalID: 8171834224395068482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_88
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 333
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156efbeab9d0ca550800000000000000
+      internalID: 6173324151521011281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_89
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 334
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79bfa50f74917a30800000000000000
+      internalID: 4211310399845284218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_90
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 334
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742fccf6fb7239b20800000000000000
+      internalID: 3139897068375306823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_91
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 335
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a79f686873fbf040800000000000000
+      internalID: 4682603936055531424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_92
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 335
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5257c9e34f9384860800000000000000
+      internalID: 7514319699452917029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_93
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 336
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c96c2b7e9e8e8280800000000000000
+      internalID: -9039130590763521599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_94
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 256
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ab46206c34a1b50800000000000000
+      internalID: 6564633924568660562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_95
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 257
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25480d6d0d3a9cb0800000000000000
+      internalID: -4856502120292530898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_96
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 257
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03764e0a908f149d0800000000000000
+      internalID: -2791677573755279568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_97
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 258
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4b9d4cd3a732a40800000000000000
+      internalID: 5342247988705735912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_98
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 258
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175e5f07496baeb10800000000000000
+      internalID: 2011620932240926065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_99
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 259
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c4893a7986f28d0800000000000000
+      internalID: -2868959437117699023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_100
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 259
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efadedc2d4a17660800000000000000
+      internalID: 7381862489541947367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_101
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 260
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3609a0b292f27a2e0800000000000000
+      internalID: -2114669646164881309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_102
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 260
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada600772b555f750800000000000000
+      internalID: 6338066275582896858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_103
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 261
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6539d4416f10df440800000000000000
+      internalID: 4971131720101106518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_104
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 261
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9119c402e8faf9890800000000000000
+      internalID: -7449042233685405415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_105
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 182
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c433123b6422e8280800000000000000
+      internalID: -9039249715037654196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_106
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 182
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ccdace2fa4eb360800000000000000
+      internalID: 7187264462543244439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_107
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 183
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6c12cb9e9e3c460800000000000000
+      internalID: 7260904214344353485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_108
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 184
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47150bb1a8e48d70800000000000000
+      internalID: 9044609732991850318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_109
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 185
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024e1c6296a2aeaa0800000000000000
+      internalID: -6131041311601335264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_110
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 185
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68333abb7893d64d0800000000000000
+      internalID: -3139790110075964538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_111
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 185
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b23fbe24bfea390800000000000000
+      internalID: -7805024839341495467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_112
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 185
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057c0c25331491000800000000000000
+      internalID: 7108563105269584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_113
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 185
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94261c31ce7e6630800000000000000
+      internalID: 3922211693888152734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_114
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 185
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b39d579429bcba0800000000000000
+      internalID: -6067595228744172724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_115
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 185
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff737915c72a4b40800000000000000
+      internalID: 5425192428610224115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_116
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 105
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabe038b4d94d6770800000000000000
+      internalID: 8605615640946994092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_117
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 106
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebffc24668c78f00800000000000000
+      internalID: 1119083373958003685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_118
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 107
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77db7093fda87ddd0800000000000000
+      internalID: -2461345979995538057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_119
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 108
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56606179e3965f60800000000000000
+      internalID: 8022762417045923419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_120
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 108
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79a92c2ce2793b10800000000000000
+      internalID: 1961725471375337853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_121
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 108
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279556550aa9ae990800000000000000
+      internalID: -7355897027938133646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_122
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 110
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1008c1a5eb618a0800000000000000
+      internalID: -6334666531615538766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_123
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 111
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24440c3dc5ad8660800000000000000
+      internalID: 7389744864478643245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_124
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 111
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b10a982de25628a0800000000000000
+      internalID: -6330281047680745035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_125
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 111
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd547bf66bb7335f0800000000000000
+      internalID: -778142287116417569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_126
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 111
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aca9351f47f2e2a0800000000000000
+      internalID: -6709528575798039392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_127
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 31
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6720c204a265858c0800000000000000
+      internalID: -4010360728708185482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_128
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 33
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5d45fb32ca30ba0800000000000000
+      internalID: -6123861798759901728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 745
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001ab6fb4518cf5c0800000000000000
+      internalID: -4180324153117925120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_13
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 745
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c9ae797bf232660800000000000000
+      internalID: 7359778681627778137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_14
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 745
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bb9f6df53636cb0800000000000000
+      internalID: -4871941108605011149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_15
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 745
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dbf3f44b3c21080800000000000000
+      internalID: -9218090308082877060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_16
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 744
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2d6366699a8f760800000000000000
+      internalID: 7491924443555877623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_17
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 744
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55d4ba663a9ee8e0800000000000000
+      internalID: -1662221653943986852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_18
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 744
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de01e9bb065615130800000000000000
+      internalID: 3553733047110996205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_19
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 744
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe7d8978a7d92170800000000000000
+      internalID: 8154285718924787442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_20
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 743
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377474f0f6a3a7350800000000000000
+      internalID: 6015184500978829171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_21
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 743
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65654d688f7411f80800000000000000
+      internalID: -8137643918942251434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_22
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 663
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a371d81ccc50212e0800000000000000
+      internalID: -2156654894578329798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_23
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 663
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2635d97c7923860800000000000000
+      internalID: 7508230412373811885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_24
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 662
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad2f1092d4df9df0800000000000000
+      internalID: -171184259990606420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_25
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 662
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d37f26aac41b1710800000000000000
+      internalID: 1664947347847607253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_26
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 662
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2e260a75e7415c0800000000000000
+      internalID: -4245629633885445404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_28
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 662
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af00fa6cce89c7300800000000000000
+      internalID: 251243821938966778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_30
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 662
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d09b3f5c7b53680800000000000000
+      internalID: -8775906238036111988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_32
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 662
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175693ae578b52cd0800000000000000
+      internalID: -2583455994646796943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_33
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 660
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccf0464f8ff63430800000000000000
+      internalID: 3762475529538698447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_34
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 652
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ec7393affac55b0800000000000000
+      internalID: -5378230365750571361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_35
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 652
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10150eb423cf5ae90800000000000000
+      internalID: -7014923551608123135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed81f9abaa39a3b0800000000000000
+      internalID: -5500800960891351577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cec4e9394ec7a50800000000000000
+      internalID: 6520337683192802306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08593000b2cee88d0800000000000000
+      internalID: -2842074645396220544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3fe8b044d8a63e0800000000000000
+      internalID: -2059678556177370125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4a449fa9180cd60800000000000000
+      internalID: 7908463448269563121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7840f755b9c68d650800000000000000
+      internalID: 6257871096641422471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadb0813497f69f00800000000000000
+      internalID: 1123357372933258669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_48
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9b926ada3bb4c80800000000000000
+      internalID: -8337372726747874824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_50
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc36de2e38c375c0800000000000000
+      internalID: -4218808256516703026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_52
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5153edfe15126b840800000000000000
+      internalID: 5239411852292535573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_54
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d4e0a525ce48550800000000000000
+      internalID: 6162310028592041334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebf745b9fa9169d0800000000000000
+      internalID: -2782772697459328024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_56
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3595299ab05a8020800000000000000
+      internalID: 2344775318363280702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21701d1768987a430800000000000000
+      internalID: 3794152421611079442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_60
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605c8bcc9c7fe0740800000000000000
+      internalID: 5120302272461980934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf069b705a8648b0800000000000000
+      internalID: -5168291444085616704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_63
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62214e717cc51d60800000000000000
+      internalID: 7860413512466637423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_64
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a7b3c4c34276390800000000000000
+      internalID: -7825245986137343375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_65
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9eebcf37e540e530800000000000000
+      internalID: 3882179738303458974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_66
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfb0c43f7ad85e70800000000000000
+      internalID: 9104266886610206640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_68
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9431072d89ff8180800000000000000
+      internalID: -9110789136507128673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_bomba_explosao_70
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3070a00dbad9c90800000000000000
+      internalID: -7161378922439441487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

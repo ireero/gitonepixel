@@ -1,0 +1,968 @@
+fileFormatVersion: 2
+guid: 5ec4314e854acdd4fb35e84865f81b4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2095162262587521978
+    second: monstro_meditador_atirar_0
+  - first:
+      213: 679801802098420179
+    second: monstro_meditador_atirar_1
+  - first:
+      213: 2941354731489728270
+    second: monstro_meditador_atirar_2
+  - first:
+      213: 3346863647992641156
+    second: monstro_meditador_atirar_3
+  - first:
+      213: -6050840172879946896
+    second: monstro_meditador_atirar_4
+  - first:
+      213: -6379951304950253193
+    second: monstro_meditador_atirar_5
+  - first:
+      213: -3367550759511711032
+    second: monstro_meditador_atirar_6
+  - first:
+      213: 2382426679522593890
+    second: monstro_meditador_atirar_7
+  - first:
+      213: 292034742172743355
+    second: monstro_meditador_atirar_8
+  - first:
+      213: -7634614430672474927
+    second: monstro_meditador_atirar_9
+  - first:
+      213: -214108130917099341
+    second: monstro_meditador_atirar_10
+  - first:
+      213: 2851931825411120708
+    second: monstro_meditador_atirar_11
+  - first:
+      213: 2422853706289843331
+    second: monstro_meditador_atirar_12
+  - first:
+      213: 1962147172342753743
+    second: monstro_meditador_atirar_13
+  - first:
+      213: -3655901850369947870
+    second: monstro_meditador_atirar_14
+  - first:
+      213: 9164468288946631238
+    second: monstro_meditador_atirar_15
+  - first:
+      213: 3585904283072375605
+    second: monstro_meditador_atirar_16
+  - first:
+      213: 73435385613000123
+    second: monstro_meditador_atirar_17
+  - first:
+      213: -2355434076164354406
+    second: monstro_meditador_atirar_18
+  - first:
+      213: -7834068216124878374
+    second: monstro_meditador_atirar_19
+  - first:
+      213: 1438271931064960600
+    second: monstro_meditador_atirar_20
+  - first:
+      213: 4688318269359476067
+    second: monstro_meditador_atirar_21
+  - first:
+      213: 2864672908732567233
+    second: monstro_meditador_atirar_22
+  - first:
+      213: -6647629087356113081
+    second: monstro_meditador_atirar_23
+  - first:
+      213: 2313787810125378566
+    second: monstro_meditador_atirar_24
+  - first:
+      213: -4319733388461327638
+    second: monstro_meditador_atirar_25
+  - first:
+      213: -3072625680518961880
+    second: monstro_meditador_atirar_26
+  - first:
+      213: -6814278329122122433
+    second: monstro_meditador_atirar_27
+  - first:
+      213: -941217963172503614
+    second: monstro_meditador_atirar_28
+  - first:
+      213: -1238305410628956417
+    second: monstro_meditador_atirar_29
+  - first:
+      213: -753214832875288447
+    second: monstro_meditador_atirar_30
+  - first:
+      213: -264123937708793599
+    second: monstro_meditador_atirar_31
+  - first:
+      213: -3949648984850214834
+    second: monstro_meditador_atirar_32
+  - first:
+      213: 7096683648535718773
+    second: monstro_meditador_atirar_33
+  - first:
+      213: 6698306921793307327
+    second: monstro_meditador_atirar_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 670
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644caa7d50d7ce2e0800000000000000
+      internalID: -2095162262587521978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 670
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d92fb323242f6900800000000000000
+      internalID: 679801802098420179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 670
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e071cd85b8ac1d820800000000000000
+      internalID: 2941354731489728270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 670
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486f44261c2727e20800000000000000
+      internalID: 3346863647992641156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_4
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 670
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bd3d6ebe8170ca0800000000000000
+      internalID: -6050840172879946896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_5
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 670
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7797620371cd577a0800000000000000
+      internalID: -6379951304950253193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 542
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c225302d6e0441d0800000000000000
+      internalID: -3367550759511711032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_7
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 542
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c8b504174101120800000000000000
+      internalID: 2382426679522593890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_8
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 542
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6774dfc048d0400800000000000000
+      internalID: 292034742172743355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_9
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 542
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc22be00a66c0690800000000000000
+      internalID: -7634614430672474927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_10
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 542
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8d9211ac5570df0800000000000000
+      internalID: -214108130917099341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_11
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 542
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ed24192e8149720800000000000000
+      internalID: 2851931825411120708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 414
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c052aeb94bf9120800000000000000
+      internalID: 2422853706289843331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_13
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 414
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9e6841572fa3b10800000000000000
+      internalID: 1962147172342753743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_14
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 414
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227810b03a0a34dc0800000000000000
+      internalID: -3655901850369947870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_15
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 414
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642fef57a5bbe2f70800000000000000
+      internalID: 9164468288946631238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_16
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 414
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ba41f42f0b3c130800000000000000
+      internalID: 3585904283072375605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_17
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 414
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd18691815e40100800000000000000
+      internalID: 73435385613000123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 286
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e8f56ff21df4fd0800000000000000
+      internalID: -2355434076164354406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_19
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 286
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1d2bfc67cc74390800000000000000
+      internalID: -7834068216124878374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_20
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 286
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856ca8573b4c5f310800000000000000
+      internalID: 1438271931064960600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_21
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 286
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d452f40a0401140800000000000000
+      internalID: 4688318269359476067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_22
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 286
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce80b235dc51c720800000000000000
+      internalID: 2864672908732567233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_23
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 286
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fa591d090eeb3a0800000000000000
+      internalID: -6647629087356113081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_24
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 158
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604f62c11c93c1020800000000000000
+      internalID: 2313787810125378566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_25
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 158
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea3e50ce593d04c0800000000000000
+      internalID: -4319733388461327638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_26
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 158
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825ace81937db55d0800000000000000
+      internalID: -3072625680518961880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_27
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 158
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35980896f1de61a0800000000000000
+      internalID: -6814278329122122433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_28
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 158
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfd2e0df3f10f2f0800000000000000
+      internalID: -941217963172503614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_29
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 158
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe44043ac7a0dee0800000000000000
+      internalID: -1238305410628956417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_30
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 30
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188c9e6a91b0c85f0800000000000000
+      internalID: -753214832875288447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_31
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 30
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101a0349da4a55cf0800000000000000
+      internalID: -264123937708793599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_32
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 30
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e405586ac270039c0800000000000000
+      internalID: -3949648984850214834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_33
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 30
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b6b42bd2c7c7260800000000000000
+      internalID: 7096683648535718773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstro_meditador_atirar_34
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 30
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2c70ef7aa25fc50800000000000000
+      internalID: 6698306921793307327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
