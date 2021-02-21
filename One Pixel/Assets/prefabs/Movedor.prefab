@@ -126,7 +126,7 @@ PrefabInstance:
     - target: {fileID: 6924261436825492578, guid: 3e6b13cb47c8b0b4caa63de2dd7b6740,
         type: 3}
       propertyPath: m_Radius
-      value: 0.6
+      value: 1.2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3e6b13cb47c8b0b4caa63de2dd7b6740, type: 3}
