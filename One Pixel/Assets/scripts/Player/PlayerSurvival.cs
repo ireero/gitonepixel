@@ -49,8 +49,10 @@ public class PlayerSurvival : MonoBehaviour {
 
 	// Survival
 	private static float tempo_vivo;
+	public AudioSource som_background;
 
 	void Start () {
+		Time.timeScale = 1;
 		tempo_vivo = 0;
 		valor_entrada = 0; 
 		rb2d = GetComponent<Rigidbody2D> ();
@@ -160,6 +162,7 @@ public class PlayerSurvival : MonoBehaviour {
 	}
 
 	private void Morrer() { // Tudo que rola quando morre
+		som_background.Stop();
 		GerenciadorAudio.inst.PlayMorte(som_morte);
 		playerCollider.isTrigger = true;
 		rb2d.bodyType = RigidbodyType2D.Static;
@@ -192,6 +195,7 @@ public class PlayerSurvival : MonoBehaviour {
 		yield return new WaitForSeconds(0.5f);
 		derrota.SetBool("perdeu", true);
 		yield return new WaitForSeconds(1.2f);
+		Time.timeScale = 0;
 		Destroy(this.gameObject);
 	}
 

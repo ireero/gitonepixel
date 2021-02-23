@@ -32,7 +32,6 @@ public class BulletInimiga : MonoBehaviour
             other.gameObject.CompareTag("mago")  || other.gameObject.CompareTag("aguenta_tirao")) {
             Physics2D.IgnoreCollision(other.gameObject.GetComponent<Collider2D>(), GetComponent<Collider2D>());
         } else if(other.gameObject.CompareTag("bullet") || other.gameObject.tag == "pedras") {
-            Pontuacao.Pontuar();
             Morrer();
             StartCoroutine("morre");
         }

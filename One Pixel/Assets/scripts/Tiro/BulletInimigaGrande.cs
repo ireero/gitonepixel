@@ -44,7 +44,6 @@ public class BulletInimigaGrande : MonoBehaviour
             contador++;
             StartCoroutine("voltarIdle");
             if(contador >= 4) {
-                Pontuacao.Pontuar();
                 Morrer();
                 StartCoroutine("morre");
             }

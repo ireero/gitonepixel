@@ -190,7 +190,7 @@ public class Player : MonoBehaviour {
 	}
 
 	private void Morrer() { // Tudo que rola quando morre
-	som_background.Stop();
+		som_background.Stop();
 		GerenciadorAudio.inst.PlayMorte(som_morte);
 		playerCollider.isTrigger = true;
 		rb2d.bodyType = RigidbodyType2D.Static;

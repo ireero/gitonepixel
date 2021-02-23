@@ -765,6 +765,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   vilao: {fileID: 131625694}
   painel_vitoria: {fileID: 1175091515}
+  txt_pausado: {fileID: 742652807}
+  txt_perdeu: {fileID: 275175706}
+  txt_instrucao: {fileID: 312241487}
 --- !u!1 &214185838
 GameObject:
   m_ObjectHideFlags: 0
@@ -1064,7 +1067,7 @@ MonoBehaviour:
     m_BestFit: 1
     m_MinSize: 10
     m_MaxSize: 40
-    m_Alignment: 1
+    m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
@@ -1072,7 +1075,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: '
 
-    To automatically pause, click E.'
+    To automatically pause click E.'
 --- !u!222 &312241488
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6342,7 +6345,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Pause
+  m_Text: Paused
 --- !u!222 &742652808
 CanvasRenderer:
   m_ObjectHideFlags: 0

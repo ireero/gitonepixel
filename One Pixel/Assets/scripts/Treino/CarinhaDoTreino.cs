@@ -12,9 +12,10 @@ public class CarinhaDoTreino : MonoBehaviour
     private string[] falas = {"It's about time you got here", "Well, I will teach you how to war", 
         "To learn just look closely at the wall", "Now practice !, try pressing all the buttons or something like that." + 
         "I have to go, see you soon, bye !", "To get out of here, just enter the portal. I almost forgot to tell you hehehehe"};
-    private string[] falasJogo = {"Protect the portal from the white pixel emperor's army of 1,000 monsters.", "Remember that failure is not an option for you...", 
+
+    private string[] falasJogo = {"Protect the army portal from more than 1,000 monsters from the white pixel emperor.", "Remember that failure is not an option for you...", 
         "Do it right and you will be duly rewarded...", 
-        " I have to go, but know that I am watching you and waiting for your triumphant victory !"};
+        "I have to go, but know that I am watching you and waiting for your triumphant victory !"};
     public Text txt_fala;
     public static int contagem;
 

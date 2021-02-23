@@ -581,8 +581,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: -0.3, y: 79}
-  m_SizeDelta: {x: 969.41504, y: 89.12024}
+  m_AnchoredPosition: {x: -0.0000082136, y: 69}
+  m_SizeDelta: {x: 946.7366, y: 89.12024}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &312241487
 MonoBehaviour:
@@ -610,7 +610,7 @@ MonoBehaviour:
     m_BestFit: 1
     m_MinSize: 10
     m_MaxSize: 40
-    m_Alignment: 1
+    m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
@@ -618,7 +618,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: '
 
-    To automatically pause, click E.'
+    To automatically pause click E.'
 --- !u!222 &312241488
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -764,6 +764,7 @@ MonoBehaviour:
   chao: {fileID: 8153079707032142118, guid: 7d3926c59b7a2664586760339b42df5b, type: 3}
   som_morte: {fileID: 8300000, guid: 24d2da46060aab34499788e6c682d8f0, type: 3}
   derrota: {fileID: 1982473913}
+  som_background: {fileID: 757169319}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -1206,7 +1207,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animPainelPause: {fileID: 192089380}
   btn_pausar: {fileID: 1887684985}
-  som_background: {fileID: 0}
+  som_background: {fileID: 757169319}
 --- !u!114 &606795634
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1446,7 +1447,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Pause
+  m_Text: Paused
 --- !u!222 &742652808
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1714,11 +1715,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 1027691216}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0d2af03c102f84742acb0b2599113997, type: 3}
+  m_Script: {fileID: 11500000, guid: 951bf53a0df454c46964a8a5bb4a7405, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  vilao: {fileID: 0}
-  painel_vitoria: {fileID: 0}
+  txt_pausado: {fileID: 742652807}
+  txt_perdeu: {fileID: 275175706}
+  txt_instrucao: {fileID: 312241487}
 --- !u!114 &1027691219
 MonoBehaviour:
   m_ObjectHideFlags: 0
