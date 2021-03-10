@@ -9,10 +9,11 @@ public class PainelPause : MonoBehaviour
 
     public Animator animPainelPause;
     public Button btn_pausar;
-    private bool pausado;
+    public static bool pausado;
     public static bool final = false;
     public static bool vivo;
     public AudioSource som_background;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -23,7 +24,7 @@ public class PainelPause : MonoBehaviour
     void Update()
     {
         if(!final) {
-            if(Input.GetKeyDown(KeyCode.E)) {
+            if(Input.GetKeyDown("escape")) {
                 if(!pausado) {
                     Pausar();
                 } else {
@@ -34,6 +35,7 @@ public class PainelPause : MonoBehaviour
     }
 
     public void Pausar() {
+        Player.pode_atirar = false;
         som_background.Pause();
         animPainelPause.SetBool("pausou", true);
         SpawnChao.podeSopawn = false;
@@ -44,6 +46,7 @@ public class PainelPause : MonoBehaviour
     }
 
     public void Continuar() {
+        Player.pode_atirar = true;
         som_background.Play();
         Time.timeScale = 1;
         animPainelPause.SetBool("pausou", false);

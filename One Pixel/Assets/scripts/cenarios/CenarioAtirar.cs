@@ -17,11 +17,11 @@ public class CenarioAtirar : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetKeyDown(KeyCode.Z)) {
+        if(Input.GetKeyDown(KeyCode.Z) || Input.GetMouseButtonDown(0)) {
             animator.SetBool("atirou", true);
         }
 
-        if(Input.GetKeyUp(KeyCode.Z)) {
+        if(Input.GetKeyUp(KeyCode.Z) || Input.GetMouseButtonUp(0)) {
             animator.SetBool("atirou", false);
             CarinhaDoTreino.atirou = true;
         }

@@ -27,7 +27,6 @@ public class Bullet : MonoBehaviour
      private void OnCollisionEnter2D(Collision2D other) {
         if(other.gameObject.CompareTag("monstro") || other.gameObject.CompareTag("mago")) {
             Morrer();
-            Pontuacao.Pontuar();
             StartCoroutine("morre");
         } else if(other.gameObject.tag == this.gameObject.tag || other.gameObject.CompareTag("mguenta") || other.gameObject.CompareTag("bullet_inimiga") || 
             other.gameObject.CompareTag("aguenta_tirao") || other.gameObject.CompareTag("super_tiro") || 

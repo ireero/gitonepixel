@@ -18,6 +18,7 @@ TagManager:
   - parar_velocidade
   - portal_voltar
   - mago
+  - p_super_bullet
   layers:
   - Default
   - TransparentFX

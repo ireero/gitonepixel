@@ -21,7 +21,7 @@ public class CenarioAbaixar : MonoBehaviour
             animator.SetBool("abaixou", true);
         }
 
-        if(Input.GetKeyUp(KeyCode.DownArrow)) {
+        if(Input.GetKeyUp(KeyCode.DownArrow) || Input.GetKeyUp(KeyCode.S)) {
             animator.SetBool("abaixou", false);
             CarinhaDoTreino.abaixou = true;
         }

@@ -9,8 +9,11 @@ public class PlayerSurvival : MonoBehaviour {
 	public float jumpForce = 200f;
 	public LayerMask whatIsGround;
 
+	public bool umTiro = true;
+
 	[HideInInspector]
 	public bool lookingRight = true;
+	public bool pode_atirar;
 
 	private Rigidbody2D rb2d;
 	public bool isGrounded = false;
@@ -22,6 +25,8 @@ public class PlayerSurvival : MonoBehaviour {
 	private SpriteRenderer spritePlayer;
 	public AudioClip pulo;
 	public AudioClip tiroAudio;
+
+	public GameObject superBullet;
 
 	// Animações
 	private Animator anim;
@@ -52,6 +57,7 @@ public class PlayerSurvival : MonoBehaviour {
 	public AudioSource som_background;
 
 	void Start () {
+		pode_atirar = true;
 		Time.timeScale = 1;
 		tempo_vivo = 0;
 		valor_entrada = 0; 
@@ -73,11 +79,11 @@ public class PlayerSurvival : MonoBehaviour {
 
 	void inputCheck (){
 
-		if ((Input.GetButtonDown("Jump") && isGrounded) || (Input.GetKeyDown(KeyCode.W) && isGrounded)){
+		if ((Input.GetButtonDown("Jump") && isGrounded) || (Input.GetKeyDown(KeyCode.W) && isGrounded) || Input.GetMouseButtonDown(2) && isGrounded){
 			jump = true;
 		}
 
-		if(Input.GetKeyDown(KeyCode.X)) {
+		if(Input.GetKeyDown(KeyCode.X) || Input.GetMouseButtonDown(1)) {
 			if(podePor) {
 				SpawnPedra();
 			}
@@ -91,9 +97,20 @@ public class PlayerSurvival : MonoBehaviour {
 			anim.SetBool("abaixou", false);
 		}
 
-		if(Input.GetKeyDown(KeyCode.Z)) {
-			Fire();
-		} 
+		if(pode_atirar) {
+			umTiro = true;
+			if(Input.GetKeyDown(KeyCode.Z) || Input.GetMouseButtonDown(0)) {
+				Fire();
+			}
+				if(Input.GetKey("space")) {
+				rb2d.bodyType = RigidbodyType2D.Static;
+				pode_atirar = false;
+				anim.SetBool("super_tiro", true);
+				Tirao();
+				StartCoroutine("posTirao");
+			
+			} 
+		}
 	}
 
 	void move(){
@@ -206,6 +223,22 @@ public class PlayerSurvival : MonoBehaviour {
 	private void Salvar() {
 		if(tempo_vivo > PontuacaoSurvival.GetTempo()) {
 			PlayerPrefs.SetInt("tempo", (int) tempo_vivo);
+		}
+	}
+
+	IEnumerator posTirao() {
+		yield return new WaitForSeconds(1.5f);
+		GerenciadorAudio.inst.PlayTiro(tiroAudio);
+		rb2d.bodyType = RigidbodyType2D.Dynamic;
+		anim.SetBool("super_tiro", false);
+		yield return new WaitForSeconds(0.7f);
+		pode_atirar = true;
+	}
+
+	void Tirao() {
+        if(umTiro) {
+			Instantiate(superBullet, bulletSpawn.position, bulletSpawn.rotation);
+			umTiro = false;
 		}
 	}
 }

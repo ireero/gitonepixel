@@ -17,11 +17,11 @@ public class CenarioPlataforma : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetKeyDown(KeyCode.X)) {
+        if(Input.GetKeyDown(KeyCode.X) || Input.GetMouseButtonUp(1)) {
             animator.SetBool("spawn", true);
         }
 
-        if(Input.GetKeyUp(KeyCode.X)) {
+        if(Input.GetKeyUp(KeyCode.X) || Input.GetMouseButtonUp(1)) {
             animator.SetBool("spawn", false);
             CarinhaDoTreino.spawn_plataforma = true;
         }

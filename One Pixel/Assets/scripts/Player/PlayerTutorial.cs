@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class PlayerTutorial : MonoBehaviour {
 	public Transform groundCheck;
@@ -49,17 +50,15 @@ public class PlayerTutorial : MonoBehaviour {
 			inputCheck ();
 			move ();
 		}
-
-		Quit.FinalizarJogo();
 	}
 
 	void inputCheck (){
 
-		if ((Input.GetButtonDown("Jump") && isGrounded) || (Input.GetKeyDown(KeyCode.W) && isGrounded)){
+		if ((Input.GetButtonDown("Jump") && isGrounded) || (Input.GetKeyDown(KeyCode.W) && isGrounded) || Input.GetMouseButtonDown(2) && isGrounded){
 			jump = true;
 		}
 
-		if(Input.GetKeyDown(KeyCode.X)) {
+		if(Input.GetKeyDown(KeyCode.X) || Input.GetMouseButtonDown(1)) {
 			if(podePor) {
 				SpawnPedra();
 			}
@@ -73,7 +72,7 @@ public class PlayerTutorial : MonoBehaviour {
 			anim.SetBool("abaixou", false);
 		}
 
-		if(Input.GetKeyDown(KeyCode.Z)) {
+		if(Input.GetKeyDown(KeyCode.Z) || Input.GetMouseButtonDown(0)) {
 			Fire();
 		} 
 	}

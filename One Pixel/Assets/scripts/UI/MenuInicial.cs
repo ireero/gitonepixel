@@ -19,7 +19,13 @@ public class MenuInicial : MonoBehaviour
     private string txt_sobreviver_br = "Sobreviver";
     private string txt_recorde_br = "Recorde: ";
     private string txt_recorde_sobreviver_br = "Recorde Sobreviver: ";
-    
+
+    private string txt_play_chi = "玩";
+    private string txt_tutorial_chi = "教程";
+    private string txt_sobreviver_chi = "存活";
+    private string txt_recorde_chi = "记录：";
+    private string txt_recorde_sobreviver_chi = "生存记录：";
+        
     void Start()
     {
         Time.timeScale = 1;
@@ -37,6 +43,16 @@ public class MenuInicial : MonoBehaviour
 
             txt_recorde_sobreviver.text = txt_recorde_sobreviver_br;
             txt_recorde.text = txt_recorde_br;
+        }
+
+        if (Application.systemLanguage == SystemLanguage.Chinese) {
+
+            txt_play.GetComponentInChildren<Text>().text = txt_play_chi;
+            txt_tutorial.GetComponentInChildren<Text>().text = txt_tutorial_chi;
+            txt_sobreviver.GetComponentInChildren<Text>().text = txt_sobreviver_chi;
+
+            txt_recorde_sobreviver.text = txt_recorde_sobreviver_chi;
+            txt_recorde.text = txt_recorde_chi;
         }
 
     }

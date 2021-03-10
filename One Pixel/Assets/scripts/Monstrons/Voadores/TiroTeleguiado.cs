@@ -46,7 +46,8 @@ public class TiroTeleguiado : MonoBehaviour
          if(other.gameObject.tag == "monstro" || other.gameObject.tag == "mguenta" || 
             other.gameObject.tag == "mago" || other.gameObject.tag == "aguentao_tirao") {
             Physics2D.IgnoreCollision(other.gameObject.GetComponent<Collider2D>(), GetComponent<Collider2D>());
-        } else if(other.gameObject.CompareTag("bullet")) {
+        } else if(other.gameObject.CompareTag("bullet") || other.gameObject.CompareTag("p_super_bullet")) {
+            Pontuacao.Pontuar();
             anim.SetBool("morreu", true);
             Morrer();
             StartCoroutine("morre");

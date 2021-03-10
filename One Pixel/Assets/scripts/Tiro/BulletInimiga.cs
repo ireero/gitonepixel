@@ -31,7 +31,7 @@ public class BulletInimiga : MonoBehaviour
         } else if(other.gameObject.tag == this.gameObject.tag || other.gameObject.CompareTag("monstro") || other.gameObject.CompareTag("mguenta") || 
             other.gameObject.CompareTag("mago")  || other.gameObject.CompareTag("aguenta_tirao")) {
             Physics2D.IgnoreCollision(other.gameObject.GetComponent<Collider2D>(), GetComponent<Collider2D>());
-        } else if(other.gameObject.CompareTag("bullet") || other.gameObject.tag == "pedras") {
+        } else if(other.gameObject.CompareTag("bullet") || other.gameObject.tag == ("pedras") || other.gameObject.CompareTag("p_super_bullet")){
             Morrer();
             StartCoroutine("morre");
         }

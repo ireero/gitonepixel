@@ -126,7 +126,8 @@ MonoBehaviour:
   sprite_chorando: {fileID: 21300000, guid: 32b29b03cf4242249934eb8322092d9f, type: 3}
   sprite_irritado: {fileID: 21300000, guid: 7291ab40fe2565647bdc8600a767f363, type: 3}
   imagem: {fileID: 0}
-  fala: {fileID: 8300000, guid: 8f0a6d76c60d42d4cb40d6a27ac2c268, type: 3}
+  spawn_vilao: {fileID: 0}
+  pressione: {fileID: 0}
 --- !u!50 &1232311265742174579
 Rigidbody2D:
   serializedVersion: 4
@@ -139,7 +140,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 295.03
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
@@ -161,7 +162,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.0013314784}
+  m_Offset: {x: 0, y: -0.24202776}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -172,5 +173,5 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.48, y: 0.48266298}
+  m_Size: {x: 0.48, y: 0.0012704134}
   m_EdgeRadius: 0

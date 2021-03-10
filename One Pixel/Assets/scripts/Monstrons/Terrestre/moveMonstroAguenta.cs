@@ -36,6 +36,10 @@ public class moveMonstroAguenta : MonoBehaviour
                 Pontuacao.Pontuar();
                 StartCoroutine("morre");
             }
+        } else if(other.gameObject.CompareTag("p_super_bullet")) {
+            Morrer();
+            Pontuacao.Pontuar();
+            StartCoroutine("morre");
         }
     }
 

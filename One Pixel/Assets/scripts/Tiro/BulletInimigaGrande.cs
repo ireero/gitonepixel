@@ -47,6 +47,9 @@ public class BulletInimigaGrande : MonoBehaviour
                 Morrer();
                 StartCoroutine("morre");
             }
+        } else if(other.gameObject.CompareTag("p_super_bullet")) {
+            Morrer();
+            StartCoroutine("morre");
         }
     }
     IEnumerator nascer() {

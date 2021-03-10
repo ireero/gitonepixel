@@ -27,7 +27,8 @@ public class MoveVoador : MonoBehaviour
             Physics2D.IgnoreCollision(other.gameObject.GetComponent<Collider2D>(), GetComponent<Collider2D>());
         }
 
-        if(other.gameObject.CompareTag("bullet")) {
+        if(other.gameObject.CompareTag("bullet") || other.gameObject.CompareTag("p_super_bullet")) {
+            Pontuacao.Pontuar();
             Morrer();
             StartCoroutine("morre");
         }

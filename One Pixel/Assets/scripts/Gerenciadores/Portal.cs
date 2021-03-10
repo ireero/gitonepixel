@@ -24,13 +24,16 @@ public class Portal : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D other) {
         if(other.gameObject.CompareTag("monstro") || other.gameObject.CompareTag("mguenta") || 
             other.gameObject.CompareTag("mago") || other.gameObject.CompareTag("aguenta_tirao")) {
-            derrota.SetBool("perdeu", true);
-            anim_player.SetBool("morreu", true);
+            StartCoroutine("playerMorre");
         }
     }
 
     IEnumerator playerMorre() {
-        yield return new WaitForSeconds(1.2f);
-        Destroy(player);
+        anim_player.SetBool("morreu", true);
+        yield return new WaitForSeconds(0.5f);
+		derrota.SetBool("perdeu", true);
+		yield return new WaitForSeconds(1.2f);
+		Time.timeScale = 0;
+		Destroy(this.gameObject);
     }
 }

@@ -27,7 +27,8 @@ public class MontroMago: MonoBehaviour
     }
 
     private void OnCollisionEnter2D(Collision2D other) {
-        if(other.gameObject.CompareTag("bullet")) {
+        if(other.gameObject.CompareTag("bullet") || other.gameObject.CompareTag("p_super_bullet")) {
+            Pontuacao.Pontuar();
             anim.SetBool("morreu", true);
             Destroy(collider_trigger);
             StartCoroutine("morre");

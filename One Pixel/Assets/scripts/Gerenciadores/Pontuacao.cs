@@ -16,8 +16,8 @@ public class Pontuacao : MonoBehaviour {
 
     void Start()
     {
-        time = 0;
         recorde = PlayerPrefs.GetInt("recorde");
+        time = 0;
         monstros = 0;
     }
 
@@ -26,8 +26,6 @@ public class Pontuacao : MonoBehaviour {
         if(recorde >= 1000) {
             botao_sobreviver.interactable = true;
         }
-
-        Quit.FinalizarJogo();
     }
 
     public static void Pontuar() {

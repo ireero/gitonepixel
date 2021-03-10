@@ -8,6 +8,7 @@ public class Player : MonoBehaviour {
 	public float speed = 4f;
 	public float jumpForce = 200f;
 	public LayerMask whatIsGround;
+	public bool umTiro = true;
 
 	[HideInInspector]
 	public bool lookingRight = true;
@@ -43,6 +44,8 @@ public class Player : MonoBehaviour {
 
 	// Pode se mover
 	public static bool pode_mover = true;
+	public static bool pode_atirar;
+	public GameObject superBullet;
 
 	//valores
 	private int valor_entrada;
@@ -59,6 +62,7 @@ public class Player : MonoBehaviour {
 	public Transform spawn_inicio;
 
 	void Start () {
+		pode_atirar = true;
 		Time.timeScale = 1;
 		transform.position = spawn_inicio.transform.position;
 		final = false;
@@ -74,6 +78,7 @@ public class Player : MonoBehaviour {
 	}
 	
 	void Update () {
+
 		if(final) {
 			if(umaVez2 == 0) {
 				anim.SetBool("objeto", true);
@@ -96,16 +101,15 @@ public class Player : MonoBehaviour {
 		texto.text = Pontuacao.GetPontos().ToString();
 
 		Salvar();
-		Quit.FinalizarJogo();
 	}
 
 	void inputCheck (){
 
-		if ((Input.GetButtonDown("Jump") && isGrounded) || (Input.GetKeyDown(KeyCode.W) && isGrounded)){
+		if ((Input.GetButtonDown("Jump") && isGrounded) || (Input.GetKeyDown(KeyCode.W) && isGrounded) || Input.GetMouseButtonDown(2) && isGrounded){
 			jump = true;
 		}
 
-		if(Input.GetKeyDown(KeyCode.X)) {
+		if(Input.GetKeyDown(KeyCode.X) || Input.GetMouseButtonDown(1)) {
 			if(podePor) {
 				SpawnPedra();
 			}
@@ -119,9 +123,22 @@ public class Player : MonoBehaviour {
 			anim.SetBool("abaixou", false);
 		}
 
-		if(Input.GetKeyDown(KeyCode.Z)) {
-			Fire();
-		} 
+		if(pode_atirar) {
+			umTiro = true;
+			if(Input.GetKeyDown(KeyCode.Z) || Input.GetMouseButtonDown(0)) {
+				Fire();
+			}
+
+			if(Pontuacao.GetPontos() >= 100) {
+				if(Input.GetKeyDown(KeyCode.Space)) {
+				rb2d.bodyType = RigidbodyType2D.Static;
+				pode_atirar = false;
+				anim.SetBool("super_tiro", true);
+				Tirao();
+				StartCoroutine("posTirao");
+			}
+			} 
+		}
 	}
 
 	void move(){
@@ -163,6 +180,7 @@ public class Player : MonoBehaviour {
         if(other.gameObject.CompareTag("monstro") || other.gameObject.CompareTag("mguenta") 
 			|| other.gameObject.CompareTag("bullet_inimiga") || other.gameObject.CompareTag("super_tiro") ||
 				other.gameObject.CompareTag("aguenta_tirao")) {
+			Gerenciador.mortes_player++;
 			Morrer();
         } else if(other.gameObject.CompareTag("portal_voltar")) {
 			SceneManager.LoadScene(0);
@@ -190,6 +208,7 @@ public class Player : MonoBehaviour {
 	}
 
 	private void Morrer() { // Tudo que rola quando morre
+		PlayerPrefs.SetInt("conquista_morrer_20", Gerenciador.mortes_player);
 		som_background.Stop();
 		GerenciadorAudio.inst.PlayMorte(som_morte);
 		playerCollider.isTrigger = true;
@@ -247,5 +266,23 @@ public class Player : MonoBehaviour {
 	IEnumerator cairObjeto() {
 		yield return new WaitForSeconds(0.7f);
 		anim.SetBool("objeto", false);
+	}
+
+	IEnumerator posTirao() {
+		yield return new WaitForSeconds(1f);
+		GerenciadorAudio.inst.PlayTiro(tiroAudio);
+		rb2d.bodyType = RigidbodyType2D.Dynamic;
+		anim.SetBool("super_tiro", false);
+		yield return new WaitForSeconds(0.5f);
+		pode_atirar = true;
+	}
+
+	 void Tirao() {
+        if(umTiro) {
+			GameObject Super = Instantiate(superBullet, bulletSpawn.position, bulletSpawn.rotation);
+			if(!lookingRight)
+			Super.transform.eulerAngles = new Vector3(0, 0, 180);
+			umTiro = false;
+		}
 	}
 }
