@@ -57,6 +57,35 @@ public class Gerenciador : MonoBehaviour
             StartCoroutine("aparecerVilao");
         }
 
+        if(Pontuacao.GetPontos() == 100) {
+            var ach = new Achievement("100");
+            ach.Trigger();
+        } else if(Pontuacao.GetPontos() == 200) {
+            var ach = new Achievement("200");
+            ach.Trigger();
+        } else if(Pontuacao.GetPontos() == 300) {
+            var ach = new Achievement("300");
+            ach.Trigger();
+        } else if(Pontuacao.GetPontos() == 400) {
+            var ach = new Achievement("400");
+            ach.Trigger();
+        } else if(Pontuacao.GetPontos() == 500) {
+            var ach = new Achievement("500");
+            ach.Trigger();
+        } else if(Pontuacao.GetPontos() == 600) {
+            var ach = new Achievement("600");
+            ach.Trigger();
+        } else if(Pontuacao.GetPontos() == 700) {
+            var ach = new Achievement("700");
+            ach.Trigger();
+        } else if(Pontuacao.GetPontos() == 800) {
+            var ach = new Achievement("800");
+            ach.Trigger();
+        } else if(Pontuacao.GetPontos() == 900) {
+            var ach = new Achievement("900");
+            ach.Trigger();
+        }
+
         if(Pontuacao.GetPontos() == 1000) {
              if(conquista_olhos_vermelhos == 0) {
                 var ach = new Achievement("RED_EYES");

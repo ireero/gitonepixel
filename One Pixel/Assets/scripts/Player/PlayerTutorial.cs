@@ -89,7 +89,6 @@ public class PlayerTutorial : MonoBehaviour {
 			Flip ();
 
 		if (jump) {
-			GerenciadorAudio.inst.PlayPulo(pulo);
 			rb2d.AddForce(new Vector2(0, jumpForce));
 			jump = false;
 		}
@@ -104,7 +103,6 @@ public class PlayerTutorial : MonoBehaviour {
 
 	void Fire() {
 
-		GerenciadorAudio.inst.PlayTiro(tiroAudio);
 
 		GameObject cloneBullet = Instantiate(bulletObject, bulletSpawn.position, bulletSpawn.rotation);
 

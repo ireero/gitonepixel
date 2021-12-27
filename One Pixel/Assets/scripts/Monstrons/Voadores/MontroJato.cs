@@ -7,7 +7,7 @@ public class MontroJato : MonoBehaviour
 
     private Animator anim;
     private Rigidbody2D corpo;
-    private PolygonCollider2D collider;
+    private PolygonCollider2D collider_jato;
     private float velocidade = 5f;
 
     // Start is called before the first frame update
@@ -15,7 +15,7 @@ public class MontroJato : MonoBehaviour
     {
       anim = GetComponent<Animator>();
       corpo = GetComponent<Rigidbody2D>();
-      collider = GetComponent<PolygonCollider2D>();  
+      collider_jato = GetComponent<PolygonCollider2D>();  
     }
 
     // Update is called once per frame
@@ -27,9 +27,9 @@ public class MontroJato : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D other) {
         if(other.gameObject.CompareTag("bullet") || other.gameObject.CompareTag("p_super_bullet")) {
             Pontuacao.Pontuar();
+            corpo.gravityScale += 0.01f;
             anim.SetBool("morreu", true);
-            collider.isTrigger = true;
-            StartCoroutine("morre");
+            collider_jato.isTrigger = true;
         }
     }
 
@@ -38,10 +38,5 @@ public class MontroJato : MonoBehaviour
             anim.SetBool("chegou", true);
             velocidade = 0.1f;
         }
-    }
-
-    IEnumerator morre() {
-        yield return new WaitForSeconds(1.75f);
-        Destroy(this.gameObject);
     }
 }

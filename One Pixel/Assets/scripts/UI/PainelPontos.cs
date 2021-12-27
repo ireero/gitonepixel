@@ -16,9 +16,9 @@ public class PainelPontos : MonoBehaviour
 
     public AudioSource som_background;
 
-    private string fala100_chi = "您已经走了很长一段路，作为奖励媒体空间，并使用了新的功能";
-    private string fala100_br = "Você já chegou longe, como recompensa aperte espaço e use um novo poder";
-    private string fala100 = "You have already gone far, as a reward press space and use a new power";
+    private string fala100_chi = "你有没有走远，作为奖励按下空间并使用新的力量，顺便说一下，你按下'C'了吗？";
+    private string fala100_br = "Você já chegou longe, como recompensa aperte espaço e use um novo poder, aliás, você já apertou 'C'?";
+    private string fala100 = "Have you come far, as a reward press space and use a new power, by the way, have you pressed 'C'?";
 
     private string fala200_chi = "我永远不会忘记他们是多么愚蠢";
     private string fala200_br = "Nunca irei me esquecer do quão burro eles foram";
@@ -53,7 +53,7 @@ public class PainelPontos : MonoBehaviour
     private string fala900 = "People like you make me angry, do you understand? P E O P L E";
 
     private string fala1000_chi = "我想在那之前，玩家...";
-    private string fala1000_br = "Acho que até logo então, Jogador....";
+    private string fala1000_br = "Acho que até logo então, Jogador...";
     private string fala1000 = "I think until then, Player...";
 
     private string pressione_br = "Pressione Q para avançar";
@@ -78,7 +78,7 @@ public class PainelPontos : MonoBehaviour
         if(Quit.decorrer == 1) {
             Destroy(this.gameObject);
         }
-        if(Pontuacao.GetPontos() >= 100 && umaVez == 0) {
+        if(Pontuacao.GetPontos() >= 101 && umaVez == 0) {
             Pausar();
             if (Application.systemLanguage == SystemLanguage.Portuguese) {
                     fala.text = fala100_br;
@@ -92,7 +92,7 @@ public class PainelPontos : MonoBehaviour
                     }       
         }
 
-        if(Pontuacao.GetPontos() >= 200 && umaVez == 1) {
+        if(Pontuacao.GetPontos() >= 201 && umaVez == 1) {
             Pausar();
             if (Application.systemLanguage == SystemLanguage.Portuguese) {
                         fala.text = fala200_br;
@@ -106,7 +106,7 @@ public class PainelPontos : MonoBehaviour
                     } 
         }
 
-        if(Pontuacao.GetPontos() >= 300 && umaVez == 2) {
+        if(Pontuacao.GetPontos() >= 301 && umaVez == 2) {
             Pausar();
             if (Application.systemLanguage == SystemLanguage.Portuguese) {
                     fala.text = fala300_br;
@@ -120,7 +120,7 @@ public class PainelPontos : MonoBehaviour
                     } 
         }
 
-        if(Pontuacao.GetPontos() >= 400 && umaVez == 3) {
+        if(Pontuacao.GetPontos() >= 401 && umaVez == 3) {
             Pausar();
             if (Application.systemLanguage == SystemLanguage.Portuguese) {
                         fala.text = fala400_br;
@@ -134,7 +134,7 @@ public class PainelPontos : MonoBehaviour
                     } 
         }
 
-         if(Pontuacao.GetPontos() >= 500 && umaVez == 4) {
+         if(Pontuacao.GetPontos() >= 501 && umaVez == 4) {
             Pausar();
             if (Application.systemLanguage == SystemLanguage.Portuguese) {
                         fala.text = fala500_br;
@@ -148,7 +148,7 @@ public class PainelPontos : MonoBehaviour
                     } 
         }
 
-        if(Pontuacao.GetPontos() >= 600 && umaVez == 5) {
+        if(Pontuacao.GetPontos() >= 601 && umaVez == 5) {
             Pausar();
             if (Application.systemLanguage == SystemLanguage.Portuguese) {
                         fala.text = fala600_br;
@@ -162,7 +162,7 @@ public class PainelPontos : MonoBehaviour
                     } 
         }
 
-        if(Pontuacao.GetPontos() >= 700 && umaVez == 6) {
+        if(Pontuacao.GetPontos() >= 701 && umaVez == 6) {
             Pausar();
             if (Application.systemLanguage == SystemLanguage.Portuguese) {
                         fala.text = fala700_br;
@@ -176,7 +176,7 @@ public class PainelPontos : MonoBehaviour
                     } 
         }
 
-        if(Pontuacao.GetPontos() >= 800 && umaVez == 7) {
+        if(Pontuacao.GetPontos() >= 801 && umaVez == 7) {
             Pausar();
             if (Application.systemLanguage == SystemLanguage.Portuguese) {
                         fala.text = fala800_br;
@@ -190,7 +190,7 @@ public class PainelPontos : MonoBehaviour
                     } 
         }
 
-        if(Pontuacao.GetPontos() >= 900 && umaVez == 8) {
+        if(Pontuacao.GetPontos() >= 901 && umaVez == 8) {
             Pausar();
             if (Application.systemLanguage == SystemLanguage.Portuguese) {
                         fala.text = fala900_br;
@@ -204,7 +204,7 @@ public class PainelPontos : MonoBehaviour
                     } 
         }
 
-        if(Pontuacao.GetPontos() >= 1000 && umaVez == 9) {
+        if(Pontuacao.GetPontos() >= 1001 && umaVez == 9) {
             Pausar();
             if (Application.systemLanguage == SystemLanguage.Portuguese) {
                         fala.text = fala1000_br;
@@ -249,6 +249,6 @@ public class PainelPontos : MonoBehaviour
 
     IEnumerator esperar() {
         yield return new WaitForSeconds(0.2f);
-        Time.timeScale = 0.2f;
+        Time.timeScale = 0f;
     }
 }

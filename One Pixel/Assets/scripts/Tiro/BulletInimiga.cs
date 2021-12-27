@@ -8,14 +8,14 @@ public class BulletInimiga : MonoBehaviour
     public float speed;
     private float timeDestroy;
     private Animator anim;
-    private BoxCollider2D collider;
+    private BoxCollider2D collider_inimiga;
     // Start is called before the first frame update
     void Start()
     {
         timeDestroy = 15.2f;
         Destroy(gameObject, timeDestroy);
         anim = GetComponent<Animator>();
-        collider = GetComponent<BoxCollider2D>();
+        collider_inimiga = GetComponent<BoxCollider2D>();
     }
 
     // Update is called once per frame
@@ -44,7 +44,7 @@ public class BulletInimiga : MonoBehaviour
 
     private void Morrer() {
         speed = 0;
-        collider.isTrigger = true;
+        collider_inimiga.isTrigger = true;
         anim.SetBool("atingiu", true);
     }
 }

@@ -19,6 +19,9 @@ TagManager:
   - portal_voltar
   - mago
   - p_super_bullet
+  - chefao
+  - parar_chefe
+  - chao
   layers:
   - Default
   - TransparentFX

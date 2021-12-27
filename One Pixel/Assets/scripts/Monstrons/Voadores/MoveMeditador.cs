@@ -7,7 +7,7 @@ public class MoveMeditador : MonoBehaviour
     private float velocidade = -0.15f;
     private int dano = 0;
     private Animator anim;
-    private PolygonCollider2D collider;
+    private PolygonCollider2D collider_meditador;
     private Rigidbody2D corpo;
     private float tempo_atirar = 0;
 
@@ -20,7 +20,7 @@ public class MoveMeditador : MonoBehaviour
     void Start()
     {
        anim = GetComponent<Animator>();
-       collider = GetComponent<PolygonCollider2D>();
+       collider_meditador = GetComponent<PolygonCollider2D>();
        corpo = GetComponent<Rigidbody2D>();
     }
 
@@ -81,7 +81,7 @@ public class MoveMeditador : MonoBehaviour
 
     private void Morrer() {
         anim.SetBool("morreu", true);
-        collider.isTrigger = true;
+        collider_meditador.isTrigger = true;
         morto = true;
         corpo.bodyType = RigidbodyType2D.Kinematic;
     }

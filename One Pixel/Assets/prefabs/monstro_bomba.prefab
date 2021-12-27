@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 6924261436825492572}
   - component: {fileID: 6924261436825492579}
   - component: {fileID: 6924261436825492578}
+  - component: {fileID: -8764251557185694784}
   m_Layer: 0
   m_Name: monstro_bomba
   m_TagString: monstro
@@ -46,10 +47,12 @@ SpriteRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -167,3 +170,15 @@ CircleCollider2D:
   m_Offset: {x: -0.0037908554, y: 0}
   serializedVersion: 2
   m_Radius: 1.4
+--- !u!114 &-8764251557185694784
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6924261436825492568}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bc26e4782984b946836b1655ed2755f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

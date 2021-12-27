@@ -5,14 +5,14 @@ using UnityEngine;
 public class PedraChao : MonoBehaviour
 {
     private Animator animator;
-    private BoxCollider2D collider;
+    private BoxCollider2D collider_pedra;
     public float tempo;
 
     // Start is called before the first frame update
     void Start()
     {   
         tempo = 0f;
-        collider = GetComponent<BoxCollider2D>();
+        collider_pedra = GetComponent<BoxCollider2D>();
         animator = GetComponent<Animator>();
     }
 
@@ -42,7 +42,7 @@ public class PedraChao : MonoBehaviour
     }
 
     IEnumerator morrer() {
-        collider.isTrigger = true;
+        collider_pedra.isTrigger = true;
         tempo = 0;
         yield return new WaitForSeconds(0.9f);
         Destroy(this.gameObject);

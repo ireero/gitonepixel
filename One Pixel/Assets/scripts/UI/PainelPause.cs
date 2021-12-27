@@ -12,7 +12,6 @@ public class PainelPause : MonoBehaviour
     public static bool pausado;
     public static bool final = false;
     public static bool vivo;
-    public AudioSource som_background;
 
     // Start is called before the first frame update
     void Start()
@@ -36,7 +35,7 @@ public class PainelPause : MonoBehaviour
 
     public void Pausar() {
         Player.pode_atirar = false;
-        som_background.Pause();
+        GerenciaAudio.inst.PausarSomBackGround();
         animPainelPause.SetBool("pausou", true);
         SpawnChao.podeSopawn = false;
         Player.pode_mover = false;
@@ -47,7 +46,7 @@ public class PainelPause : MonoBehaviour
 
     public void Continuar() {
         Player.pode_atirar = true;
-        som_background.Play();
+        GerenciaAudio.inst.DespausarSomBackGround();
         Time.timeScale = 1;
         animPainelPause.SetBool("pausou", false);
         if(vivo == false) {

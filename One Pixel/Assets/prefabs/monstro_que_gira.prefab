@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 3931406484760355385}
   - component: {fileID: 3931406484760355391}
   - component: {fileID: 3931406484760355390}
-  - component: {fileID: 3931406484760355388}
+  - component: {fileID: 5483498187190535247}
   m_Layer: 0
   m_Name: monstro_que_gira
   m_TagString: monstro
@@ -46,10 +46,12 @@ SpriteRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -73,7 +75,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 10
+  m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: c03b8717a6bc52a4c9321cf3060037f1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -151,7 +153,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &3931406484760355388
+--- !u!114 &5483498187190535247
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -160,6 +162,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 3931406484760355386}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e22b2709a4552b74f8d2e3da8690acdf, type: 3}
+  m_Script: {fileID: 11500000, guid: bf94f980b619249479004be5dfd0d21c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  velocidade: -0.7
+  valorVida: 1

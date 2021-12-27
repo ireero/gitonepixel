@@ -8,14 +8,14 @@ public class Bullet : MonoBehaviour
     public float speed;
     private float timeDestroy;
     private Animator anim;
-    private BoxCollider2D collider;
+    private BoxCollider2D collider_bullet;
     // Start is called before the first frame update
     void Start()
     {   
         anim = GetComponent<Animator>();
         timeDestroy = 15.0f;
         Destroy(gameObject, timeDestroy);
-        collider = GetComponent<BoxCollider2D>();
+        collider_bullet = GetComponent<BoxCollider2D>();
     }
 
     // Update is called once per frame
@@ -49,7 +49,8 @@ public class Bullet : MonoBehaviour
 
     private void Morrer() {
         speed = 0;
-        collider.isTrigger = true;
+        collider_bullet.isTrigger = true;
+        GerenciaAudio.inst.PlaySomSfx(0, "SfxMonstros");
         anim.SetBool("atingiu", true);
     }
 }

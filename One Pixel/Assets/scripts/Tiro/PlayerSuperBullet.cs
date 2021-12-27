@@ -8,9 +8,10 @@ public class PlayerSuperBullet : MonoBehaviour
     private float speed = 2.4f;
     private float timeDestroy;
     private Animator anim;
-    private BoxCollider2D collider;
+    private BoxCollider2D collider_super;
     private bool nasceu;
     private int contador = 0;
+    public AudioClip tiro_som;
     // Start is called before the first frame update
     void Start()
     {
@@ -18,15 +19,13 @@ public class PlayerSuperBullet : MonoBehaviour
         timeDestroy = 15f;
         Destroy(gameObject, timeDestroy);
         anim = GetComponent<Animator>();
-        collider = GetComponent<BoxCollider2D>();
+        collider_super = GetComponent<BoxCollider2D>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        if(!nasceu) {
-            StartCoroutine("nascer");
-        } else if(nasceu) {
+        if(nasceu) {
             transform.Translate(Vector2.right * speed * Time.deltaTime);
         }
     }
@@ -44,17 +43,13 @@ public class PlayerSuperBullet : MonoBehaviour
             StartCoroutine("voltarIdle");
             if(contador >= 4) {
                 Morrer();
-                StartCoroutine("morre");
             }
         } else if(other.gameObject.CompareTag("super_tiro")) {
             Morrer();
-            StartCoroutine("morre");
         }
     }
-    IEnumerator nascer() {
-        yield return new WaitForSeconds(1.2f);
+    public void nascido() {
         nasceu = true;
-        anim.SetBool("nasceu", true);
     }
 
     IEnumerator voltarIdle() {
@@ -62,14 +57,14 @@ public class PlayerSuperBullet : MonoBehaviour
         anim.SetBool("colidiu", false);
     }
 
-    IEnumerator morre() {
-		yield return new WaitForSeconds(0.8f);
-        Destroy(this.gameObject);
-	}
-
     private void Morrer() {
+        GerenciaAudio.inst.PlaySomSfx(0, "SfxMonstros");
         anim.SetBool("morreu", true);
         speed = 0;
-        collider.isTrigger = true;
+        collider_super.isTrigger = true;
+    }
+
+    public void Ir() {
+        Destroy(this.gameObject);
     }
 }

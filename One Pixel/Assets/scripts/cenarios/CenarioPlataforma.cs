@@ -12,6 +12,7 @@ public class CenarioPlataforma : MonoBehaviour
     void Start()
     {
         animator = GetComponent<Animator>();
+        CarinhaDoTreino.contagem = 998;
     }
 
     // Update is called once per frame

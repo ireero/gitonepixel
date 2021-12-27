@@ -2,38 +2,34 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MoveDuplicadorDireito : MonoBehaviour
+public class MoveDuplicadorDireito : MoveVoador
 {
-    private Rigidbody2D corpo;
-    private BoxCollider2D collider_esquerdo;
-    private Animator anim;
+
     private EdgeCollider2D collider_trigger;
-    private float speed = -0.35f;
 
     // Perseguir
     private float velocidade_apos_morte = 5.3f;
     private Transform posicao_jogador;
-    private bool morreu = false;
-    private bool olhando_esquerda = true;
+    private bool morreu;
     private SpriteRenderer sr;
     
-    void Start()
+    protected override void Start()
     {
-        corpo = GetComponent<Rigidbody2D>();
-        collider_esquerdo = GetComponent<BoxCollider2D>();
-        anim = GetComponent<Animator>();
+        base.Start();
+        morreu = false;
         collider_trigger = GetComponent<EdgeCollider2D>();
         posicao_jogador = GameObject.FindGameObjectWithTag("Player").transform;
         sr = GetComponent<SpriteRenderer>();
     }
 
     // Update is called once per frame
-    void Update()
+    protected override void Update()
     {
         if(morreu) {
             if(posicao_jogador.gameObject != null) {
             transform.position = Vector2.MoveTowards(transform.position, posicao_jogador.position,
             velocidade_apos_morte * Time.deltaTime);
+            velocidade = 0;
             if(transform.position.x > posicao_jogador.position.x) {
                 sr.flipY = false;
             } else {
@@ -41,7 +37,7 @@ public class MoveDuplicadorDireito : MonoBehaviour
             }
         }
         } else {
-            transform.Translate(Vector2.right * speed * Time.deltaTime);
+            Andar(velocidade);
         }
     }
 
@@ -52,14 +48,7 @@ public class MoveDuplicadorDireito : MonoBehaviour
         }
 
         if(other.gameObject.CompareTag("bullet") || other.gameObject.CompareTag("p_super_bullet")) {
-            Pontuacao.Pontuar();
-            if(morreu) {
-                Morrer();
-                StartCoroutine("morre");
-            } else {
-                MorrerIdle();
-                StartCoroutine("morre");
-            }
+            Morrer();
         }
     }
 
@@ -70,10 +59,6 @@ public class MoveDuplicadorDireito : MonoBehaviour
             StartCoroutine("perseguir");
         }
     }
-    IEnumerator morre() {
-		yield return new WaitForSeconds(1.8f);
-        Destroy(this.gameObject);
-	}
 
     IEnumerator perseguir() {
         yield return new WaitForSeconds(1.3f);
@@ -83,17 +68,15 @@ public class MoveDuplicadorDireito : MonoBehaviour
         anim.SetBool("perseguindo", true);
     }
 
-    private void Morrer() {
+    protected override void Morrer() {
+        base.Morrer();
+        if(morreu) {
+            anim.SetBool("morrer_perseguindo", true);
+        } else {
+            anim.SetBool("morreu_idle", true);
+        }
         velocidade_apos_morte = 0.3f;
-        anim.SetBool("morrer_perseguindo", true);
-        collider_esquerdo.isTrigger = true;
-        corpo.gravityScale += 0.014f;
-    }
-
-    private void MorrerIdle() {
-        velocidade_apos_morte = 0.3f;
-        anim.SetBool("morreu_idle", true);
-        collider_esquerdo.isTrigger = true;
-        corpo.gravityScale += 0.014f;
+        collider_monstro.isTrigger = true;
+        corpo_monstro.gravityScale += 0.014f;
     }
 }

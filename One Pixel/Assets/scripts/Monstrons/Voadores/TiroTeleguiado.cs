@@ -7,9 +7,8 @@ public class TiroTeleguiado : MonoBehaviour
 
     private float speed = 1.8f;
     private Animator anim;
-    private BoxCollider2D collider;
+    private BoxCollider2D collider_teleguiado;
     private bool nasceu;
-    private int contador = 0;
 
     private Transform posicao_jogador;
     private SpriteRenderer sr;
@@ -19,7 +18,7 @@ public class TiroTeleguiado : MonoBehaviour
     {
         nasceu = false;
         anim = GetComponent<Animator>();
-        collider = GetComponent<BoxCollider2D>();
+        collider_teleguiado = GetComponent<BoxCollider2D>();
         posicao_jogador = GameObject.FindGameObjectWithTag("Player").transform;
         sr = GetComponent<SpriteRenderer>();
         corpo = GetComponent<Rigidbody2D>();
@@ -50,7 +49,6 @@ public class TiroTeleguiado : MonoBehaviour
             Pontuacao.Pontuar();
             anim.SetBool("morreu", true);
             Morrer();
-            StartCoroutine("morre");
         }
     }
     IEnumerator nascer() {
@@ -59,15 +57,9 @@ public class TiroTeleguiado : MonoBehaviour
         anim.SetBool("nasceu", true);
     }
 
-    IEnumerator morre() {
-		yield return new WaitForSeconds(1.8f);
-        Destroy(this.gameObject);
-	}
-
     private void Morrer() {
-        anim.SetBool("atingiu", true);
         speed = 0;
-        collider.isTrigger = true;
+        collider_teleguiado.isTrigger = true;
         corpo.gravityScale += 0.020f;
     }
 }

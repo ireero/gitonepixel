@@ -7,7 +7,7 @@ public class MoveCanhao : MonoBehaviour
     private float velocidade = -0.20f;
     private int dano = 0;
     private Animator anim;
-    private PolygonCollider2D collider;
+    private PolygonCollider2D collider_canhao;
     private Rigidbody2D corpo;
     private float tempo_parar = 0;
 
@@ -22,7 +22,7 @@ public class MoveCanhao : MonoBehaviour
     void Start()
     {
        anim = GetComponent<Animator>();
-       collider = GetComponent<PolygonCollider2D>();
+       collider_canhao = GetComponent<PolygonCollider2D>();
        corpo = GetComponent<Rigidbody2D>();
     }
 
@@ -36,10 +36,7 @@ public class MoveCanhao : MonoBehaviour
         } else {
             if(tiro_um == 1) {
                 anim.SetBool("atirando", true);
-                Fire();
-                tiro_um = 0;
             }
-            StartCoroutine("voltarAndar");
         }
     }
 
@@ -53,13 +50,9 @@ public class MoveCanhao : MonoBehaviour
             StartCoroutine("tiro");
             if(dano >= 2) {
                 Morrer();
-                Pontuacao.Pontuar();
-                StartCoroutine("morre");
             }
         } else if(other.gameObject.CompareTag("p_super_bullet")) {
             Morrer();
-            Pontuacao.Pontuar();
-            StartCoroutine("morre");
         }
     }
 
@@ -68,27 +61,24 @@ public class MoveCanhao : MonoBehaviour
         anim.SetBool("tomou_dano", false);
 	}
 
-    IEnumerator morre() {
-		yield return new WaitForSeconds(2.1f);
-        Destroy(this.gameObject);
-	}
-
-    IEnumerator voltarAndar() {
-        yield return new WaitForSeconds(1f);
-        anim.SetBool("atirando", false);
+    public void voltarAndar() {
         tempo_parar = 0;
     }
 
     private void Morrer() {
+        Pontuacao.Pontuar();
         anim.SetBool("morreu", true);
-        collider.isTrigger = true;
+        collider_canhao.isTrigger = true;
         morto = true;
-        corpo.bodyType = RigidbodyType2D.Kinematic;
+        velocidade = 0;
+        corpo.bodyType = RigidbodyType2D.Static;
     }
 
     void Fire() {
+        anim.SetBool("atirando", false);
 		if(!morto) {
             Instantiate(bulletObject, bulletSpawn.position, bulletSpawn.rotation);
+            tiro_um = 0;
         }
 	}
 }

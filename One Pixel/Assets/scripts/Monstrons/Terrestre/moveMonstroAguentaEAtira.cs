@@ -7,7 +7,7 @@ public class moveMonstroAguentaEAtira : MonoBehaviour
     private float velocidade = -0.11f;
     private int dano = 0;
     private Animator anim;
-    private BoxCollider2D collider;
+    private BoxCollider2D collider_ag_atira;
     private Rigidbody2D corpo;
     private float tempo_parar = 0;
 
@@ -20,7 +20,7 @@ public class moveMonstroAguentaEAtira : MonoBehaviour
     void Start()
     {
        anim = GetComponent<Animator>();
-       collider = GetComponent<BoxCollider2D>();
+       collider_ag_atira = GetComponent<BoxCollider2D>();
        corpo = GetComponent<Rigidbody2D>();
     }
 
@@ -34,10 +34,7 @@ public class moveMonstroAguentaEAtira : MonoBehaviour
         } else {
             if(tiro_um == 1) {
                 anim.SetBool("dormir", true);
-                Fire();
-                tiro_um = 0;
             }
-            StartCoroutine("voltarAndar");
         }
     }
 
@@ -51,13 +48,9 @@ public class moveMonstroAguentaEAtira : MonoBehaviour
             StartCoroutine("tiro");
             if(dano >= 3) {
                 Morrer();
-                Pontuacao.Pontuar();
-                StartCoroutine("morre");
             }
         } else if(other.gameObject.CompareTag("p_super_bullet")) {
             Morrer();
-            Pontuacao.Pontuar();
-            StartCoroutine("morre");
         }
     }
 
@@ -66,27 +59,24 @@ public class moveMonstroAguentaEAtira : MonoBehaviour
         anim.SetBool("tomou_dano", false);
 	}
 
-    IEnumerator morre() {
-		yield return new WaitForSeconds(2.3f);
-        Destroy(this.gameObject);
-	}
+    private void Morrer() {
+        Pontuacao.Pontuar();
+        anim.SetBool("morreu", true);
+        collider_ag_atira.isTrigger = true;
+        morto = true;
+        corpo.bodyType = RigidbodyType2D.Static;
+        velocidade = 0;
+    }
 
-    IEnumerator voltarAndar() {
-        yield return new WaitForSeconds(2f);
-        anim.SetBool("dormir", false);
+    public void voltarAndar() {
         tempo_parar = 0;
     }
 
-    private void Morrer() {
-        anim.SetBool("morreu", true);
-        collider.isTrigger = true;
-        morto = true;
-        corpo.bodyType = RigidbodyType2D.Kinematic;
-    }
-
-    void Fire() {
+    public void Fire() {
+        anim.SetBool("atirando", false);
 		if(!morto) {
             GameObject cloneBullet = Instantiate(bulletObject, bulletSpawn.position, bulletSpawn.rotation);
+            tiro_um = 0;
         }
 	}
 }

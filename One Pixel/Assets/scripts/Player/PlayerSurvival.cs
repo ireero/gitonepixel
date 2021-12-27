@@ -56,7 +56,19 @@ public class PlayerSurvival : MonoBehaviour {
 	private static float tempo_vivo;
 	public AudioSource som_background;
 
+	private float taxa_tiros;
+	private float cont;
+
+	private bool virado;
+	private bool podeVirar;
+
+	public Transform padrao;
+
 	void Start () {
+		podeVirar = false;
+		virado = false;
+		taxa_tiros = 0.25f;
+		cont = 0;
 		pode_atirar = true;
 		Time.timeScale = 1;
 		tempo_vivo = 0;
@@ -75,6 +87,14 @@ public class PlayerSurvival : MonoBehaviour {
 		}
 		texto.text = tempo_vivo.ToString("F0");
 		Salvar();
+
+		if(isGrounded) {
+			podePor = false;
+			podeVirar = false;
+		} else {
+			podePor = true;
+			podeVirar = true;
+		}
 	}
 
 	void inputCheck (){
@@ -86,6 +106,16 @@ public class PlayerSurvival : MonoBehaviour {
 		if(Input.GetKeyDown(KeyCode.X) || Input.GetMouseButtonDown(1)) {
 			if(podePor) {
 				SpawnPedra();
+			}
+		}
+
+		if(Input.GetKeyDown(KeyCode.C)) {
+			if(podeVirar) {
+				spritePlayer.color = Color.red;
+				Time.timeScale = 0.1f;
+				transform.Rotate(0, 0, 90);
+				virado = true;
+				StartCoroutine("voltarTempo");
 			}
 		}
 
@@ -101,6 +131,12 @@ public class PlayerSurvival : MonoBehaviour {
 			umTiro = true;
 			if(Input.GetKeyDown(KeyCode.Z) || Input.GetMouseButtonDown(0)) {
 				Fire();
+			} else if(Input.GetKey(KeyCode.Z) || Input.GetMouseButton(0)) {
+				cont += Time.deltaTime;
+				if(cont >= taxa_tiros) {
+					Fire();
+					cont = 0;
+				}
 			}
 				if(Input.GetKey("space")) {
 				rb2d.bodyType = RigidbodyType2D.Static;
@@ -125,7 +161,6 @@ public class PlayerSurvival : MonoBehaviour {
 			Flip ();
 
 		if (jump) {
-			GerenciadorAudio.inst.PlayPulo(pulo);
 			rb2d.AddForce(new Vector2(0, jumpForce));
 			jump = false;
 		}
@@ -140,7 +175,6 @@ public class PlayerSurvival : MonoBehaviour {
 
 	void Fire() {
 
-		GerenciadorAudio.inst.PlayTiro(tiroAudio);
 
 		GameObject cloneBullet = Instantiate(bulletObject, bulletSpawn.position, bulletSpawn.rotation);
 
@@ -155,6 +189,11 @@ public class PlayerSurvival : MonoBehaviour {
 			Morrer();
         } else if(other.gameObject.CompareTag("portal_voltar")) {
 			SceneManager.LoadScene(0);
+		} else if(other.gameObject.CompareTag("chao") || other.gameObject.CompareTag("pedras")) {
+			if(virado) {
+				transform.rotation = padrao.rotation;
+				virado = false;
+			}
 		}
     }
 	
@@ -180,7 +219,6 @@ public class PlayerSurvival : MonoBehaviour {
 
 	private void Morrer() { // Tudo que rola quando morre
 		som_background.Stop();
-		GerenciadorAudio.inst.PlayMorte(som_morte);
 		playerCollider.isTrigger = true;
 		rb2d.bodyType = RigidbodyType2D.Static;
         anim.SetBool("morreu", true);
@@ -208,6 +246,12 @@ public class PlayerSurvival : MonoBehaviour {
 		caiu = true;
 	}
 
+	IEnumerator voltarTempo() {
+		yield return new WaitForSeconds(0.05f);
+		spritePlayer.color = Color.white;
+		Time.timeScale = 1;
+	}
+
 	IEnumerator morrer() { // Tempo após morrer
 		yield return new WaitForSeconds(0.5f);
 		derrota.SetBool("perdeu", true);
@@ -226,18 +270,17 @@ public class PlayerSurvival : MonoBehaviour {
 		}
 	}
 
-	IEnumerator posTirao() {
-		yield return new WaitForSeconds(1.5f);
-		GerenciadorAudio.inst.PlayTiro(tiroAudio);
+	public void posTirao() {
 		rb2d.bodyType = RigidbodyType2D.Dynamic;
 		anim.SetBool("super_tiro", false);
-		yield return new WaitForSeconds(0.7f);
 		pode_atirar = true;
 	}
 
 	void Tirao() {
         if(umTiro) {
-			Instantiate(superBullet, bulletSpawn.position, bulletSpawn.rotation);
+			GameObject Super = Instantiate(superBullet, bulletSpawn.position, bulletSpawn.rotation);
+			if(!lookingRight)
+			Super.transform.eulerAngles = new Vector3(0, 0, 180);
 			umTiro = false;
 		}
 	}

@@ -7,7 +7,7 @@ public class MontroMago: MonoBehaviour
 
     private Animator anim;
     private Rigidbody2D corpo;
-    private PolygonCollider2D collider;
+    private PolygonCollider2D collider_mago;
     private CircleCollider2D collider_trigger;
     private float speed = -0.09f;
 
@@ -16,7 +16,7 @@ public class MontroMago: MonoBehaviour
     {
       anim = GetComponent<Animator>();
       corpo = GetComponent<Rigidbody2D>();
-      collider = GetComponent<PolygonCollider2D>();  
+      collider_mago = GetComponent<PolygonCollider2D>();  
       collider_trigger = GetComponent<CircleCollider2D>();
     }
 
@@ -29,18 +29,14 @@ public class MontroMago: MonoBehaviour
     private void OnCollisionEnter2D(Collision2D other) {
         if(other.gameObject.CompareTag("bullet") || other.gameObject.CompareTag("p_super_bullet")) {
             Pontuacao.Pontuar();
+            speed = 0;
+            collider_mago.isTrigger = true;
+            corpo.gravityScale += 0.01f;
             anim.SetBool("morreu", true);
             Destroy(collider_trigger);
-            StartCoroutine("morre");
         } else if(other.gameObject.tag == this.gameObject.tag || other.gameObject.tag == "mguenta"
             || other.gameObject.tag == "monstro") {
                 Physics2D.IgnoreCollision(other.gameObject.GetComponent<Collider2D>(), GetComponent<Collider2D>());
         }
-    }
-
-    IEnumerator morre() {
-        collider.isTrigger = true;
-        yield return new WaitForSeconds(1.5f);
-        Destroy(this.gameObject);
     }
 }

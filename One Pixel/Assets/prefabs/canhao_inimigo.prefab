@@ -44,6 +44,7 @@ GameObject:
   - component: {fileID: 3812904347222606272}
   - component: {fileID: 3812904347222606143}
   - component: {fileID: 503974788}
+  - component: {fileID: 5249597371966153357}
   m_Layer: 0
   m_Name: canhao_inimigo
   m_TagString: mguenta
@@ -77,10 +78,12 @@ SpriteRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -104,7 +107,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -1
+  m_SortingOrder: 0
   m_Sprite: {fileID: -3251303185250319299, guid: f23398d348a3d334090b92aaaec984f0,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -231,3 +234,15 @@ MonoBehaviour:
   bulletSpawn: {fileID: 1597222091}
   bulletObject: {fileID: 5532741294532129320, guid: 37f2c9115b2df1e4b916ee4c14fa048d,
     type: 3}
+--- !u!114 &5249597371966153357
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3812904347222606276}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8aa97fa6474fbbf43b3bd850e3b4e349, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

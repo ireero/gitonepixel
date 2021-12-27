@@ -8,7 +8,7 @@ public class BulletInimigaGrande : MonoBehaviour
     private float speed = 1.2f;
     private float timeDestroy;
     private Animator anim;
-    private BoxCollider2D collider;
+    private BoxCollider2D collider_grande;
     private bool nasceu;
     private int contador = 0;
     // Start is called before the first frame update
@@ -18,7 +18,7 @@ public class BulletInimigaGrande : MonoBehaviour
         timeDestroy = 15f;
         Destroy(gameObject, timeDestroy);
         anim = GetComponent<Animator>();
-        collider = GetComponent<BoxCollider2D>();
+        collider_grande = GetComponent<BoxCollider2D>();
     }
 
     // Update is called once per frame
@@ -45,11 +45,9 @@ public class BulletInimigaGrande : MonoBehaviour
             StartCoroutine("voltarIdle");
             if(contador >= 4) {
                 Morrer();
-                StartCoroutine("morre");
             }
         } else if(other.gameObject.CompareTag("p_super_bullet")) {
             Morrer();
-            StartCoroutine("morre");
         }
     }
     IEnumerator nascer() {
@@ -63,14 +61,13 @@ public class BulletInimigaGrande : MonoBehaviour
         anim.SetBool("colidiu", false);
     }
 
-    IEnumerator morre() {
-		yield return new WaitForSeconds(0.8f);
+    public void morre() {
         Destroy(this.gameObject);
 	}
 
     private void Morrer() {
         anim.SetBool("atingiu", true);
         speed = 0;
-        collider.isTrigger = true;
+        collider_grande.isTrigger = true;
     }
 }

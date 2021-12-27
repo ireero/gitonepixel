@@ -47,10 +47,12 @@ SpriteRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -125,6 +127,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8521b30084b5265489d07c0e5716bd1a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  velocidade: -0.35
+  valorVida: 1
 --- !u!50 &2782864791480696607
 Rigidbody2D:
   serializedVersion: 4
@@ -164,6 +168,10 @@ EdgeCollider2D:
   m_Points:
   - {x: 0.4222684, y: 0.25127017}
   - {x: 0.42346978, y: -0.2410559}
+  m_AdjacentStartPoint: {x: 0, y: 0}
+  m_AdjacentEndPoint: {x: 0, y: 0}
+  m_UseAdjacentStartPoint: 0
+  m_UseAdjacentEndPoint: 0
 --- !u!95 &3614700951863346136
 Animator:
   serializedVersion: 3
@@ -245,7 +253,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2782864792962756194}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.14827204, y: 0.008408904, z: 11.280273}
+  m_LocalPosition: {x: 0.162, y: 0.012, z: 11.280273}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2782864792946722938}
@@ -262,10 +270,12 @@ SpriteRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -340,6 +350,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3d9673ea2fcee4895c390a7d49e92a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  velocidade: -0.35
+  valorVida: 1
 --- !u!50 &2782864792962756198
 Rigidbody2D:
   serializedVersion: 4
@@ -379,6 +391,10 @@ EdgeCollider2D:
   m_Points:
   - {x: -0.42029834, y: -0.24514157}
   - {x: -0.41931152, y: 0.24922729}
+  m_AdjacentStartPoint: {x: 0, y: 0}
+  m_AdjacentEndPoint: {x: 0, y: 0}
+  m_UseAdjacentStartPoint: 0
+  m_UseAdjacentEndPoint: 0
 --- !u!95 &7525090599279673861
 Animator:
   serializedVersion: 3

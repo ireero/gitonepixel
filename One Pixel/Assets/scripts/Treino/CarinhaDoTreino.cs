@@ -11,7 +11,7 @@ public class CarinhaDoTreino : MonoBehaviour
     public GameObject painel_fala_objeto;
     private Animator anim;
     private string[] falas = {"It's about time you got here", "Well, I will teach you how to war", 
-        "To learn just look closely at the wall", "Pressing 'Esc' pauses the game", "In addition, you can use AWSD for movement. the mouse is also configured", "Now practice!, try pressing all the buttons or something like that." + 
+        "To learn just look closely at the wall","Use the platform when jumping for a better result", "Pressing 'Esc' pauses the game", "In addition, you can use AWSD for movement. the mouse is also configured", "Now practice!, try pressing all the buttons or something like that." + 
         "I have to go, see you soon, bye!", "To get out of here just enter the portal, I almost forgot to tell you hehehehe"};
 
     private string[] falasJogo = {"Protect the army portal from more than 1,000 monsters from the white pixel emperor", "Remember that failure is not an option for you...", 
@@ -20,7 +20,7 @@ public class CarinhaDoTreino : MonoBehaviour
 
     // Falas Do Carinha do tutorial com a lingua portuguesa
     private string[] falas_br = {"Já estava na hora de você chegar aqui", "Bem, eu vou te ensinar como guerrear", 
-        "Para aprender basta olhar atentamente para a parede", "Apertando 'Esc' você pausa o jogo", "Além disso você pode usar AWSD para movimentação. o mouse também esta configurado", 
+        "Para aprender basta olhar atentamente para a parede","Use a plataforma ao pular para um melhor resultado", "Apertando 'Esc' você pausa o jogo", "Além disso você pode usar AWSD para movimentação. o mouse também esta configurado", 
         "Agora pratique!, Tente pressionar todos os botões ou algo parecido", 
         "Eu tenho que ir, até logo, tchau!", "Para sair daqui é só entrar no portal, quase esqueci de te falar hehehehe"}; 
 
@@ -28,7 +28,7 @@ public class CarinhaDoTreino : MonoBehaviour
         "Faça certo e você será devidamente recompensado", "Tenho que ir, mas saiba que estou te observando e esperando sua vitória triunfante!"};    
 
     private string[] falas_chi = {"你该到这了", "好吧，我要教你如何发动战争", 
-        "要学习，只需仔细看看墙", "按逃脱键可暂停游戏", "此外，您可以使用阿大布柳艾丝德进行移动。鼠标也已配置", 
+        "要学习，只需仔细看看墙","跳跃时使用平台以获得更好的效果", "按逃脱键可暂停游戏", "此外，您可以使用阿大布柳艾丝德进行移动。鼠标也已配置", 
         "现在练习！，尝试按所有按钮或其他按钮", 
         "我得走了，再见，再见！", "要离开这里，只需进入门户，我几乎忘了告诉你"};
 
@@ -162,7 +162,7 @@ public class CarinhaDoTreino : MonoBehaviour
                 painel_fala.SetBool("desaparece", true);
                 PlayerTutorial.pode_mover = true;
                 break;     
-            case 1000:
+            case 998:
                 PainelAparece();
                 if (Application.systemLanguage == SystemLanguage.Portuguese) {
                     txt_fala.text = falas_br[3];
@@ -172,16 +172,21 @@ public class CarinhaDoTreino : MonoBehaviour
                     txt_fala.text = falas[3];
                 }       
                 break;
-            case 1001:
+            case 999:
+                painel_fala.SetBool("aparece", false);
+                painel_fala.SetBool("desaparece", true);
+                break;     
+            case 1000:
+                PainelAparece();
                 if (Application.systemLanguage == SystemLanguage.Portuguese) {
                     txt_fala.text = falas_br[4];
                 } else if(Application.systemLanguage == SystemLanguage.Chinese) {
                         txt_fala.text = falas_chi[4];
                     } else {
                     txt_fala.text = falas[4];
-                }
+                }       
                 break;
-            case 1002:
+            case 1001:
                 if (Application.systemLanguage == SystemLanguage.Portuguese) {
                     txt_fala.text = falas_br[5];
                 } else if(Application.systemLanguage == SystemLanguage.Chinese) {
@@ -190,7 +195,7 @@ public class CarinhaDoTreino : MonoBehaviour
                     txt_fala.text = falas[5];
                 }
                 break;
-            case 1003:
+            case 1002:
                 if (Application.systemLanguage == SystemLanguage.Portuguese) {
                     txt_fala.text = falas_br[6];
                 } else if(Application.systemLanguage == SystemLanguage.Chinese) {
@@ -199,13 +204,22 @@ public class CarinhaDoTreino : MonoBehaviour
                     txt_fala.text = falas[6];
                 }
                 break;
-            case 1004:
+            case 1003:
                 if (Application.systemLanguage == SystemLanguage.Portuguese) {
                     txt_fala.text = falas_br[7];
                 } else if(Application.systemLanguage == SystemLanguage.Chinese) {
                         txt_fala.text = falas_chi[7];
                     } else {
                     txt_fala.text = falas[7];
+                }
+                break;
+            case 1004:
+                if (Application.systemLanguage == SystemLanguage.Portuguese) {
+                    txt_fala.text = falas_br[8];
+                } else if(Application.systemLanguage == SystemLanguage.Chinese) {
+                        txt_fala.text = falas_chi[8];
+                    } else {
+                    txt_fala.text = falas[8];
                 }
                 break;             
             case 1005:

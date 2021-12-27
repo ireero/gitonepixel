@@ -21,8 +21,6 @@ public class Player : MonoBehaviour {
 	public Transform bulletSpawn;
 	public GameObject bulletObject;
 	private SpriteRenderer spritePlayer;
-	public AudioClip pulo;
-	public AudioClip tiroAudio;
 
 	// Animações
 	private Animator anim;
@@ -52,8 +50,6 @@ public class Player : MonoBehaviour {
 
 	public static bool final = false;
 
-	public AudioSource som_background;
-	public AudioClip som_morte;
 	public Button btn_pausar;
 
 	private int umaVez = 0;
@@ -61,7 +57,22 @@ public class Player : MonoBehaviour {
 
 	public Transform spawn_inicio;
 
+	private float taxa_tiros;
+	private float cont;
+
+	private bool virado;
+	private bool podeVirar;
+
+	public Transform padrao;
+
+	private int musica_tocada;
+
 	void Start () {
+		musica_tocada = 0;
+		podeVirar = false;
+		virado = false;
+		taxa_tiros = 0.25f;
+		cont = 0;
 		pode_atirar = true;
 		Time.timeScale = 1;
 		transform.position = spawn_inicio.transform.position;
@@ -82,7 +93,6 @@ public class Player : MonoBehaviour {
 		if(final) {
 			if(umaVez2 == 0) {
 				anim.SetBool("objeto", true);
-				som_background.Stop();
 				StartCoroutine("cairObjeto");
 				umaVez2++;
 			}
@@ -100,6 +110,14 @@ public class Player : MonoBehaviour {
 		}
 		texto.text = Pontuacao.GetPontos().ToString();
 
+		if(isGrounded) {
+			podePor = false;
+			podeVirar = false;
+		} else {
+			podeVirar = true;
+			podePor = true;
+		}
+
 		Salvar();
 	}
 
@@ -115,6 +133,16 @@ public class Player : MonoBehaviour {
 			}
 		}
 
+		if(Input.GetKeyDown(KeyCode.C)) {
+			if(podeVirar) {
+				spritePlayer.color = Color.red;
+				Time.timeScale = 0.1f;
+				transform.Rotate(0, 0, 90);
+				virado = true;
+				StartCoroutine("voltarTempo");
+			}
+		}
+
 		if(Input.GetKey(KeyCode.DownArrow) || Input.GetKey(KeyCode.S)) {
 			anim.SetBool("abaixou", true);
 		}
@@ -127,6 +155,12 @@ public class Player : MonoBehaviour {
 			umTiro = true;
 			if(Input.GetKeyDown(KeyCode.Z) || Input.GetMouseButtonDown(0)) {
 				Fire();
+			} else if(Input.GetKey(KeyCode.Z) || Input.GetMouseButton(0)) {
+				cont += Time.deltaTime;
+				if(cont >= taxa_tiros) {
+					Fire();
+					cont = 0;
+				}
 			}
 
 			if(Pontuacao.GetPontos() >= 100) {
@@ -134,8 +168,6 @@ public class Player : MonoBehaviour {
 				rb2d.bodyType = RigidbodyType2D.Static;
 				pode_atirar = false;
 				anim.SetBool("super_tiro", true);
-				Tirao();
-				StartCoroutine("posTirao");
 			}
 			} 
 		}
@@ -153,7 +185,7 @@ public class Player : MonoBehaviour {
 			Flip ();
 
 		if (jump) {
-			GerenciadorAudio.inst.PlayPulo(pulo);
+			GerenciaAudio.inst.PlaySomSfx(1, "SfxPlayer");
 			rb2d.AddForce(new Vector2(0, jumpForce));
 			jump = false;
 		}
@@ -168,7 +200,7 @@ public class Player : MonoBehaviour {
 
 	void Fire() {
 
-		GerenciadorAudio.inst.PlayTiro(tiroAudio);
+		GerenciaAudio.inst.PlaySomSfx(2, "SfxPlayer");
 
 		GameObject cloneBullet = Instantiate(bulletObject, bulletSpawn.position, bulletSpawn.rotation);
 
@@ -184,6 +216,11 @@ public class Player : MonoBehaviour {
 			Morrer();
         } else if(other.gameObject.CompareTag("portal_voltar")) {
 			SceneManager.LoadScene(0);
+		} else if(other.gameObject.CompareTag("chao") || other.gameObject.CompareTag("pedras")) {
+			if(virado) {
+				transform.rotation = padrao.rotation;
+				virado = false;
+			}
 		}
     }
 	
@@ -209,8 +246,7 @@ public class Player : MonoBehaviour {
 
 	private void Morrer() { // Tudo que rola quando morre
 		PlayerPrefs.SetInt("conquista_morrer_20", Gerenciador.mortes_player);
-		som_background.Stop();
-		GerenciadorAudio.inst.PlayMorte(som_morte);
+		GerenciaAudio.inst.PlaySomSfx(0, "SfxPlayer");
 		playerCollider.isTrigger = true;
 		rb2d.bodyType = RigidbodyType2D.Static;
         anim.SetBool("morreu", true);
@@ -221,7 +257,6 @@ public class Player : MonoBehaviour {
 	private void Animar() { // Animações
 		if(isGrounded) {
 			anim.SetBool("caiu", true);
-			anim.SetBool("pulando", false);
 			StartCoroutine("animarCaida");
 			if(caiu) {
 				anim.SetBool("caiu", false);
@@ -236,6 +271,12 @@ public class Player : MonoBehaviour {
 	IEnumerator animarCaida() { // Tempo após cair
 		yield return new WaitForSeconds(0.25f);
 		caiu = true;
+	}
+
+	IEnumerator voltarTempo() {
+		yield return new WaitForSeconds(0.05f);
+		spritePlayer.color = Color.white;
+		Time.timeScale = 1;
 	}
 
 	IEnumerator morrer() { // Tempo após morrer
@@ -260,7 +301,6 @@ public class Player : MonoBehaviour {
 	IEnumerator finalJogo() {
 		yield return new WaitForSeconds(8.0f);
 		anim.SetBool("acabou", true);
-		som_background.Stop();
 	}
 
 	IEnumerator cairObjeto() {
@@ -268,12 +308,9 @@ public class Player : MonoBehaviour {
 		anim.SetBool("objeto", false);
 	}
 
-	IEnumerator posTirao() {
-		yield return new WaitForSeconds(1f);
-		GerenciadorAudio.inst.PlayTiro(tiroAudio);
+	public void posTirao() {
 		rb2d.bodyType = RigidbodyType2D.Dynamic;
 		anim.SetBool("super_tiro", false);
-		yield return new WaitForSeconds(0.5f);
 		pode_atirar = true;
 	}
 
