@@ -2,32 +2,26 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MoveMeditador : MonoBehaviour
+public class MoveMeditador : MoveVoador
 {
-    private float velocidade = -0.15f;
-    private int dano = 0;
-    private Animator anim;
-    private PolygonCollider2D collider_meditador;
-    private Rigidbody2D corpo;
     private float tempo_atirar = 0;
+    private float velocidade_de_sempre = -0.15f;
 
     // Variaveis de Tiro
     public Transform bulletSpawn;
 	public GameObject bulletObject;
     private bool morto = false;
-    private int tiro_um = 0;
+    private int tiro_um;
     // Start is called before the first frame update
     void Start()
     {
-       anim = GetComponent<Animator>();
-       collider_meditador = GetComponent<PolygonCollider2D>();
-       corpo = GetComponent<Rigidbody2D>();
+        tiro_um = 0;
     }
 
     // Update is called once per frame
-    void Update()
+    protected override void Update()
     {
-        transform.Translate(new Vector2(velocidade * Time.deltaTime, 0));
+        base.Update();
         tempo_atirar += Time.deltaTime;
         if(tempo_atirar >= 5.0f) {
             tiro_um++;
@@ -38,28 +32,6 @@ public class MoveMeditador : MonoBehaviour
             velocidade = 0;
             anim.SetBool("atirando", true);
             Fire();
-            StartCoroutine("voltarAndar");
-        }
-    }
-
-    private void OnCollisionEnter2D(Collision2D other) {
-        if (other.gameObject.tag == this.gameObject.tag || other.gameObject.tag == "mguenta"
-            || other.gameObject.tag == "monstro" || other.gameObject.CompareTag("mago") || other.gameObject.CompareTag("super_tiro") || 
-            other.gameObject.CompareTag("bullet_inimiga")){
-            Physics2D.IgnoreCollision(other.gameObject.GetComponent<Collider2D>(), GetComponent<Collider2D>());
-        } else if(other.gameObject.CompareTag("bullet")) {
-            anim.SetBool("tomou_dano", true);
-            dano++;
-            StartCoroutine("tiro");
-            if(dano >= 3) {
-                Morrer();
-                Pontuacao.Pontuar();
-                StartCoroutine("morre");
-            }
-        } else if(other.gameObject.CompareTag("p_super_bullet")) {
-            Morrer();
-            Pontuacao.Pontuar();
-            StartCoroutine("morre");
         }
     }
 
@@ -68,22 +40,9 @@ public class MoveMeditador : MonoBehaviour
         anim.SetBool("tomou_dano", false);
 	}
 
-    IEnumerator morre() {
-		yield return new WaitForSeconds(2.2f);
-        Destroy(this.gameObject);
-	}
-
-    IEnumerator voltarAndar() {
-        yield return new WaitForSeconds(2f);
+    public void voltarAndar() {
+        velocidade = velocidade_de_sempre;
         anim.SetBool("atirando", false);
-        velocidade = -0.15f;
-    }
-
-    private void Morrer() {
-        anim.SetBool("morreu", true);
-        collider_meditador.isTrigger = true;
-        morto = true;
-        corpo.bodyType = RigidbodyType2D.Kinematic;
     }
 
     void Fire() {

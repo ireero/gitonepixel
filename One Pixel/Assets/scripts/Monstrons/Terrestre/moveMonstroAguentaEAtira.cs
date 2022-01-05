@@ -2,13 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class moveMonstroAguentaEAtira : MonoBehaviour
+public class moveMonstroAguentaEAtira : Monstros
 {
-    private float velocidade = -0.11f;
-    private int dano = 0;
-    private Animator anim;
-    private BoxCollider2D collider_ag_atira;
-    private Rigidbody2D corpo;
     private float tempo_parar = 0;
 
     // Variaveis de Tiro
@@ -16,23 +11,18 @@ public class moveMonstroAguentaEAtira : MonoBehaviour
 	public GameObject bulletObject;
     private bool morto = false;
     private int tiro_um = 0;
-    // Start is called before the first frame update
-    void Start()
-    {
-       anim = GetComponent<Animator>();
-       collider_ag_atira = GetComponent<BoxCollider2D>();
-       corpo = GetComponent<Rigidbody2D>();
-    }
+    private float velocidade_de_sempre = -0.15f;
 
-    // Update is called once per frame
-    void Update()
+    protected override void Update()
     {
+        base.Update();
         tempo_parar += Time.deltaTime;
         if(tempo_parar >= 0 && tempo_parar <= 4.1f) {
-            transform.Translate(new Vector2(velocidade * Time.deltaTime, 0));
+            Andar(this.velocidade);
             tiro_um = 1;
         } else {
             if(tiro_um == 1) {
+                velocidade = 0;
                 anim.SetBool("dormir", true);
             }
         }
@@ -44,9 +34,9 @@ public class moveMonstroAguentaEAtira : MonoBehaviour
             Physics2D.IgnoreCollision(other.gameObject.GetComponent<Collider2D>(), GetComponent<Collider2D>());
         } else if(other.gameObject.CompareTag("bullet")) {
             anim.SetBool("tomou_dano", true);
-            dano++;
+            valorVida--;
             StartCoroutine("tiro");
-            if(dano >= 3) {
+            if(valorVida <= 0) {
                 Morrer();
             }
         } else if(other.gameObject.CompareTag("p_super_bullet")) {
@@ -54,29 +44,20 @@ public class moveMonstroAguentaEAtira : MonoBehaviour
         }
     }
 
-    IEnumerator tiro() {
-		yield return new WaitForSeconds(0.3f);
-        anim.SetBool("tomou_dano", false);
-	}
-
-    private void Morrer() {
-        Pontuacao.Pontuar();
-        anim.SetBool("morreu", true);
-        collider_ag_atira.isTrigger = true;
-        morto = true;
-        corpo.bodyType = RigidbodyType2D.Static;
-        velocidade = 0;
+    public void Fire() {
+        if(tiro_um == 1) {
+            Instantiate(bulletObject, bulletSpawn.position, bulletSpawn.rotation);
+            tiro_um = 0;
+        }
     }
 
     public void voltarAndar() {
-        tempo_parar = 0;
+        velocidade = velocidade_de_sempre;
+        anim.SetBool("dormir", false);
     }
 
-    public void Fire() {
-        anim.SetBool("atirando", false);
-		if(!morto) {
-            GameObject cloneBullet = Instantiate(bulletObject, bulletSpawn.position, bulletSpawn.rotation);
-            tiro_um = 0;
-        }
+    IEnumerator tiro() {
+		yield return new WaitForSeconds(0.3f);
+        anim.SetBool("tomou_dano", false);
 	}
 }

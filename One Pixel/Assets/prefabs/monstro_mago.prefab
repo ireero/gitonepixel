@@ -13,9 +13,8 @@ GameObject:
   - component: {fileID: 1702566276}
   - component: {fileID: 4399410822451222106}
   - component: {fileID: 4399410822451222177}
-  - component: {fileID: 7784741035896850314}
   - component: {fileID: 6270929535470570930}
-  - component: {fileID: 9217642256949658917}
+  - component: {fileID: -3133312885153176421}
   m_Layer: 0
   m_Name: monstro_mago
   m_TagString: mago
@@ -168,18 +167,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &7784741035896850314
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4399410822451222107}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f2cf8fea62a5abb47bddb702a364ca2d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!58 &6270929535470570930
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -196,7 +183,7 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 12.44
---- !u!114 &9217642256949658917
+--- !u!114 &-3133312885153176421
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -205,6 +192,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 4399410822451222107}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8aa97fa6474fbbf43b3bd850e3b4e349, type: 3}
+  m_Script: {fileID: 11500000, guid: bf94f980b619249479004be5dfd0d21c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  velocidade: -0.03
+  valorVida: 1

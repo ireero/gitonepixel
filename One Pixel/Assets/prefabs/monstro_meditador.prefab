@@ -217,6 +217,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83e6411a5a747c7439ccaaf4d66c4ce2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  velocidade: -0.15
+  valorVida: 3
   bulletSpawn: {fileID: 885715124}
   bulletObject: {fileID: 6632387921246053052, guid: d206f236556931e4fbd4bce0f443bc0c,
     type: 3}

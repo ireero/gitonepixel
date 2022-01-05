@@ -34,7 +34,7 @@ public class Monstros : MonoBehaviour
     }
 
     private void OnCollisionEnter2D(Collision2D other) {
-        if (other.gameObject.tag == this.gameObject.tag || other.gameObject.CompareTag("mguenta")){
+        if (other.gameObject.tag == this.gameObject.tag || other.gameObject.CompareTag("mguenta") || other.gameObject.CompareTag("monstro")){
             Physics2D.IgnoreCollision(other.gameObject.GetComponent<Collider2D>(), GetComponent<Collider2D>());
         }
 

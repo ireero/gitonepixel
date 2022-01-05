@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 6924261436825492572}
   - component: {fileID: 6924261436825492579}
   - component: {fileID: 6924261436825492578}
-  - component: {fileID: -8764251557185694784}
+  - component: {fileID: 7674441649604873679}
   m_Layer: 0
   m_Name: monstro_bomba
   m_TagString: monstro
@@ -170,7 +170,7 @@ CircleCollider2D:
   m_Offset: {x: -0.0037908554, y: 0}
   serializedVersion: 2
   m_Radius: 1.4
---- !u!114 &-8764251557185694784
+--- !u!114 &7674441649604873679
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -179,6 +179,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 6924261436825492568}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0bc26e4782984b946836b1655ed2755f, type: 3}
+  m_Script: {fileID: 11500000, guid: 72807b503b94e544b936689b1b82c541, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  velocidade: -0.9
+  valorVida: 1

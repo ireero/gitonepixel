@@ -43,8 +43,7 @@ GameObject:
   - component: {fileID: 2998778651854174417}
   - component: {fileID: 2998778651854174422}
   - component: {fileID: 2998778651854174421}
-  - component: {fileID: 2998778651854174420}
-  - component: {fileID: 3462776732377009203}
+  - component: {fileID: -3801519407987147885}
   m_Layer: 0
   m_Name: monstro_tirao
   m_TagString: aguenta_tirao
@@ -185,7 +184,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
---- !u!114 &2998778651854174420
+--- !u!114 &-3801519407987147885
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -197,18 +196,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d61f77ba6a75fa84680ffba752b13928, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  velocidade: -0.15
+  valorVida: 4
   bulletSpawn: {fileID: 1315368932}
   bulletObject: {fileID: 6632387921246053052, guid: d206f236556931e4fbd4bce0f443bc0c,
     type: 3}
---- !u!114 &3462776732377009203
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2998778651854174418}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8aa97fa6474fbbf43b3bd850e3b4e349, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 

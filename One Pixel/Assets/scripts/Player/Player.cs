@@ -65,10 +65,7 @@ public class Player : MonoBehaviour {
 
 	public Transform padrao;
 
-	private int musica_tocada;
-
 	void Start () {
-		musica_tocada = 0;
 		podeVirar = false;
 		virado = false;
 		taxa_tiros = 0.25f;
@@ -227,16 +224,16 @@ public class Player : MonoBehaviour {
 	private void OnTriggerEnter2D(Collider2D other) {
 		if(other.gameObject.CompareTag("mago")) {
 			spritePlayer.color = Color.grey;
-			speed -= 0.45f;
-			jumpForce -= 7.5f;
+			speed -= 0.6f;
+			jumpForce -= 9f;
 			valor_entrada++;
 		}
 	}
 
 	private void OnTriggerExit2D(Collider2D other) {
 		if(other.gameObject.CompareTag("mago")) {
-			speed += 0.45f;
-			jumpForce += 7.5f;
+			speed += 0.6f;
+			jumpForce += 9f;
 			valor_entrada--;
 			if(valor_entrada <= 0) {
 				spritePlayer.color = Color.white;

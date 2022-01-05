@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MontroMago: MonoBehaviour
+public class MontroMago: MoveVoador
 {
 
     private Animator anim;
