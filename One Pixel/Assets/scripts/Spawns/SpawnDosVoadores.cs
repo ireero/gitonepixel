@@ -82,7 +82,7 @@ public class SpawnDosVoadores : MonoBehaviour
     }
 
     void SpawnsPorPontuacao(int minimo, int maximo) {
-        if(Pontuacao.GetPontos() > minimo && Pontuacao.GetPontos() < maximo) {
+        if(Pontuacao.GetPontos() >= minimo && Pontuacao.GetPontos() <= maximo) {
             if(tempo >= tempo_para_proxima_acao) {
                 valor = SortearValor();
                 Pontuacao.monstros++;

@@ -1354,14 +1354,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cfa32aa7c61e1b44c84b82e8637aa444, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  monstro: {fileID: 8512276353931728745, guid: 9102bc6a64b833a4da213e873465de3a, type: 3}
-  monstro2: {fileID: 5398763923324166426, guid: d7f957e0373473644a7f5567947159cf,
-    type: 3}
-  monstro3: {fileID: 2998778651854174418, guid: 4dd92dd1f3efa914bb80a1a6769b930b,
-    type: 3}
-  monstro4: {fileID: 3812904347222606276, guid: 0689a87d3dca7aa4e8485ae75fbf4a33,
-    type: 3}
-  lugar: {fileID: 373132423}
+  monstros_chao:
+  - {fileID: 8512276353931728745, guid: 9102bc6a64b833a4da213e873465de3a, type: 3}
+  - {fileID: 5398763923324166426, guid: d7f957e0373473644a7f5567947159cf, type: 3}
+  - {fileID: 2998778651854174418, guid: 4dd92dd1f3efa914bb80a1a6769b930b, type: 3}
+  - {fileID: 3812904347222606276, guid: 0689a87d3dca7aa4e8485ae75fbf4a33, type: 3}
+  lugar: {fileID: 278230841}
 --- !u!1 &312241485
 GameObject:
   m_ObjectHideFlags: 0

@@ -5,11 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class SpawnChao : MonoBehaviour
 {
-
-    public GameObject monstro;
-    public GameObject monstro2;
-    public GameObject monstro3;
-    public GameObject monstro4;
+    public GameObject[] monstros_chao;
 
     public Transform lugar;
 
@@ -42,19 +38,19 @@ public class SpawnChao : MonoBehaviour
             valor = Random.Range(1, 5);
             switch(valor) {
                     case 1:
-                        Instantiate(monstro, lugar.position, lugar.rotation);
+                        Instantiate(monstros_chao[0], lugar.position, lugar.rotation);
                         tempo = 0.5f;
                         break;
                     case 2:
-                        Instantiate(monstro2, lugar.position, lugar.rotation);
+                        Instantiate(monstros_chao[1], lugar.position, lugar.rotation);
                         tempo = -0.5f;
                         break;
                     case 3:
-                        Instantiate(monstro3, lugar.position, lugar.rotation);
+                        Instantiate(monstros_chao[2], lugar.position, lugar.rotation);
                         tempo = -1.5f; 
                         break;
                     case 4:
-                        Instantiate(monstro4, lugar.position, lugar.rotation);
+                        Instantiate(monstros_chao[3], lugar.position, lugar.rotation);
                         tempo = -1f;
                         break;           
                 }
@@ -62,91 +58,41 @@ public class SpawnChao : MonoBehaviour
         }
 
         if(tempo >= 2.5f && podeSopawn) {
-            if(Pontuacao.GetPontos() >= 0 && Pontuacao.GetPontos() <= 300) {
-                valor = SortearValor();
-                switch(valor) {
-                    case 1:
-                        Instantiate(monstro, lugar.position, lugar.rotation);
-                        tempo = 0;
-                        Pontuacao.monstros++;
-                        break;
-                    case 2:
-                        Instantiate(monstro2, lugar.position, lugar.rotation);
-                        tempo = -1f;
-                        Pontuacao.monstros++;
-                        break;
-                }
+            SpawnsPorPontuacao(0, 300);
+            SpawnsPorPontuacao(301, 699);
+            SpawnsPorPontuacao(700, 200000);
+        }
+    }
 
-        } else if(Pontuacao.GetPontos() > 300 && Pontuacao.GetPontos() < 700) {
+    void SpawnsPorPontuacao(int minimo, int maximo) {
+        if(Pontuacao.GetPontos() >= minimo && Pontuacao.GetPontos() <= maximo) {
             valor = SortearValor();
+            Pontuacao.monstros++;
             switch(valor) {
-                    case 1:
-                        Instantiate(monstro, lugar.position, lugar.rotation);
-                        tempo = 0;
-                        Pontuacao.monstros++;
-                        break;
-                    case 2:
-                        Instantiate(monstro2, lugar.position, lugar.rotation);
-                        tempo = -1f;
-                        Pontuacao.monstros++;
-                        break;
-                    case 3:
-                        Instantiate(monstro3, lugar.position, lugar.rotation);
-                        tempo = -2f; 
-                        Pontuacao.monstros++;
-                        break;       
-                } } else if(Pontuacao.GetPontos() >= 700) {
-            valor = SortearValor();
-            switch(valor) {
-                    case 1:
-                        Instantiate(monstro, lugar.position, lugar.rotation);
-                        tempo = 0;
-                        Pontuacao.monstros++;
-                        break;
-                    case 2:
-                        Instantiate(monstro2, lugar.position, lugar.rotation);
-                        tempo = -1f;
-                        Pontuacao.monstros++;
-                        break;
-                    case 3:
-                        Instantiate(monstro3, lugar.position, lugar.rotation);
-                        tempo = -2f; 
-                        Pontuacao.monstros++;
-                        break;
-                    case 4:
-                        Instantiate(monstro4, lugar.position, lugar.rotation);
-                        tempo = -1.5f;
-                        Pontuacao.monstros++;
-                        break;           
-                }
-        } else if(Pontuacao.GetPontos() > 700) {
-            valor = SortearValor();
-            tempo += 0.5f;
-            switch(valor) {
-                    case 1:
-                        Instantiate(monstro, lugar.position, lugar.rotation);
-                        tempo = 0.5f;
-                        Pontuacao.monstros++;
-                        break;
-                    case 2:
-                        Instantiate(monstro2, lugar.position, lugar.rotation);
-                        tempo = -0.5f;
-                        Pontuacao.monstros++;
-                        break;
-                    case 3:
-                        Instantiate(monstro3, lugar.position, lugar.rotation);
-                        tempo = -1.5f; 
-                        Pontuacao.monstros++;
-                        break;
-                    case 4:
-                        Instantiate(monstro4, lugar.position, lugar.rotation);
-                        tempo = -1f;
-                        Pontuacao.monstros++;
-                        break;           
+                case 1:
+                    Instantiate(monstros_chao[0], lugar.position, lugar.rotation);
+                    tempo = 0.5f;
+                    break;
+                case 2:
+                    Instantiate(monstros_chao[1], lugar.position, lugar.rotation);
+                    tempo = -0.5f;
+                    break;
+                case 3:
+                    Instantiate(monstros_chao[2], lugar.position, lugar.rotation);
+                    tempo = -1.5f;
+                    break;
+                case 4:
+                    Instantiate(monstros_chao[3], lugar.position, lugar.rotation);
+                    tempo = -0.5f;
+                    break;           
+                default:
+                    Instantiate(monstros_chao[0], lugar.position, lugar.rotation);   
+                    tempo = -1f;
+                    break;             
                 }
         }
     }
-}
+
     public int SortearValor() {
         int valorSorteado = 0;
         if(Pontuacao.GetPontos() >= 0 && Pontuacao.GetPontos() <= 300) {
