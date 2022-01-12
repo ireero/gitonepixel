@@ -13,32 +13,32 @@ public class Player : MonoBehaviour {
 	[HideInInspector]
 	public bool lookingRight = true;
 
-	private Rigidbody2D rb2d;
+	protected Rigidbody2D rb2d;
 	public bool isGrounded = false;
-	private bool jump = false;
+	protected bool jump = false;
 
 	//Variaveis do tiro
 	public Transform bulletSpawn;
 	public GameObject bulletObject;
-	private SpriteRenderer spritePlayer;
+	protected SpriteRenderer spritePlayer;
 
 	// Animações
-	private Animator anim;
-	private float duracaoAnim;
-	private bool caiu = false;
+	protected Animator anim;
+	protected float duracaoAnim;
+	protected bool caiu = false;
 
 	public Text texto;
-	private BoxCollider2D playerCollider;
-	private PolygonCollider2D colliderAbaixado;
+	protected BoxCollider2D playerCollider;
+	protected PolygonCollider2D colliderAbaixado;
 
 	// Spawn Chão
 	public Transform chaoSpawn;
 	public GameObject chao;
-	private bool podePor = true;
+	protected bool podePor = true;
 
 	// UI
 	public Animator derrota;
-	private int recorde;
+	protected int recorde;
 
 	// Pode se mover
 	public static bool pode_mover = true;
@@ -46,22 +46,20 @@ public class Player : MonoBehaviour {
 	public GameObject superBullet;
 
 	//valores
-	private int valor_entrada;
+	protected int valor_entrada;
 
 	public static bool final = false;
 
 	public Button btn_pausar;
 
-	private int umaVez = 0;
-	private int umaVez2 = 0;
+	protected int umaVez = 0;
+	protected int umaVez2 = 0;
 
-	public Transform spawn_inicio;
+	protected float taxa_tiros;
+	protected float cont;
 
-	private float taxa_tiros;
-	private float cont;
-
-	private bool virado;
-	private bool podeVirar;
+	protected bool virado;
+	protected bool podeVirar;
 
 	public Transform padrao;
 
@@ -72,7 +70,6 @@ public class Player : MonoBehaviour {
 		cont = 0;
 		pode_atirar = true;
 		Time.timeScale = 1;
-		transform.position = spawn_inicio.transform.position;
 		final = false;
 		valor_entrada = 0; 
 		rb2d = GetComponent<Rigidbody2D> ();
@@ -118,7 +115,7 @@ public class Player : MonoBehaviour {
 		Salvar();
 	}
 
-	void inputCheck (){
+	protected void inputCheck (){
 
 		if ((Input.GetButtonDown("Jump") && isGrounded) || (Input.GetKeyDown(KeyCode.W) && isGrounded) || Input.GetMouseButtonDown(2) && isGrounded){
 			jump = true;
@@ -170,7 +167,7 @@ public class Player : MonoBehaviour {
 		}
 	}
 
-	void move(){
+	protected void move(){
 
 		float horizontalForceButton = Input.GetAxis ("Horizontal");
 		rb2d.velocity = new Vector2 (horizontalForceButton * speed, rb2d.velocity.y);
@@ -188,14 +185,14 @@ public class Player : MonoBehaviour {
 		}
 	}
 
-	void Flip(){
+	protected void Flip(){
 		lookingRight = !lookingRight;
 		Vector3 myScale = transform.localScale;
 		myScale.x *= -1;
 		transform.localScale = myScale;
 	}
 
-	void Fire() {
+	protected void Fire() {
 
 		GerenciaAudio.inst.PlaySomSfx(2, "SfxPlayer");
 
@@ -241,7 +238,7 @@ public class Player : MonoBehaviour {
 		}
 	}
 
-	private void Morrer() { // Tudo que rola quando morre
+	protected void Morrer() { // Tudo que rola quando morre
 		PlayerPrefs.SetInt("conquista_morrer_20", Gerenciador.mortes_player);
 		GerenciaAudio.inst.PlaySomSfx(0, "SfxPlayer");
 		playerCollider.isTrigger = true;
@@ -251,7 +248,7 @@ public class Player : MonoBehaviour {
 		StartCoroutine("morrer");
 	}
 
-	private void Animar() { // Animações
+	protected void Animar() { // Animações
 		if(isGrounded) {
 			anim.SetBool("caiu", true);
 			StartCoroutine("animarCaida");
@@ -284,11 +281,11 @@ public class Player : MonoBehaviour {
 		Destroy(this.gameObject);
 	}
 
-	private void SpawnPedra() { // Spawn da plataforma
+	protected void SpawnPedra() { // Spawn da plataforma
 		Instantiate(chao, chaoSpawn.transform.position, chao.transform.rotation);
 	}
 
-	private void Salvar() { // Salvar o recorde do jogador se pontos for maior que recorde
+	protected virtual void Salvar() { // Salvar o recorde do jogador se pontos for maior que recorde
 		if(Pontuacao.GetPontos() > Pontuacao.GetRecorde()) {
 			recorde = Pontuacao.GetPontos();
 			PlayerPrefs.SetInt("recorde", recorde);
@@ -311,7 +308,7 @@ public class Player : MonoBehaviour {
 		pode_atirar = true;
 	}
 
-	 void Tirao() {
+	protected void Tirao() {
         if(umTiro) {
 			GameObject Super = Instantiate(superBullet, bulletSpawn.position, bulletSpawn.rotation);
 			if(!lookingRight)

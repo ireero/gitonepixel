@@ -9,9 +9,11 @@ public class Monstros : MonoBehaviour
     protected Rigidbody2D corpo_monstro;
     protected Collider2D collider_monstro;
     protected Animator anim;
+    protected SpriteRenderer sr;
 
     protected virtual void Start()
     {
+        sr = GetComponent<SpriteRenderer>();
         anim = GetComponent<Animator>();
         corpo_monstro = GetComponent<Rigidbody2D>();
         collider_monstro = GetComponent<Collider2D>();

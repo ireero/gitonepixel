@@ -543,13 +543,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cfa32aa7c61e1b44c84b82e8637aa444, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  monstro: {fileID: 8512276353931728745, guid: 9102bc6a64b833a4da213e873465de3a, type: 3}
-  monstro2: {fileID: 5398763923324166426, guid: d7f957e0373473644a7f5567947159cf,
-    type: 3}
-  monstro3: {fileID: 2998778651854174418, guid: 4dd92dd1f3efa914bb80a1a6769b930b,
-    type: 3}
-  monstro4: {fileID: 3812904347222606276, guid: 0689a87d3dca7aa4e8485ae75fbf4a33,
-    type: 3}
+  monstros_chao:
+  - {fileID: 8512276353931728745, guid: 9102bc6a64b833a4da213e873465de3a, type: 3}
+  - {fileID: 5398763923324166426, guid: d7f957e0373473644a7f5567947159cf, type: 3}
+  - {fileID: 2998778651854174418, guid: 4dd92dd1f3efa914bb80a1a6769b930b, type: 3}
+  - {fileID: 3812904347222606276, guid: 0689a87d3dca7aa4e8485ae75fbf4a33, type: 3}
   lugar: {fileID: 80388068}
 --- !u!1 &312241485
 GameObject:
@@ -759,21 +757,17 @@ MonoBehaviour:
     m_Bits: 256
   umTiro: 1
   lookingRight: 1
-  pode_atirar: 1
   isGrounded: 0
   bulletSpawn: {fileID: 1726616629}
   bulletObject: {fileID: 1072626718690227010, guid: da92f5c8211957e498e17a18835b19c4,
     type: 3}
-  pulo: {fileID: 8300000, guid: 04c1e6b059d30a0469ee5bf7ee9016bb, type: 3}
-  tiroAudio: {fileID: 8300000, guid: 213f74a803f3f6043bb05f3b0b2d079a, type: 3}
-  superBullet: {fileID: 7542459228647927355, guid: 77a0b33240ebb214288d31e9a53d6538,
-    type: 3}
   texto: {fileID: 2143069746}
   chaoSpawn: {fileID: 723618642}
   chao: {fileID: 8153079707032142118, guid: 7d3926c59b7a2664586760339b42df5b, type: 3}
-  som_morte: {fileID: 8300000, guid: 24d2da46060aab34499788e6c682d8f0, type: 3}
   derrota: {fileID: 1982473913}
-  som_background: {fileID: 0}
+  superBullet: {fileID: 7542459228647927355, guid: 77a0b33240ebb214288d31e9a53d6538,
+    type: 3}
+  btn_pausar: {fileID: 1887684985}
   padrao: {fileID: 1481338319}
 --- !u!1 &519420028
 GameObject:
@@ -1402,6 +1396,36 @@ RectTransform:
   m_AnchoredPosition: {x: -21.5, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &816280535
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 816280536}
+  m_Layer: 0
+  m_Name: spaw_inicial
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &816280536
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 816280535}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.71, y: 2.36, z: -86.05435}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &883187407
 GameObject:
   m_ObjectHideFlags: 0

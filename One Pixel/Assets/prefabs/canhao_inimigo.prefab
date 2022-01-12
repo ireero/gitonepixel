@@ -44,7 +44,6 @@ GameObject:
   - component: {fileID: 3812904347222606272}
   - component: {fileID: 3812904347222606143}
   - component: {fileID: 503974788}
-  - component: {fileID: 5249597371966153357}
   m_Layer: 0
   m_Name: canhao_inimigo
   m_TagString: mguenta
@@ -231,18 +230,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c91a4be7deff6746aca9d78be14431b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  velocidade: -0.2
+  valorVida: 3
   bulletSpawn: {fileID: 1597222091}
   bulletObject: {fileID: 5532741294532129320, guid: 37f2c9115b2df1e4b916ee4c14fa048d,
     type: 3}
---- !u!114 &5249597371966153357
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3812904347222606276}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8aa97fa6474fbbf43b3bd850e3b4e349, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 

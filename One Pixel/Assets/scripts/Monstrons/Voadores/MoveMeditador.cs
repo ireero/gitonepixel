@@ -11,12 +11,8 @@ public class MoveMeditador : MoveVoador
     public Transform bulletSpawn;
 	public GameObject bulletObject;
     private bool morto = false;
-    private int tiro_um;
+    private int tiro_um = 0;
     // Start is called before the first frame update
-    void Start()
-    {
-        tiro_um = 0;
-    }
 
     // Update is called once per frame
     protected override void Update()
@@ -26,13 +22,16 @@ public class MoveMeditador : MoveVoador
         if(tempo_atirar >= 5.0f) {
             tiro_um++;
             tempo_atirar = 0f;
+            Andar(this.velocidade);
+        } else {
+            if(tiro_um == 1) {
+                velocidade = 0;
+                anim.SetBool("atirando", true);
+                Fire();
+            }
         }
 
-        if(tiro_um == 1) {
-            velocidade = 0;
-            anim.SetBool("atirando", true);
-            Fire();
-        }
+        
     }
 
     IEnumerator tiro() {

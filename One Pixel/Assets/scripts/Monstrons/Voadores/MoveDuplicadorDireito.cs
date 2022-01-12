@@ -11,7 +11,6 @@ public class MoveDuplicadorDireito : MoveVoador
     private float velocidade_apos_morte = 5.3f;
     private Transform posicao_jogador;
     private bool morreu;
-    private SpriteRenderer sr;
     
     protected override void Start()
     {
@@ -19,7 +18,6 @@ public class MoveDuplicadorDireito : MoveVoador
         morreu = false;
         collider_trigger = GetComponent<EdgeCollider2D>();
         posicao_jogador = GameObject.FindGameObjectWithTag("Player").transform;
-        sr = GetComponent<SpriteRenderer>();
     }
 
     // Update is called once per frame
