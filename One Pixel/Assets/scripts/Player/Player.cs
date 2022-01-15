@@ -302,7 +302,7 @@ public class Player : MonoBehaviour {
 		anim.SetBool("objeto", false);
 	}
 
-	public void posTirao() {
+	protected void posTirao() {
 		rb2d.bodyType = RigidbodyType2D.Dynamic;
 		anim.SetBool("super_tiro", false);
 		pode_atirar = true;

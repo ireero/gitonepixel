@@ -152,17 +152,13 @@ MonoBehaviour:
   bulletSpawn: {fileID: 1992201706156998801}
   bulletObject: {fileID: 1072626718690227010, guid: da92f5c8211957e498e17a18835b19c4,
     type: 3}
-  pulo: {fileID: 8300000, guid: 04c1e6b059d30a0469ee5bf7ee9016bb, type: 3}
-  tiroAudio: {fileID: 8300000, guid: 213f74a803f3f6043bb05f3b0b2d079a, type: 3}
   texto: {fileID: 0}
   chaoSpawn: {fileID: 1992201706237578706}
   chao: {fileID: 8153079707032142118, guid: 7d3926c59b7a2664586760339b42df5b, type: 3}
   derrota: {fileID: 0}
   superBullet: {fileID: 0}
-  som_background: {fileID: 0}
-  som_morte: {fileID: 0}
   btn_pausar: {fileID: 0}
-  spawn_inicio: {fileID: 0}
+  padrao: {fileID: 0}
 --- !u!212 &1992201706350960368
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -203,7 +199,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -2
+  m_SortingOrder: -3
   m_Sprite: {fileID: 21300000, guid: c4aef746402f532458e13a2a692661a3, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0

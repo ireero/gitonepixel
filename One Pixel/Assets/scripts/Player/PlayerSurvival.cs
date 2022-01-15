@@ -31,19 +31,4 @@ public class PlayerSurvival : Player {
 			PlayerPrefs.SetInt("tempo", (int) tempo_vivo);
 		}
 	}
-
-	public void posTirao() {
-		rb2d.bodyType = RigidbodyType2D.Dynamic;
-		anim.SetBool("super_tiro", false);
-		pode_atirar = true;
-	}
-
-	void Tirao() {
-        if(umTiro) {
-			GameObject Super = Instantiate(superBullet, bulletSpawn.position, bulletSpawn.rotation);
-			if(!lookingRight)
-			Super.transform.eulerAngles = new Vector3(0, 0, 180);
-			umTiro = false;
-		}
-	}
 }
