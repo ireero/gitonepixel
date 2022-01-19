@@ -38,4 +38,9 @@ public class TiroTeleguiado : MoveVoador
         nasceu = true;
         anim.SetBool("nasceu", true);
     }
+
+    protected override void Morrer() {
+        base.Morrer();
+        velocidade = 0.2f;
+    }
 }

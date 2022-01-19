@@ -23,9 +23,6 @@ public class Pontuacao : MonoBehaviour {
 
     void Update() {
         txt_recorde.text = recorde.ToString();
-        if(recorde >= 1000) {
-            botao_sobreviver.interactable = true;
-        }
     }
 
     public static void Pontuar() {

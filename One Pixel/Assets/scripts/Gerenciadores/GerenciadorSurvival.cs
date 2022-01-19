@@ -33,9 +33,4 @@ public class GerenciadorSurvival : MonoBehaviour
             txt_instrucao.text = txt_instrucao_chi;
         }
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-    }
 }
