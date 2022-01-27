@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class PlayerSurvival : Player {
 
-	private float tempo_vivo = 0;
+	public static float tempo_vivo = 0;
 	
 	protected override void Update () {
 		tempo_vivo += Time.deltaTime;
@@ -13,7 +13,6 @@ public class PlayerSurvival : Player {
 			inputCheck ();
 			move ();
 		}
-		texto.text = tempo_vivo.ToString("F0");
 		Salvar();
 
 		if(isGrounded) {

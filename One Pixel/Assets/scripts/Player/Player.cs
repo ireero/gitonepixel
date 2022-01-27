@@ -26,7 +26,6 @@ public class Player : MonoBehaviour {
 	protected Animator anim;
 	protected bool caiu = false;
 
-	public Text texto;
 	protected BoxCollider2D playerCollider;
 	protected PolygonCollider2D colliderAbaixado;
 
@@ -90,7 +89,6 @@ public class Player : MonoBehaviour {
 			inputCheck ();
 			move ();
 		}
-		texto.text = Pontuacao.GetPontos().ToString();
 
 		if(isGrounded) {
 			podePor = false;

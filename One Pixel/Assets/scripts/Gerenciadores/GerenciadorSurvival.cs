@@ -8,6 +8,7 @@ public class GerenciadorSurvival : MonoBehaviour
     public Text txt_pausado;
     public Text txt_perdeu;
     public Text txt_instrucao;
+    public Text txt_tempo;
 
     // Portugues
     private string txt_pausado_br  = "Pausado";
@@ -32,5 +33,9 @@ public class GerenciadorSurvival : MonoBehaviour
             txt_perdeu.text = txt_perdeu_chi;
             txt_instrucao.text = txt_instrucao_chi;
         }
+    }
+
+    void Update() {
+        txt_tempo.text = PlayerSurvival.tempo_vivo.ToString("F0");
     }
 }

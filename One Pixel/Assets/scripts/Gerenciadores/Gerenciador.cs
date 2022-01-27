@@ -15,6 +15,8 @@ public class Gerenciador : MonoBehaviour
     public Text txt_perdeu;
     public Text txt_instrucao;
 
+    public Text texto_pontuacao;
+
     // Portugues
     private string txt_pausado_br  = "Pausado";
     private string txt_perdeu_br = "Voce Perdeu";
@@ -48,6 +50,9 @@ public class Gerenciador : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
+        texto_pontuacao.text = Pontuacao.GetPontos().ToString();
+
         if(mortes_player == 20) {
             var ach = new Achievement("REALLY");
             ach.Trigger();
