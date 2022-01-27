@@ -24,7 +24,6 @@ public class Player : MonoBehaviour {
 
 	// Animações
 	protected Animator anim;
-	protected float duracaoAnim;
 	protected bool caiu = false;
 
 	public Text texto;
@@ -63,7 +62,7 @@ public class Player : MonoBehaviour {
 
 	public Transform padrao;
 
-	void Start () {
+	protected virtual void Start () {
 		podeVirar = false;
 		virado = false;
 		taxa_tiros = 0.25f;
@@ -82,22 +81,11 @@ public class Player : MonoBehaviour {
 		Pontuacao.time = 0;
 	}
 	
-	void Update () {
+	protected virtual void Update () {
 
-		if(final) {
-			if(umaVez2 == 0) {
-				anim.SetBool("objeto", true);
-				StartCoroutine("cairObjeto");
-				umaVez2++;
-			}
-			StartCoroutine("finalJogo");
-		}
-		if(Pontuacao.monstros >= 1000 && umaVez == 0) {
-			btn_pausar.gameObject.SetActive(false);
-			PainelPause.final = true;
-            SpawnChao.podeSopawn = false;
-			umaVez++;
-        }
+		Final();
+		Pontuacoes();
+		
 		if(pode_mover) {
 			inputCheck ();
 			move ();
@@ -164,6 +152,26 @@ public class Player : MonoBehaviour {
 				anim.SetBool("super_tiro", true);
 			}
 			} 
+		}
+	}
+
+	void Pontuacoes() {
+		if(Pontuacao.monstros >= 1000 && umaVez == 0) {
+			btn_pausar.gameObject.SetActive(false);
+			PainelPause.final = true;
+            SpawnChao.podeSopawn = false;
+			umaVez++;
+        }
+	}
+
+	void Final() {
+		if(final) {
+			if(umaVez2 == 0) {
+				anim.SetBool("objeto", true);
+				StartCoroutine("cairObjeto");
+				umaVez2++;
+			}
+			StartCoroutine("finalJogo");
 		}
 	}
 

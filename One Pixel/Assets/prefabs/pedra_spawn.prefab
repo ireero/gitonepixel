@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 8153079707032142121}
   - component: {fileID: 5515059001779354187}
   - component: {fileID: 1790986186}
+  - component: {fileID: -7622800625811772523}
   m_Layer: 8
   m_Name: pedra_spawn
   m_TagString: pedras
@@ -97,7 +98,7 @@ BoxCollider2D:
   m_Density: 1
   m_Material: {fileID: 6200000, guid: 865ce3289e6103e4a8ea6ed2fdd89f36, type: 2}
   m_IsTrigger: 0
-  m_UsedByEffector: 0
+  m_UsedByEffector: 1
   m_UsedByComposite: 0
   m_Offset: {x: 0.0007145405, y: -0.0023264587}
   m_SpriteTilingProperty:
@@ -144,3 +145,22 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!251 &-7622800625811772523
+PlatformEffector2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8153079707032142118}
+  m_Enabled: 1
+  m_UseColliderMask: 1
+  m_ColliderMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RotationalOffset: 0
+  m_UseOneWay: 1
+  m_UseOneWayGrouping: 0
+  m_SurfaceArc: 180
+  m_UseSideFriction: 0
+  m_UseSideBounce: 0
+  m_SideArc: 1

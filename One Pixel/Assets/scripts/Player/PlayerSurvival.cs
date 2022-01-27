@@ -7,7 +7,7 @@ public class PlayerSurvival : Player {
 
 	private float tempo_vivo = 0;
 	
-	void Update () {
+	protected override void Update () {
 		tempo_vivo += Time.deltaTime;
 		if(pode_mover) {
 			inputCheck ();

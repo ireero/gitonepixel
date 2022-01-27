@@ -7,10 +7,12 @@ public class PedraChao : MonoBehaviour
     private Animator animator;
     private BoxCollider2D collider_pedra;
     public float tempo;
+    private bool pode_eliminar;
 
     // Start is called before the first frame update
     void Start()
     {   
+        pode_eliminar = false;
         tempo = 0f;
         collider_pedra = GetComponent<BoxCollider2D>();
         animator = GetComponent<Animator>();
@@ -23,16 +25,27 @@ public class PedraChao : MonoBehaviour
         if(tempo >= 2.0f) {
             Destroy(this.gameObject);
         }
+
+        if(Input.GetKeyDown(KeyCode.LeftShift) && pode_eliminar) {
+            Destroy(this.gameObject);
+        }
     }
 
     public void OnCollisionEnter2D(Collision2D other) {
         if(other.gameObject.CompareTag("Player")) {
             animator.SetBool("pisou", true);
+            pode_eliminar = true;
         } else if(other.gameObject.CompareTag("super_tiro") || other.gameObject.CompareTag("bullet_inimiga") ||
             other.gameObject.CompareTag("monstro")) {
             animator.SetBool("destruida", true);
             StartCoroutine("morrer");
         }    
+    }
+
+    private void OnCollisionExit2D(Collision2D other) {
+        if(other.gameObject.CompareTag("Player")) {
+            pode_eliminar = false;
+        }
     }
 
     private void OnTriggerEnter2D(Collider2D other) {

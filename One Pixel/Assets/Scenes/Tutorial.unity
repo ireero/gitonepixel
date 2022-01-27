@@ -783,15 +783,20 @@ MonoBehaviour:
   whatIsGround:
     serializedVersion: 2
     m_Bits: 256
+  umTiro: 1
   lookingRight: 1
   isGrounded: 0
   bulletSpawn: {fileID: 992296092}
   bulletObject: {fileID: 1072626718690227010, guid: da92f5c8211957e498e17a18835b19c4,
     type: 3}
-  pulo: {fileID: 8300000, guid: 04c1e6b059d30a0469ee5bf7ee9016bb, type: 3}
-  tiroAudio: {fileID: 8300000, guid: 213f74a803f3f6043bb05f3b0b2d079a, type: 3}
+  texto: {fileID: 0}
   chaoSpawn: {fileID: 130207378}
   chao: {fileID: 8153079707032142118, guid: 7d3926c59b7a2664586760339b42df5b, type: 3}
+  derrota: {fileID: 0}
+  superBullet: {fileID: 6632387921246053052, guid: d206f236556931e4fbd4bce0f443bc0c,
+    type: 3}
+  btn_pausar: {fileID: 0}
+  padrao: {fileID: 0}
 --- !u!1 &1124762621
 GameObject:
   m_ObjectHideFlags: 0
