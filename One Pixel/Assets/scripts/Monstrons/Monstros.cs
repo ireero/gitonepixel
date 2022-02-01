@@ -46,6 +46,10 @@ public class Monstros : MonoBehaviour
                 Morrer();
             }
         }
+
+        if(other.gameObject.CompareTag("power_velocity")) {
+            velocidade += (velocidade / 1.5f);
+        }
     }
 
     protected virtual void Morrer() {

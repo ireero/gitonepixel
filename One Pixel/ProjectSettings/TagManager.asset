@@ -22,6 +22,7 @@ TagManager:
   - chefao
   - parar_chefe
   - chao
+  - power_velocity
   layers:
   - Default
   - TransparentFX

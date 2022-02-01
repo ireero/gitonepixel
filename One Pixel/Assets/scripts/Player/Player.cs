@@ -230,6 +230,8 @@ public class Player : MonoBehaviour {
 			speed -= 0.6f;
 			jumpForce -= 9f;
 			valor_entrada++;
+		} else if(other.gameObject.CompareTag("bullet_inimiga")) {
+			Morrer();
 		}
 	}
 

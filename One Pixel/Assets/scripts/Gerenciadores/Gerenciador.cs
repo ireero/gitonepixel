@@ -62,43 +62,7 @@ public class Gerenciador : MonoBehaviour
             StartCoroutine("aparecerVilao");
         }
 
-        if(Pontuacao.GetPontos() == 100) {
-            var ach = new Achievement("100");
-            ach.Trigger();
-        } else if(Pontuacao.GetPontos() == 200) {
-            var ach = new Achievement("200");
-            ach.Trigger();
-        } else if(Pontuacao.GetPontos() == 300) {
-            var ach = new Achievement("300");
-            ach.Trigger();
-        } else if(Pontuacao.GetPontos() == 400) {
-            var ach = new Achievement("400");
-            ach.Trigger();
-        } else if(Pontuacao.GetPontos() == 500) {
-            var ach = new Achievement("500");
-            ach.Trigger();
-        } else if(Pontuacao.GetPontos() == 600) {
-            var ach = new Achievement("600");
-            ach.Trigger();
-        } else if(Pontuacao.GetPontos() == 700) {
-            var ach = new Achievement("700");
-            ach.Trigger();
-        } else if(Pontuacao.GetPontos() == 800) {
-            var ach = new Achievement("800");
-            ach.Trigger();
-        } else if(Pontuacao.GetPontos() == 900) {
-            var ach = new Achievement("900");
-            ach.Trigger();
-        }
-
-        if(Pontuacao.GetPontos() == 1000) {
-             if(conquista_olhos_vermelhos == 0) {
-                var ach = new Achievement("RED_EYES");
-                ach.Trigger();
-                conquista_olhos_vermelhos++;
-                PlayerPrefs.SetInt("conquista_olhos_vermelhos", conquista_olhos_vermelhos);
-            }
-        }
+        Conquistas();
 
         if(Player.final == true) {
             StartCoroutine("desaparecePainel");
@@ -109,6 +73,55 @@ public class Gerenciador : MonoBehaviour
         yield return new WaitForSeconds(20f);
         if(umaVez == 1) {
             vilao.gameObject.SetActive(true);
+        }
+    }
+
+    public void Conquistas() {
+        switch(Pontuacao.GetPontos()) {
+            case 100:
+                var ach1 = new Achievement("100");
+                ach1.Trigger();
+                break;
+            case 200:
+                var ach2 = new Achievement("200");
+                ach2.Trigger();    
+                break;
+            case 300:
+                var ach3 = new Achievement("300");
+                ach3.Trigger();    
+                break;
+            case 400:
+                var ach4 = new Achievement("400");
+                ach4.Trigger();    
+                break;
+            case 500:
+                var ach5 = new Achievement("500");
+                ach5.Trigger();    
+                break;
+            case 600:
+                var ach6 = new Achievement("600");
+                ach6.Trigger();    
+                break;
+            case 700:
+                var ach7 = new Achievement("700");
+                ach7.Trigger();    
+                break;
+            case 800:
+                var ach8 = new Achievement("800");
+                ach8.Trigger();    
+                break;
+            case 900:
+                var ach9 = new Achievement("900");
+                ach9.Trigger();    
+                break;
+            case 1000:
+                if(conquista_olhos_vermelhos == 0) {
+                    var ach10 = new Achievement("RED_EYES");
+                    ach10.Trigger();
+                    conquista_olhos_vermelhos++;
+                    PlayerPrefs.SetInt("conquista_olhos_vermelhos", conquista_olhos_vermelhos);
+                }
+                break;
         }
     }
 
