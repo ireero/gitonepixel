@@ -25,7 +25,7 @@ public class SpanwCimaEBaixo : MonoBehaviour
     }
     void Update()
     {
-        if(Pontuacao.GetPontos() >= 5) {
+        if(Pontuacao.GetPontos() >= 100 || PlayerSurvival.tempo_vivo >= 5f) {
             
             tempo_sem_lancar_baixo += Time.deltaTime;
             tempo_sem_lancar_cima += Time.deltaTime;

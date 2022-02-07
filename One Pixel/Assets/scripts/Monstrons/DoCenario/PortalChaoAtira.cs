@@ -14,7 +14,7 @@ public class PortalChaoAtira : MonoBehaviour
     }
 
     IEnumerator atirarESumir() {
-        yield return new WaitForSeconds(0.8f);
+        yield return new WaitForSeconds(0.5f);
         anim.SetBool("sumir", true);
     }
     

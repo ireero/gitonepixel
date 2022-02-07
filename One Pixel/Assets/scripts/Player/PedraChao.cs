@@ -23,7 +23,7 @@ public class PedraChao : MonoBehaviour
     {
         tempo += Time.deltaTime;
         if(tempo >= 2.0f) {
-            Destroy(this.gameObject);
+            animator.SetBool("sumir", true);
         }
 
         if(Input.GetKeyDown(KeyCode.LeftShift) && pode_eliminar) {
@@ -52,6 +52,10 @@ public class PedraChao : MonoBehaviour
         if(other.gameObject.CompareTag("mago")) {
             tempo += 0.35f;
         }
+    }
+
+    public void DestruirDeVez() {
+        Destroy(this.gameObject);
     }
 
     IEnumerator morrer() {

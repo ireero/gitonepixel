@@ -61,7 +61,16 @@ public class Player : MonoBehaviour {
 
 	public Transform padrao;
 
+	protected float dashAtual;
+    protected bool canDash;
+    protected float duracaoDash;
+    protected float dashSpeed;
+
 	protected virtual void Start () {
+		canDash = true;
+        dashSpeed = 20;
+      	duracaoDash = 0.1f;
+      	dashAtual = duracaoDash;
 		podeVirar = false;
 		virado = false;
 		taxa_tiros = 0.25f;
@@ -88,6 +97,7 @@ public class Player : MonoBehaviour {
 		if(pode_mover) {
 			inputCheck ();
 			move ();
+			Dash();
 		}
 
 		if(isGrounded) {
@@ -142,16 +152,40 @@ public class Player : MonoBehaviour {
 					cont = 0;
 				}
 			}
-
-			if(Pontuacao.GetPontos() >= 100) {
-				if(Input.GetKeyDown(KeyCode.Space)) {
-				rb2d.bodyType = RigidbodyType2D.Static;
-				pode_atirar = false;
-				anim.SetBool("super_tiro", true);
-			}
-			} 
 		}
 	}
+
+	protected void Dash() {
+      if((Input.GetKey(KeyCode.Space) || Input.GetMouseButton(2)) && canDash) {
+         if(Input.GetKeyDown(KeyCode.Space) || Input.GetMouseButtonDown(2)) {
+            // Aqui vai ficar o som do dash
+         }
+         if(dashAtual <= 0) {
+            StopDash();
+         } else {
+            if(isGrounded) {
+               // Aqui vai ficar a criação de sujeira (quando tiver no chão)
+            }
+            dashAtual -= Time.deltaTime;
+            if(lookingRight) {
+               rb2d.velocity = Vector2.right * dashSpeed;
+            } else {
+               rb2d.velocity = Vector2.left * dashSpeed;
+            }
+         }
+      }
+
+      if(isGrounded) {
+         canDash = true;
+         dashAtual = duracaoDash;
+      } 
+   }
+
+   protected void StopDash() {
+      rb2d.velocity = Vector2.zero;
+      dashAtual = duracaoDash;
+      canDash = false;
+   }
 
 	void Pontuacoes() {
 		if(Pontuacao.monstros >= 1000 && umaVez == 0) {
@@ -308,20 +342,5 @@ public class Player : MonoBehaviour {
 	IEnumerator cairObjeto() {
 		yield return new WaitForSeconds(0.7f);
 		anim.SetBool("objeto", false);
-	}
-
-	protected void posTirao() {
-		rb2d.bodyType = RigidbodyType2D.Dynamic;
-		anim.SetBool("super_tiro", false);
-		pode_atirar = true;
-	}
-
-	protected void Tirao() {
-        if(umTiro) {
-			GameObject Super = Instantiate(superBullet, bulletSpawn.position, bulletSpawn.rotation);
-			if(!lookingRight)
-			Super.transform.eulerAngles = new Vector3(0, 0, 180);
-			umTiro = false;
-		}
 	}
 }
